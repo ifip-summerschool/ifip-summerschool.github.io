@@ -1,0 +1,46 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+:root {
+  --digit-main-primary: #06A69E;
+  --digit-main-secondary: #066862;
+  --digit-main-third: #A8D2CF;
+
+  --digit-accent-red: #712233;
+  --digit-accent-red-light: #B18487;
+
+  --digit-accent-blue: #009FC3;
+  --digit-accent-blue-light: #A1CEE2;
+
+  --digit-accent-orange: #F28E39;
+  --digit-accent-orange-light: #FBC89E;
+
+  --digit-accent-grey: #9D9D9C;
+}
+
+a {
+  color: blue;
+}
+
+#site-nav > .site-title {
+  color: var(--digit-main-secondary);
+}
+
+#site-nav .site-subtitle {
+  color: var(--digit-main-primary);
+}
+
+/* Pages Title Color */
+#page-title > a {
+  color: var(--digit-main-secondary);
+}
+
+h2 {
+  color: var(--digit-main-primary);
+}
