@@ -34,7 +34,7 @@ A workshop is an interactive session that is planned for one or two hours. In it
 
 Tutorials are one or two hour long presentations. They should deal with topics that are of interest for the interdisciplinary audience in the summer school. They should provide knowledge on theoretical, empirical, methodological, practical or other aspects relevant for the summer school. Proposals should contain a 2-page summary and state the level and background required for audience members to follow the tutorial.
 
-Submissions need to be in English language, and must be submitted electronically using the following link: 
+Submissions need to be in English language, and must be submitted electronically using the following link: <https://easychair.org/my/conference?conf=ifipsc2022>
 
 ## Possible Topics (can include, but are not limited to)
 
