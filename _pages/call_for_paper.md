@@ -1,5 +1,5 @@
 ---
-title: "Call for Paper"
+title: "Call for Papers"
 permalink: /call_for_paper/
 toc: true
 toc_sticky: true
