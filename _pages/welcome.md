@@ -8,7 +8,7 @@ header:
 ---
 
 ## Participation in a digital society
-**29. Aug - 02. Sep 2022; Brunswick, Germany**
+**29. Aug - 02. Sep 2022, Brunswick, Germany**
 
 
 ## Holistic approach and interdisciplinarity
