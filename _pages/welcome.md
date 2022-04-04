@@ -24,3 +24,7 @@ The research paper presentations and the workshops have a particular focus on in
 To this end, the School has a three-phase review process for submitted papers. In the first phase submitted papers are reviewed and selected for presentation at the School. After the School, these papers are revised to benefit from the discussion that occurred at the School, and are then reviewed again for inclusion in the School’s proceedings which will be published by Springer.
 
 Every year an award is given for the Best Student Paper. Submissions by senior researchers and participants in European, national, or regional/community research projects are also very welcome, and are generally published in a separate section of the book volume.
+
+| |
+| -- |
+| ![](/assets/images/logos/ifip.jpg) | |
