@@ -30,6 +30,20 @@ Using the Template [Minimal Mistakes](https://github.com/mmistakes/minimal-mista
 
 ### main.scss
 conatinins current Coloring Scheme for page defined as variables. Main and secondary accents can be adapted easily here.
+````css
+
+:root {
+  /* colors are defined on top e.g. */
+  --digit-main-first: #06A69E;
+  --digit-main-second: #066862;
+  --digit-main-third: #A8D2CF;
+
+  /* these are the important values (primary- & secondary-color) that are reused for styling later
+  either define new values on top and use them via var(yourVariable) or set color here directly */
+  --primary-color: var(--digit-main-second);
+  --secondary-color: var(--digit-main-first);
+}
+````
 
 ### _config.yml
 containing important titles and behavior of the site in general (*the following is just a description and not the correct syntax*) e.g.
