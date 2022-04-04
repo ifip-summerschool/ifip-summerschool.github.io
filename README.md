@@ -1,7 +1,8 @@
 # ifip-summerschool.github.io
 
-Website for IFIP Summerschool provided via Github Pages.
-Using the Template [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) providing well documented [Quick Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+Website for IFIP Summerschool provided via Github Pages (reachable under: 
+https://ifip-summerschool.github.io).
+Using the Template [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) providing well documented [Quick Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
 ## Directory Layout
 ```terminal
