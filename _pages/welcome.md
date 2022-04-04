@@ -5,6 +5,20 @@ header:
   image: /assets/images/braunschweig_steffen_schwarz.jpg
   image_description: "Brunswick Cathedral by Steffen Schwarz"
   caption: "Brunswick Cathedral - Photo credit: Steffen Schwarz"
+
+logos:
+  - url: /assets/images/logos/ifip.jpg
+    image_path: /assets/images/logos/ifip-th.jpg
+    alt: "IFIP"
+    title: "IFIP"
+  - url: /assets/images/logos/forum_privatheit.png
+    image_path: /assets/images/logos/forum_privatheit-th.png
+    alt: "Forum Privatheit"
+    title: "Forum Privatheit"
+#  - url: /assets/images/logos/CyberSecForEu.jpg
+#    image_path: /assets/images/logos/CyberSecForEu-th.jpg
+#    alt: "CyberSecForEu"
+#    title: "CyberSecForEu"
 ---
 
 ## Participation in a digital society
@@ -25,6 +39,5 @@ To this end, the School has a three-phase review process for submitted papers. I
 
 Every year an award is given for the Best Student Paper. Submissions by senior researchers and participants in European, national, or regional/community research projects are also very welcome, and are generally published in a separate section of the book volume.
 
-| |
-| -- |
-| ![](/assets/images/logos/ifip.jpg) | |
+
+{% include gallery id="logos" %}
