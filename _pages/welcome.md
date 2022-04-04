@@ -1,11 +1,15 @@
 ---
-title: "Welcome"
+title: "17th IFIP Summer School on Privacy and Identity Management 2022"
 permalink: /
 header:
   image: /assets/images/braunschweig_steffen_schwarz.jpg
   image_description: "Brunswick Cathedral by Steffen Schwarz"
   caption: "Brunswick Cathedral - Photo credit: Steffen Schwarz"
 ---
+
+## Participation in a digital society
+**29. Aug - 02. Sep 2022; Brunswick, Germany**
+
 
 ## Holistic approach and interdisciplinarity
 
