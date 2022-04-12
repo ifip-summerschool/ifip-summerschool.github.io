@@ -23,6 +23,7 @@ logos:
 
 ## Participation in a digital society
 **29. August - 02. September 2022, Brunswick, Germany**
+**Abstracts Deadline	06. May 2022 23:59 (AoE)**
 
 
 ## Holistic approach and interdisciplinarity
