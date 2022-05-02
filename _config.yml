@@ -26,6 +26,11 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/IFIP_PrivacyIdM"
+    - label: "Legal Notice"
+      url: "/legal_notice/"
+    - label: "Privacy Policy"
+      url: "/privacy_policy/"
+
 
 atom_feed:
   hide: true
