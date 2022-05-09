@@ -26,6 +26,12 @@ logos:
 
 **Abstracts Deadline Extended	~~06. May 2022 23:59 (AoE)~~ 22. May 2022 23:59 (AoE)**
 
+## General information
+
+In 2022, the DIGIT Center of Digital research will welcome you to the 17th IFIP Summer School on Privacy and Identity Management at [Haus der Wissenschaft](https://www.hausderwissenschaft.org/) in Brunswick. This years topic is **Participation in a digital society**. 
+
+It is our intention to organize the summerschool as an onsite event. Approximate cost for an onsite event will be approximately 500€. There will be a 10% discount for IFIP members. For students from emerging economies, it is possible to apply for support from the IFIP Digital Equity Fund.
+
 
 ## Holistic approach and interdisciplinarity
 
@@ -33,7 +39,7 @@ The IFIP Summer Schools take a holistic approach to society and technology and s
 
 ## Workshops and scientific papers
 
-The research paper presentations and the workshops have a particular focus on involving students, and on encouraging the publication of high-quality, thorough research papers by students/young researchers.
+The research paper presentations and the workshops have a particular focus on involving students, and on encouraging the publication of high-quality, thorough research papers by students/young researchers. For each paper at least one of the authors needs to enregister to the summerschool.
 
 ## Best paper award and Springer
 
