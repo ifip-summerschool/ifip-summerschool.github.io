@@ -2,10 +2,10 @@
 title: "Important Dates"
 permalink: /important_dates/
 ---
-
+[comment]: # (<span style="color: red">**Abstracts Deadline Extended	~~06. May 2022 23:59 (AoE)~~ 22. May 2022 23:59 (AoE)**</span>)
 | Event | Deadline |
 | -- | -- |
-| **Abstracts Deadline Extended** | ~~06. May 2022 23:59 (AoE)~~  **22. May 2022 23:59 (AoE)**|
+| <span style="color: red">**Abstracts Deadline Extended** | ~~06. May 2022 23:59 (AoE)~~  **22. May 2022 23:59 (AoE)**</span>|
 | **Acceptance Decision:** | 27. May 2022 (AoE) |
 | **Full Draft Paper:** | 12. Aug 2022 23:59 (AoE) |
 | **Summer School:** | 29. Aug - 02. Sep 2022 |
