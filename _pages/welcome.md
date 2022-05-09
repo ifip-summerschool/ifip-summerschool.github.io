@@ -24,12 +24,12 @@ logos:
 ## Participation in a digital society
 **29. August - 02. September 2022, Brunswick, Germany**
 
-**Abstracts Deadline <span style="color: red">Extended</span>	~~06. May 2022 23:59 (AoE)~~ 22. May 2022 23:59 (AoE)** 
+<span style="color: red">**Abstracts Deadline Extended	~~06. May 2022 23:59 (AoE)~~ 22. May 2022 23:59 (AoE)**</span>
 {: .notice--danger}
 
 ## General information
 
-In 2022, the DIGIT Center of Digital research will welcome you to the 17th IFIP Summer School on Privacy and Identity Management at [Haus der Wissenschaft](https://www.hausderwissenschaft.org/) in Brunswick. This years topic is **Participation in a digital society**. 
+In 2022, the DIGIT Center for Digital Technologies will welcome you to the 17th IFIP Summer School on Privacy and Identity Management at [Haus der Wissenschaft](https://www.hausderwissenschaft.org/) in Brunswick. This years topic is **Participation in a digital society**. 
 
 It is our intention to organize the summerschool as an onsite event. Approximate cost for an onsite event will be approximately 500€. There will be a 10% discount for IFIP members. For students from emerging economies, it is possible to apply for support from the IFIP Digital Equity Fund.
 
