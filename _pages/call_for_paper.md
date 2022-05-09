@@ -102,4 +102,4 @@ Course certificates for 1,5 or in total 3 ECTS at PhD level can be issued by Kar
 
 - Additional 1,5 ECTS will be awarded to students who in addition to delivering a pre-event abstract of their own research article,  pass a peer review of a full article based on feedback from the summer school that will be performed post-event.
 
-We encourage submissions from students from emerging economies: support is innovation history of being applied to from the IFIP Digital Equity Fund to ease student travel.
+We encourage submissions from students from emerging economies: it is possible to apply for support from the IFIP Digital Equity Fund to ease student travel.
