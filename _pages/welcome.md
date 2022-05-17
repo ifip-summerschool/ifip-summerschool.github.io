@@ -48,5 +48,13 @@ To this end, the School has a three-phase review process for submitted papers. I
 
 Every year an award is given for the Best Student Paper. Submissions by senior researchers and participants in European, national, or regional/community research projects are also very welcome, and are generally published in a separate section of the book volume.
 
+## IFIP Digital Equity Fund
+
+PhD and MSc students from developing countries may apply for a travel grant. Grantees will receive a bank deposit after attending the conference
+if they participate in person in the event. The grant can be only used to cover transportation costs up to a maximum of 500 EUR.
+
+To apply for the grant students need to submit their abstract, send an informal request to receive the grant along with an estimation of the travel costs and a CV. Applications will be evaluated in parallel to the submitted abstracts starting from May 22nd. Later application might still be considered if there are funds left.
+
+Successful applications will be reimbursed after the event and need to provide a signed payment form, a copy of the ticket receipt, a copy of the boarding pass, a report including photographs grantee´s participation on the event, and stating the possible impact it may have. 
 
 {% include gallery id="logos" %}
