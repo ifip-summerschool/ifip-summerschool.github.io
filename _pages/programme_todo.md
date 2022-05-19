@@ -1,6 +1,6 @@
 ---
 title: "Programme"
-permalink: /programme_tbd/
+permalink: /programme_preview/
 toc: true
 ---
 
