@@ -15,6 +15,11 @@ logos:
     image_path: /assets/images/logos/forum_privatheit-th.png
     alt: "Forum Privatheit"
     title: "Forum Privatheit"
+  - url: /assets/images/logos/LWC_PdP_rgb_english.png
+    image_path: /assets/images/logos/LWC_PdP_rgb_english_th.png
+    alt: "Leibniz-WissenschaftsCampus - Postdigitale Partizipation - Braunschweig"
+    title: "Leibniz-WissenschaftsCampus - Postdigitale Partizipation - Braunschweig"
+
 #  - url: /assets/images/logos/CyberSecForEu.jpg
 #    image_path: /assets/images/logos/CyberSecForEu-th.jpg
 #    alt: "CyberSecForEu"
