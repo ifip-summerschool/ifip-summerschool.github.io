@@ -22,7 +22,7 @@ plugins:
 footer:
   links:
     - label: "DIGIT - Center for Digital Technologies"
-      url: "https://www.digit-research.de/en/"
+      url: "https://www.digit-research.de/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/IFIP_PrivacyIdM"

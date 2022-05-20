@@ -4,7 +4,7 @@ permalink: /
 header:
   image: /assets/images/braunschweig_steffen_schwarz.jpg
   image_description: "Brunswick Cathedral by Steffen Schwarz"
-  caption: "Brunswick Cathedral - Photo credit: Steffen Schwarz"
+  #caption: "Brunswick Cathedral - Photo credit: Steffen Schwarz"
 
 logos:
   - url: /assets/images/logos/ifip.jpg
@@ -36,7 +36,7 @@ logos:
 
 In 2022, the DIGIT Center for Digital Technologies will welcome you to the 17th IFIP Summer School on Privacy and Identity Management at [Haus der Wissenschaft](https://www.hausderwissenschaft.org/) in Brunswick. This years topic is **Participation in a digital society**. 
 
-It is our intention to organize the summerschool as an onsite event. Approximate cost for an onsite event will be approximately 500€. There will be a 10% discount for IFIP members. For students from emerging economies, it is possible to apply for support from the IFIP Digital Equity Fund.
+It is our intention to organize the summerschool as an onsite event. Approximate cost for an onsite event will be approximately 500€. There will be a 10% discount for IFIP members. For students from emerging economies, it is possible to apply for support from the IFIP Digital Equity Fund.
 
 
 ## Holistic approach and interdisciplinarity
@@ -61,4 +61,4 @@ To apply for the grant students need to submit their abstract, send an informal 
 
 Successful applications will be reimbursed after the event and need to provide a signed payment form, a copy of the ticket receipt, a copy of the boarding pass, a report including photographs grantee´s participation on the event, and stating the possible impact it may have. 
 
-{% include gallery id="logos" %}
+{% include gallery id="logos" layout="" %}
