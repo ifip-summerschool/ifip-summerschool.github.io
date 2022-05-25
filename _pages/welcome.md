@@ -27,7 +27,7 @@ logos:
 ---
 
 ## Participation in a digital society
-**29. August - 02. September 2022, Brunswick, Germany**
+**30. August - 02. September 2022, Brunswick, Germany**
 
 **Abstracts Deadline Extended**	~~06. May 2022 23:59 (AoE)~~ <span style="color: red">**31. May 2022 23:59 (AoE)**</span><br>
 **The IFIP summerschool will be held as a virtual event.**
