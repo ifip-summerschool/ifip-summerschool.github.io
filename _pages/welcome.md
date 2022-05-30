@@ -19,11 +19,10 @@ logos:
     image_path: /assets/images/logos/LWC_PdP_rgb_english_th.png
     alt: "Leibniz-WissenschaftsCampus - Postdigitale Partizipation - Braunschweig"
     title: "Leibniz-WissenschaftsCampus - Postdigitale Partizipation - Braunschweig"
-
-#  - url: /assets/images/logos/CyberSecForEu.jpg
-#    image_path: /assets/images/logos/CyberSecForEu-th.jpg
-#    alt: "CyberSecForEu"
-#    title: "CyberSecForEu"
+  - url: /assets/images/logos/CyberSecForEu.jpg
+    image_path: /assets/images/logos/CyberSecForEu-th.jpg
+    alt: "CyberSecForEu"
+    title: "CyberSecForEu"
 ---
 
 ## Participation in a digital society
