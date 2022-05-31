@@ -9,7 +9,7 @@ toc: true
 **Os Keyes - Keynote Title**
 ![](/assets/images/keynotes/os_keyes.png){: .align-left}
 
-**Os Keyes** is a researcher and writer at the University of Washington. Their work focuses on questions of gender, disability, technology and power, with a particular interest in machine learning, biomedicine and the intersection thereof. An inaugural Ada Lovelace Fellow, their work has been published in CSCW, CHI, *Cultural Studies* and a range of media venues, including *Vice, Wired* and *Logic* magazines. 
+**Os Keyes** ([Website](https://ironholds.org/)) is a researcher and writer at the University of Washington. Their work focuses on questions of gender, disability, technology and power, with a particular interest in machine learning, biomedicine and the intersection thereof. An inaugural Ada Lovelace Fellow, their work has been published in CSCW, CHI, *Cultural Studies* and a range of media venues, including *Vice, Wired* and *Logic* magazines. 
 
 <br>
 
@@ -21,6 +21,12 @@ toc: true
 <br>
 
 **Mary Shnayien**
+
 <br>
 
-**Christian Buggedei**
+
+**Christian Buggedei - Keynote Title**
+![](/assets/images/keynotes/c_buggedei.jpg){: .align-left}
+
+**Christian Buggedei** has more than 20 years of IT experience across all industries from the plumbing business around the corner to large public institutions. He is currently Product Owner at polypoly, a cooperative for all European citizens working on a new infrastructure for the data economy.
+
