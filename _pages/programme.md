@@ -20,7 +20,10 @@ toc: true
 
 <br>
 
-**Mary Shnayien**
+**Dr. des. Mary Shnayien - Keynote Title**
+![](/assets/images/keynotes/m_shnayien.jpg){: .align-left}
+
+**Mary Shnayien** is a postdoctoral researcher associated with the Institute for Media Studies at Ruhr University Bochum and member of the DFG Research Network /Gender, Media and Affect/. She holds a PhD in media studies and comes from a background of theatre, media and gender studies. Her dissertation "Die unsicheren Kanäle. Negative und queere Sicherheit in Kryptologie und Informatik" will be published with /transcript/ this fall and focuses on the history and mediality of concepts of security in cryptology, IT security, and queer activism. Other research areas include digital cultures, economies, and infrastructures, as well as political affects and the intersections of media, gender, and race.
 
 <br>
 
