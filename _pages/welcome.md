@@ -32,12 +32,14 @@ logos:
 **The IFIP summerschool will be held as a virtual event.**
 {: .notice--danger}
 
+[**Registration is open**](https://ifip-summerschool.github.io/registration/)
+
+
 ## General information
 
 In 2022, the DIGIT Center for Digital Technologies will welcome you to the 17th IFIP Summer School on Privacy and Identity Management. This years topic is **Participation in a digital society**. 
 
 **The IFIP summerschool will be held as a virtual event and participation is free of charge**
-
 
 ## Holistic approach and interdisciplinarity
 
