@@ -12,160 +12,125 @@ toc: true
 
 **10:15 - 10:30 Break**
 
-**10:30 - 12:00 Session: Privacy and User Perception**
-
+**10:30 - 12:00 Session: Privacy and User Perception** <br>
 Session Chair: Joachim Meyer
 
-Vera Schmitt
-
+Vera Schmitt <br>
 *Influence of Privacy Knowledge on Privacy Attitudes in the Domain of Location-Based Services*
 
-Abylay Satybaldy
-
+Abylay Satybaldy <br>
 *Usability Evaluation of SSI Digital Wallets*
 
-Eva Pöll, Marco Hünseler
-
+Eva Pöll, Marco Hünseler <br>
 *Promises and Problems in the Adoption of Self-Sovereign Identity Management from a Consumer Perspective*
 
 **12:00 - 12:45 Break**
 Virtual Lunch
 
-**12:45 - 13:35 Workshop**
-
-Yannic Meier
-
+**12:45 - 13:35 Workshop** <br>
+Yannic Meier <br>
 *Raising awareness for privacy risks and supporting protection in the light of digital inequalities*
 
 **13:45 - 14:00 Break**
 
-**14:00 - 15:00 Session: Data Protection Information**
-
+**14:00 - 15:00 Session: Data Protection Information** <br>
 Session Chair: Joachim Meyer
 
-Emre Kocyigit
-
+Emre Kocyigit <br>
 *Analysis of Dark Patterns in Consent Management Flow: Functional Characteristics for Automated Detection*
 
-Olga Gkotsopoulou
-
+Olga Gkotsopoulou <br>
 *Accessibility statements and data protection notices: what can data protection law learn from the concept of accessibility?*
 
 ## Wednesday, 31.08.2022
 
-**9:00 - 10:00 Keynote: Welde Tesfay**
-
+**9:00 - 10:00 Keynote: Welde Tesfay** <br>
 *to be announced*
 
 **10:00 - 10:15 Break**
 
-**10:15 - 11:45 Session: Data Protection Regulation**
-
+**10:15 - 11:45 Session: Data Protection Regulation** <br>
 Session Chair: Felix Bieker
 
-Weiqiang Wang
-
+Weiqiang Wang <br>
 *Reforming Intermediary Liability in the Digitized Platform Economy*
 
-Muhammed Demircan
-
+Muhammed Demircan <br>
 *Digital Markets Act and GDPR: Making Sense of the Data-Sharing Provisions*
 
-Maria Magierska
-
+Maria Magierska <br>
 *Does network governance work in the digitalized world? A case of the European Data Protection Board*
 
 **11:45 - 12:30 Break**
-
 Virtual Lunch
 
-**12:30 - 13:30 Tutorial**
-
-Arianna Rossi 
-
+**12:30 - 13:30 Tutorial** <br>
+Arianna Rossi  <br>
 *Getting out of the ethico-legal maze of social media data scraping*
 
 **13:30 - 13:45 Break**
 
-**13:45 - 14:45 Keynote: Mary Shnayien**
-
+**13:45 - 14:45 Keynote: Mary Shnayien** <br>
 *to be announced*
 
 ## Thursday, 01.09.2022
 
-**9:00 - 10:00 Workshop**
-
-Simone Fischer-Hübner, Marit Hansen, Meiko Jensen and Ano Nymous 
-
+**9:00 - 10:00 Workshop** <br>
+Simone Fischer-Hübner, Marit Hansen, Meiko Jensen and Ano Nymous  <br>
 *Privacy-Enhancing Technologies and Anonymization in Light of GDPR and Machine Learning*
 
 **10:00 - 10:15 Break**
 
-**10:15 - 11:45 Session: Privacy and Machine Learning**
-
+**10:15 - 11:45 Session: Privacy and Machine Learning** <br>
 Session Chair: Ina Schiering
 
-Shokofeh Vahidiansadegh, Lena Wiese
-
+Shokofeh Vahidiansadegh, Lena Wiese <br>
 *Ecual: a cybErseCurity platform for biclUstering ALgorithms*
 
-Yuping Yan
-
+Yuping Yan <br>
 *KDDP: A Practical and Privacy-Preserving Scheme for Federated Learning*
 
-Pablo Trigo Kramcsák
-
+Pablo Trigo Kramcsák <br>
 *Data governance and lawfulness of personal data processing for AI development*
 
 **11:45 - 12:30 Break**
 Virtual Lunch
 
-**12:30 - 13:30 Workshop**
-
-Jesús García-Rodríguez, David Goodmann and Stephan Krenn 
-
+**12:30 - 13:30 Workshop**  <br>
+Jesús García-Rodríguez, David Goodmann and Stephan Krenn  <br>
 *Privacy-Preserving Industry Applications - From Research to Industry*
 
 **13:30 - 13:45 Break**
 
-**13:45 - 14:45 Session: Differential Privacy**
-
+**13:45 - 14:45 Session: Differential Privacy** <br>
 Session Chair: Ina Schiering
 
-Michael Khavkin, Eran Toch
-
+Michael Khavkin, Eran Toch <br>
 *Selecting Personal Differential Privacy Budget: A Simulated Analysis*
 
-Dmitry Prokhorenkov
-
+Dmitry Prokhorenkov <br>
 *Compliance implications and security objectives from the Differential Privacy and GDPR focus*
 
 ## Friday, 02.09.2022
 
-**9:00 - 10:00 Keynote: Os Keyes**
-
+**9:00 - 10:00 Keynote: Os Keyes** <br>
 *Participation before Data: Historicising Trans Counterpower*
 
 **10:00 - 10:15 Break**
 
-**10:15 - 11:15 Session: Privacy, Ethics and Identity**
-
+**10:15 - 11:15 Session: Privacy, Ethics and Identity** <br>
 Session Chair: to be announced
 
-Catherine Yue
-
+Catherine Yue <br>
 *Privacy and Ethical Concerns of Brain-Computer Interfaces*
 
-Ana Fernandez Inguanzo
-
+Ana Fernandez Inguanzo <br>
 *The relation between privacy, data protection and identity*
 
 **11:15 - 11:30 Break**
 
-**11:30 - 12:30 Workshop**
-
-Murat Karaboga, Michael Friedewald, Frank Ebbers and Greta Runge
-
+**11:30 - 12:30 Workshop** <br>
+Murat Karaboga, Michael Friedewald, Frank Ebbers and Greta Runge <br>
 *What is there to criticize about voice, speech and face recognition?*
 
 **12:30 - 13:00 End of event remarks and outlook for next year**
