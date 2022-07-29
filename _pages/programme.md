@@ -3,11 +3,135 @@ title: "Programme"
 permalink: /programme/
 toc: true
 ---
+## Tuesday, 30.08.2022
+
+**9:00 - 9:15 Opening**
+
+**9:15 - 10:15 Keynote: Christian Buggedei**
+*How to build organisations for privacy-friendly solutions*
+
+**10:15 - 10:30 Break**
+
+**10:30 - 12:00 Session: Privacy and User Perception**
+Session Chair: Joachim Meyer
+
+Vera Schmitt
+*Influence of Privacy Knowledge on Privacy Attitudes in the Domain of Location-Based Services*
+Abylay Satybaldy
+*Usability Evaluation of SSI Digital Wallets*
+Eva Pöll, Marco Hünseler
+*Promises and Problems in the Adoption of Self-Sovereign Identity Management from a Consumer Perspective*
+
+**12:00 - 12:45 Break**
+Virtual Lunch
+
+**12:45 - 13:35 Workshop**
+Yannic Meier
+*Raising awareness for privacy risks and supporting protection in the light of digital inequalities*
+
+**13:45 - 14:00 Break**
+
+**14:00 - 15:00 Session: Data Protection Information**
+Session Chair: Joachim Meyer
+
+Emre Kocyigit
+*Analysis of Dark Patterns in Consent Management Flow: Functional Characteristics for Automated Detection*
+Olga Gkotsopoulou
+*Accessibility statements and data protection notices: what can data protection law learn from the concept of accessibility?*
+
+## Wednesday, 31.08.2022
+
+**9:00 - 10:00 Keynote: Welde Tesfay**
+*to be announced*
+
+**10:00 - 10:15 Break**
+
+**10:15 - 11:45 Session: Data Protection Regulation**
+Session Chair: Felix Bieker
+
+Weiqiang Wang
+*Reforming Intermediary Liability in the Digitized Platform Economy*
+Muhammed Demircan
+*Digital Markets Act and GDPR: Making Sense of the Data-Sharing Provisions*
+Maria Magierska
+*Does network governance work in the digitalized world? A case of the European Data Protection Board*
+
+**11:45 - 12:30 Break**
+Virtual Lunch
+
+**12:30 - 13:30 Tutorial**
+Arianna Rossi 
+*Getting out of the ethico-legal maze of social media data scraping*
+
+**13:30 - 13:45 Break**
+
+**13:45 - 14:45 Keynote: Mary Shnayien**
+*to be announced*
+
+## Thursday, 01.09.2022
+
+**9:00 - 10:00 Workshop**
+Simone Fischer-Hübner, Marit Hansen, Meiko Jensen and Ano Nymous. 
+*Privacy-Enhancing Technologies and Anonymization in Light of GDPR and Machine Learning*
+
+**10:00 - 10:15 Break**
+
+**10:15 - 11:45 Session: Privacy and Machine Learning**
+Session Chair: Ina Schiering
+
+Shokofeh Vahidiansadegh, Lena Wiese
+*Ecual: a cybErseCurity platform for biclUstering ALgorithms*
+Yuping Yan
+*KDDP: A Practical and Privacy-Preserving Scheme for Federated Learning*
+Pablo Trigo Kramcsák
+*Data governance and lawfulness of personal data processing for AI development*
+
+**11:45 - 12:30 Break**
+Virtual Lunch
+
+**12:30 - 13:30 Workshop**
+Jesús García-Rodríguez, David Goodmann and Stephan Krenn 
+*Privacy-Preserving Industry Applications - From Research to Industry*
+
+**13:30 - 13:45 Break**
+
+**13:45 - 14:45 Session: Differential Privacy**
+Session Chair: Ina Schiering
+
+Michael Khavkin, Eran Toch
+*Selecting Personal Differential Privacy Budget: A Simulated Analysis*
+Dmitry Prokhorenkov
+*Compliance implications and security objectives from the Differential Privacy and GDPR focus*
+
+## Friday, 02.09.2022
+
+**9:00 - 10:00 Keynote: Os Keyes**
+*Participation before Data: Historicising Trans Counterpower*
+
+**10:00 - 10:15 Break**
+
+**10:15 - 11:15 Session: Privacy, Ethics and Identity**
+Session Chair: to be announced
+
+Catherine Yue
+*Privacy and Ethical Concerns of Brain-Computer Interfaces*
+Ana Fernandez Inguanzo
+*The relation between privacy, data protection and identity*
+
+**11:15 - 11:30 Break**
+
+**11:30 - 12:30 Workshop**
+Murat Karaboga, Michael Friedewald, Frank Ebbers and Greta Runge
+*What is there to criticize about voice, speech and face recognition?*
+
+**12:30 - 13:00 End of event remarks and outlook for next year**
 
 ## Keynotes
 
-**Os Keyes - Keynote Title**
+**Os Keyes - Participation before Data: Historicising Trans Counterpower**
 ![](/assets/images/keynotes/os_keyes.png){: .align-left}
+
+**Abstract:** In an era increasingly characterised by the hype around (and fear of) big data, notions of both participatory data practices and data counterpower are increasingly discussed. Both are valuable, but both are seen as relatively novel and untested. Are they? In this talk I will contextualise the idea of democratic data engagement and the use of data to "talk back" to those in power within the history of transgender ("trans") medicine. Demonstrating the long historic arc of these practices - an arc that starts before modern AI - I will discuss what lessons can be learned from the successes and failures of early digital trans activism.
 
 **Os Keyes** ([Website](https://ironholds.org/)) is a researcher and writer at the University of Washington. Their work focuses on questions of gender, disability, technology and power, with a particular interest in machine learning, biomedicine and the intersection thereof. An inaugural Ada Lovelace Fellow, their work has been published in CSCW, CHI, *Cultural Studies* and a range of media venues, including *Vice, Wired* and *Logic* magazines. 
 
@@ -28,8 +152,12 @@ toc: true
 <br>
 
 
-**Christian Buggedei - Keynote Title**
+**Christian Buggedei - How to build organisations for privacy-friendly solutions**
 ![](/assets/images/keynotes/c_buggedei.jpg){: .align-left}
+
+**Abstract:** One of the key challenges is to manage the different stakeholders: There Private citizens who don't want to have their privacy compromised. Then there are corporations that rely on access to that same data for their business models. And there is society, represented by governments and regulators, with their own overarching needs and interests.
+polypoly has split up into three independent entities: A citizen-owned cooperative, a corporation, and a foundation.
+Christian Buggedei explains the vision of polypoly and how this split ensures that everyones interests are fairly represented.
 
 **Christian Buggedei** has more than 20 years of IT experience across all industries from the plumbing business around the corner to large public institutions. He is currently Product Owner at polypoly, a cooperative for all European citizens working on a new infrastructure for the data economy.
 
