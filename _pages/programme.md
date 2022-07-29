@@ -7,8 +7,7 @@ toc: true
 
 **9:00 - 9:15 Opening**
 
-**9:15 - 10:15 Keynote: Christian Buggedei**
-
+**9:15 - 10:15 Keynote: Christian Buggedei** <br>
 *How to build organisations for privacy-friendly solutions*
 
 **10:15 - 10:30 Break**
