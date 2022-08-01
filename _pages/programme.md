@@ -3,6 +3,8 @@ title: "Programme"
 permalink: /programme/
 toc: true
 ---
+**Times indicated are Central European Summer Time - CEST (Berlin, Germany)**
+
 ## Tuesday, 30.08.2022
 
 **9:00 - 9:15 Opening**
@@ -45,7 +47,8 @@ Olga Gkotsopoulou <br>
 ## Wednesday, 31.08.2022
 
 **9:00 - 10:00 Keynote: Welde Tesfay** <br>
-*to be announced*
+*Empowering end users’ privacy-related decision making with ML-enabled 
+PETs*
 
 **10:00 - 10:15 Break**
 
@@ -119,7 +122,7 @@ Dmitry Prokhorenkov <br>
 **10:00 - 10:15 Break**
 
 **10:15 - 11:15 Session: Privacy, Ethics and Identity** <br>
-Session Chair: to be announced
+Session Chair: Charles Raab
 
 Catherine Yue <br>
 *Privacy and Ethical Concerns of Brain-Computer Interfaces*
@@ -146,8 +149,12 @@ Murat Karaboga, Michael Friedewald, Frank Ebbers and Greta Runge <br>
 
 <br>
 
-**Dr. Welderufael B. Tesfay - Keynote Title**
+**Dr. Welderufael B. Tesfay - Empowering end users’ privacy-related decision making with ML-enabled 
+PETs**
 ![](/assets/images/keynotes/w_tesfay.jpg){: .align-left}
+
+**Abstract:** Over the last decades, the advancement of the Internet and the digital services built on the Internet infrastructure have dramatically changed the way people interact with each other as well as the way they execute daily activities. This new dynamism forces users to generate large amounts of data. While such a huge amount of data is useful in a number of fields, such in medical research, it also poses unprecedented threats 
+for user's privacy. In this talk, we will explore the application of machine learning techniques to build privacy preserving tools. Such tools empower the user in making informed-privacy related decisions, by also considering the user’s regulatory rights to privacy and informational self-determination.
 
 **Welderufael** (aka Welde) is a Senior Researcher in information privacy and security at the Chair of Mobile Business & Multilateral Security at Goethe University Frankfurt am Main. He holds a Ph.D. degree in computer science from Goethe University Frankfurt, a Master of Science in Computer Science and Engineering with specialization in Mobile Systems from Luleå University of Technology, and Bachelor of Science in Computer Science and Engineering from  Mekelle Institute of Technology (MIT-Tigray). His research lays at the 'symbiosis' of user-centric approaches to information privacy protection, data protection regulations (e.g., the EU GDPR), and applied machine learning & NLP techniques. He endeavors to design and develop "intelligent" tools that empower the user in making informed privacy-related decisions regarding sensitive information disclosures by also taking the user’s regulatory rights into account. Additionally, since 2013, he has been working in various security and privacy related projects funded by the European Commission.
 
