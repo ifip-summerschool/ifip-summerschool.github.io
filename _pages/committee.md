@@ -18,6 +18,7 @@ Marit	Hansen (ULD)<br>
 Charles Raab (University of Edinburgh)<br>
 Kai Rannenberg (Goethe University Frankfurt)<br>
 Eleni Kosta (Tilburg University)<br>
+Diane Whitehouse (EHTEL)<br>
 Michael	Friedewald (Fraunhofer ISI)<br>
 Stephan	Krenn (AIT Austrian Institute of Technology)<br>
 Stefan Schiffner (WWU Münster)
