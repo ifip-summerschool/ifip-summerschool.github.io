@@ -29,7 +29,7 @@ Eva Pöll, Marco Hünseler <br>
 **12:00 - 12:45 Break**
 Virtual Lunch
 
-**12:45 - 13:35 Workshop** <br>
+**12:45 - 13:45 Workshop** <br>
 Yannic Meier <br>
 *Raising awareness for privacy risks and supporting protection in the light of digital inequalities*
 
