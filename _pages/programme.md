@@ -169,7 +169,7 @@ for user's privacy. In this talk, we will explore the application of machine lea
 
 
 **Christian Buggedei - How to build organisations for privacy-friendly solutions**
-![](/assets/images/keynotes/c_buggedei.jpg){: .align-left}
+![](/assets/images/keynotes/c_buggedei.png){: .align-left}
 
 **Abstract:** One of the key challenges is to manage the different stakeholders: There Private citizens who don't want to have their privacy compromised. Then there are corporations that rely on access to that same data for their business models. And there is society, represented by governments and regulators, with their own overarching needs and interests.
 polypoly has split up into three independent entities: A citizen-owned cooperative, a corporation, and a foundation.
