@@ -5,6 +5,8 @@ toc: true
 ---
 **Times indicated are Central European Summer Time - CEST (Berlin, Germany)**
 
+A PDF Version of this page is available: here: [Programme.pdf](/assets/programme.pdf)
+
 ## Tuesday, 30.08.2022
 
 **9:00 - 9:15 Opening**

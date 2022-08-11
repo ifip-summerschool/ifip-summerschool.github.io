@@ -6,14 +6,16 @@ Using the Template [Minimal Mistakes](https://github.com/mmistakes/minimal-mista
 
 ## Directory Layout
 ```terminal
-├── assets  
-│   ├── css 
+├── assets
+│   ├── css
 │   │   └── main.scss           --> contains styling (e.g. headline colors)
-│   └── images                  --> contains images (like Landing Page image and logos)
-│       ├── ...
-│       └── logos
-│           ├── ifip.jpg
-│           ├── ...
+│   ├── images                  --> contains images (like Landing)
+│   │   ├── ...
+│   │   ├── keynotes            --> subfolder for speaker images
+│   │   │   ├── ...
+│   │   └── logos               --> subfolder for logos
+│   │       ├── ...
+│   └── programme.pdf           --> manual generated pdf of programme page
 ├── _config.yml                 --> base coonfig for jekyll
 ├── _data
 │   ├── navigation.yml          --> contains names and links for top navigation bar
@@ -57,6 +59,7 @@ footer: containing links, icons and names displayed in the footer
 further configuration of plugins & template
 ````
 
+
 ### _data/navigation.yml
 containing elements for top navigation
 ````yml
@@ -77,3 +80,12 @@ permalink: link, where the page should be reachable (otherwise internal referenc
 ## Markdown content following below
 Markdown can be used normally and will be compiled into HTML later.
 ````
+
+### programme.pdf and creation
+The `programme.pdf` is a pdf of the current Programme web page. It has to be manually created via the following command:
+````bash
+# google-chrome can be used instead of chromium as well
+chromium --print-to-pdf=programme.pdf --print-to-pdf-no-header --headless --disable-gpu --virtual-time-budget=5000 https://ifip-summerschool.github.io/programme/
+````
+
+Please make sure to move it to the correct location after creating the pdf.
