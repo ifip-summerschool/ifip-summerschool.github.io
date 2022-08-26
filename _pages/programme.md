@@ -162,8 +162,10 @@ for user's privacy. In this talk, we will explore the application of machine lea
 
 <br>
 
-**Dr. des. Mary Shnayien - Keynote Title**
+**Dr. des. Mary Shnayien - On privacy, (digital) media and reproductive rights in a post-Roe America**
 ![](/assets/images/keynotes/m_shnayien.jpg){: .align-left}
+
+**Abstract:** On June 24, 2022, the Supreme Court of the United States of America overruled Roe v. Wade, thereby ending the constitutional right to abortion. As Roe v. Wade was rooted in the right to privacy, its overturning sparked a discussion about whether anyone the state deems to be responsible for childbirth not only loses their right to have an abortion, but their right to privacy in a broader sense. My talk will contextualize these discussions in respect to the history of privacy and media, as well as examine viral advice on safeguarding one’s privacy online, such as deleting period tracking apps as means of protection against hostile legislation.
 
 **Mary Shnayien** is a postdoctoral researcher associated with the Institute for Media Studies at Ruhr University Bochum and member of the DFG Research Network /Gender, Media and Affect/. She holds a PhD in media studies and comes from a background of theatre, media and gender studies. Her dissertation "Die unsicheren Kanäle. Negative und queere Sicherheit in Kryptologie und Informatik" will be published with /transcript/ this fall and focuses on the history and mediality of concepts of security in cryptology, IT security, and queer activism. Other research areas include digital cultures, economies, and infrastructures, as well as political affects and the intersections of media, gender, and race.
 
