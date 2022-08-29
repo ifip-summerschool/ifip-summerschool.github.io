@@ -73,7 +73,7 @@ Arianna Rossi  <br>
 **13:30 - 13:45 Break**
 
 **13:45 - 14:45 Keynote: Mary Shnayien** <br>
-*to be announced*
+*On privacy, (digital) media and reproductive rights in a post-Roe America*
 
 ## Thursday, 01.09.2022
 
