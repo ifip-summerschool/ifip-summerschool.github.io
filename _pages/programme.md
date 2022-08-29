@@ -41,7 +41,7 @@ Yannic Meier <br>
 Session Chair: Joachim Meyer
 
 Emre Kocyigit <br>
-*Analysis of Dark Patterns in Consent Management Flow: Functional Characteristics for Automated Detection*
+*Towards Assessing Quality Attributes of Dark Patterns in Cookies Consent Processes*
 
 Olga Gkotsopoulou <br>
 *Accessibility statements and data protection notices: what can data protection law learn from the concept of accessibility?*
@@ -62,9 +62,6 @@ Weiqiang Wang <br>
 
 Muhammed Demircan <br>
 *Digital Markets Act and GDPR: Making Sense of the Data-Sharing Provisions*
-
-Maria Magierska <br>
-*Does network governance work in the digitalized world? A case of the European Data Protection Board*
 
 **11:45 - 12:30 Break**
 Virtual Lunch
