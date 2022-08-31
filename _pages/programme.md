@@ -121,7 +121,7 @@ Dmitry Prokhorenkov <br>
 **10:00 - 10:15 Break**
 
 **10:15 - 11:15 Session: Privacy, Ethics and Identity** <br>
-Session Chair: Charles Raab
+Session Chair: Michael Friedewald
 
 Catherine Yue <br>
 *Privacy and Ethical Concerns of Brain-Computer Interfaces*
