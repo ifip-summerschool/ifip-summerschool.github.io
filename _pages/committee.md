@@ -54,4 +54,4 @@ David	Harborth (Goethe University Frankfurt)<br>
 Frank	Pallas (TU Berlin)<br>
 Zoltan Mann (University Duisburg-Essen)<br>
 Martin Degeling (Stiftung Neue Verantwortung)<br>
-Majid	Hatamian (Goethe University Frankfurt)
+Majid	Hatamian (Google)
