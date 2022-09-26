@@ -25,12 +25,14 @@ logos:
 
 ## Safe the date!
   
-** 8. - 11. August 2023, Oslo, Norway **
+**8. - 11. August 2023, Oslo, Norway**
 
-** organized by Oslo University, Norway, and Karlstad University, Sweden **
+**organized by Oslo University, Norway, and Karlstad University, Sweden**
 
 ## General information
 
 **Details will follow soon, stay tuned!**
+
+## Sponsors
 
 {% include gallery id="logos" layout="" %}
