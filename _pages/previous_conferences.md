@@ -18,3 +18,18 @@ permalink: /previous_conferences/
 [2016] 11th IFIP Summer School on Privacy and Identity Management, Karlstad, Sweden
 
 [2015] 10th IFIP Summer School on Privacy and Identity Management, Edinburg, UK
+
+[2014] 9th IFIP Summer School on Privacy and Identity Management, Patras, Greece
+
+[2013] 8th IFIP Summer School on Privacy and Identity Management, Nijmegen, the Netherlands
+
+[2011](http://disi.unitn.it/security/ifip-summerschool2011/index.html) 7th IFIP Summer School on Privacy and Identity Management, Trento, Italy
+
+[2010](https://www.cs.kau.se/IFIP-summerschool/) 6th IFIP Summer School on Privacy and Identity Management, Helsingborg, Sweden
+
+[2009](https://www.cs.kau.se/IFIP-summerschool/summerschool2009/index.html) 5th IFIP Summer School on Privacy and Identity Management, Nice, France
+
+[2007](https://www.cs.kau.se/IFIP-summerschool/summerschool2009/IFIP2007POST/) 3rd IFIP Summer School on Privacy and Identity Management, Karlstad, Sweden
+
+[2003] 2nd IFIP Summer School on Privacy and Identity Management, Karlstad, Sweden
+
