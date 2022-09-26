@@ -15,12 +15,6 @@ logos:
     image_path: /assets/images/logos/forum_privatheit-th.png
     alt: "Forum Privatheit"
     title: "Forum Privatheit"
-  - url: https://www.uio.no/
-    title: "Universitetet i Oslo"
-  - url: https://www.kau.se/
-    image_path: https://www.kau.se/themes/custom/kau16/images/logotype.png
-    alt: "Logo Karlstads Universitet"
-    title: "Karlstads Universitet"
 ---
 
 ## Safe the date!
