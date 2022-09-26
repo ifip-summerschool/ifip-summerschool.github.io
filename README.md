@@ -10,6 +10,8 @@ Using the Template [Minimal Mistakes](https://github.com/mmistakes/minimal-mista
 │   ├── css
 │   │   └── main.scss           --> contains styling (e.g. headline colors)
 │   ├── images                  --> contains images (like Landing)
+│   │   ├── archive   --> content for archive pages
+│   │   │   └── 2022  --> archive 2022 page
 │   │   ├── ...
 │   │   ├── keynotes            --> subfolder for speaker images
 │   │   │   ├── ...
@@ -23,6 +25,8 @@ Using the Template [Minimal Mistakes](https://github.com/mmistakes/minimal-mista
 ├── Gemfile                     --> only used if website is build locally
 ├── index.html                  --> placeholder index.html file (no adaption needed)
 ├── _pages                      --> contains markdown files that will be displayed as webpages ->here is the main content<-
+│   ├── archive       --> subfolder for old summer-school pages
+│   │   └── 2022.md --> Combined Archive Page of Summer School 2022 (for content see below)
 │   ├── call_for_paper.md
 │   ├── ...
 │   └── welcome.md
@@ -89,3 +93,19 @@ chromium --print-to-pdf=programme.pdf --print-to-pdf-no-header --headless --disa
 ````
 
 Please make sure to move it to the correct location after creating the pdf.
+
+## How To Archive
+
+To create an archive follow the steps below:
+
+1. Create a File in *_pages/archive/{year}.md*
+    - change title accordingly
+    - change permalink to "/archive/{year}"
+1. copy assets (mainly images) into */assets/images/archive/{year}*
+1. Copy the necessary content from the current IFIP Pages (we used):
+    - Image from *Welcome* Page
+    - *Call For Papers* Page (removing EasyChair Link)
+    - *Committee* Page
+    - Sponsors (from *Welcome* Page)
+    - make sure to adapt asset links to use */assets/images/archive/{year}/...*
+1. Create a new entry in the Previous Conferences Page (*/_pages/previous_conferences*)
