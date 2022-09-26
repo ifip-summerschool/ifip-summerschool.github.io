@@ -21,7 +21,7 @@ logos:
     image_path: https://www.kau.se/themes/custom/kau16/images/logotype.png
     alt: "Logo Karlstads Universitet"
     title: "Karlstads Universitet"
-  ---
+---
 
 ## Safe the date! ##
   
