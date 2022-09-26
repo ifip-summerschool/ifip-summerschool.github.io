@@ -29,7 +29,7 @@ logos:
 **30. August - 02. September 2022, Brunswick, Germany**
 
 **Abstracts Deadline Extended**	~~06. May 2022 23:59 (AoE)~~ <span style="color: red">**31. May 2022 23:59 (AoE)**</span><br>
-**The IFIP summerschool will be held as a virtual event.**
+**The IFIP summer school will be held as a virtual event.**
 {: .notice--danger}
 
 [**Registration is open**](https://ifip-summerschool.github.io/registration/)
