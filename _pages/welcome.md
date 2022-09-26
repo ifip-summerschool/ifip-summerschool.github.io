@@ -23,7 +23,7 @@ logos:
     title: "Karlstads Universitet"
 ---
 
-## Safe the date! ##
+## Safe the date!
   
 ** 8. - 11. August 2023, Oslo, Norway **
 
