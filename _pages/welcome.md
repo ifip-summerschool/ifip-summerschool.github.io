@@ -21,7 +21,7 @@ logos:
   
 **8. - 11. August 2023, Oslo, Norway**
 
-**organized by Oslo University, Norway, and Karlstad University, Sweden**
+**organized by Oslo University, Norway,<br> and Karlstad University, Sweden**
 
 ## General information
 
