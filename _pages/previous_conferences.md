@@ -33,5 +33,5 @@ permalink: /previous_conferences/
 
 [2007](https://www.cs.kau.se/IFIP-summerschool/summerschool2009/IFIP2007POST/) - 3rd IFIP Summer School on Privacy and Identity Management, Karlstad, Sweden
 
-2003 2nd IFIP Summer School on Privacy and Identity Management, Karlstad, Sweden
+2003 - 2nd IFIP Summer School on Privacy and Identity Management, Karlstad, Sweden
 
