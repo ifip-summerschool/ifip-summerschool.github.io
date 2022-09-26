@@ -3,4 +3,4 @@ title: "Venue"
 permalink: /venue/
 ---
 
-Will be updated.
+University in Oslo, details will be updated.
