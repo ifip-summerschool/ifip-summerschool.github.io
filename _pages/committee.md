@@ -9,7 +9,7 @@ tbd
 ## General Chairs
 Felix Bieker (ULD) <br>
 Meiko Jensen (Karlstad University)<br>
-Nils Gruschka (University in Oslo)
+Nils Gruschka (University of Oslo)
 
 ## Steering Committee
 Simone Fischer-Hübner (Karlstad University)<br>
