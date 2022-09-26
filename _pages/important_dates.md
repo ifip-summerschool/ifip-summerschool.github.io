@@ -1,5 +1,5 @@
 ---
-title: "Important Dates (to be decided)"
+title: "Important Dates"
 permalink: /important_dates/
 ---
 ## IFIP Summer School 2022
