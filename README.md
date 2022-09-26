@@ -11,7 +11,7 @@ Using the Template [Minimal Mistakes](https://github.com/mmistakes/minimal-mista
 │   │   └── main.scss           --> contains styling (e.g. headline colors)
 │   ├── images                  --> contains images (like Landing)
 │   │   ├── archive   --> content for archive pages
-│   │   │   └── 2022  --> archive 2022 page
+│   │   │   └── 2022  --> assets for archive 2022 page
 │   │   ├── ...
 │   │   ├── keynotes            --> subfolder for speaker images
 │   │   │   ├── ...
@@ -26,7 +26,7 @@ Using the Template [Minimal Mistakes](https://github.com/mmistakes/minimal-mista
 ├── index.html                  --> placeholder index.html file (no adaption needed)
 ├── _pages                      --> contains markdown files that will be displayed as webpages ->here is the main content<-
 │   ├── archive       --> subfolder for old summer-school pages
-│   │   └── 2022.md --> Combined Archive Page of Summer School 2022 (for content see below)
+│   │   └── 2022.md --> Combined Archive Page of Summer School 2022 (for HowTo see below)
 │   ├── call_for_paper.md
 │   ├── ...
 │   └── welcome.md
