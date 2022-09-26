@@ -17,7 +17,7 @@ logos:
     title: "Forum Privatheit"
 ---
 
-## Safe the date!
+## Save the date!
   
 **8. - 11. August 2023, Oslo, Norway**
 
