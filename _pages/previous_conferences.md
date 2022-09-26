@@ -3,4 +3,5 @@ title: "Previous Conferences"
 permalink: /previous_conferences/
 ---
 
-Will be updated.
+[2022](/archive/2022) - 17th IFIP Summer School on Privacy and Identity Management 2022
+
