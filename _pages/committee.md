@@ -8,8 +8,10 @@ tbd
 
 ## General Chairs
 Felix Bieker (ULD) <br>
+Silvia De Conca (Vrije Universiteit Amsterdam)
+Nils Gruschka (University of Oslo)<br>
 Meiko Jensen (Karlstad University)<br>
-Nils Gruschka (University of Oslo)
+Ina Schiering (Ostfalia University of Applied Sciences)<br>
 
 ## Steering Committee
 Simone Fischer-Hübner (Karlstad University)<br>
