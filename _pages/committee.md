@@ -24,5 +24,5 @@ Michael	Friedewald (Fraunhofer ISI)<br>
 Stephan	Krenn (AIT Austrian Institute of Technology)<br>
 Stefan Schiffner (WWU Münster)
 
-## Programm Committee
+## Programme Committee
 tbd
