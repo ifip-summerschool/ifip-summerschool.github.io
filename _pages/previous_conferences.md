@@ -11,7 +11,7 @@ permalink: /previous_conferences/
 
 2019 - 14th IFIP Summer School on Privacy and Identity Management, Brugg/Windisch, Switzerland
 
-2018 - 13th IFIP Summer School on Privacy and Identity Management, Vienna, Austria
+[2018](/archive/2018) - 13th IFIP Summer School on Privacy and Identity Management, Vienna, Austria
 
 2017 - 12th IFIP Summer School on Privacy and Identity Management, Ispra, Italy
 
