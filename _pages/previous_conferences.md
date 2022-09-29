@@ -19,7 +19,7 @@ permalink: /previous_conferences/
 
 2015 - 10th IFIP Summer School on Privacy and Identity Management, Edinburg, UK
 
-2014 - 9th IFIP Summer School on Privacy and Identity Management, Patras, Greece
+[2014](/archive/2014) - 9th IFIP Summer School on Privacy and Identity Management, Patras, Greece
 
 2013 - 8th IFIP Summer School on Privacy and Identity Management, Nijmegen, the Netherlands
 
