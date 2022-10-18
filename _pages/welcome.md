@@ -1,5 +1,6 @@
 ---
-title: "18th IFIP Summer School on Privacy and Identity Management 2023"
+title: "18th IFIP Summer School on Privacy and Identity Management 2023 - Sharing (in) a Digital World
+"
 permalink: /
 header:
   image: /assets/images/title.png
@@ -16,8 +17,6 @@ logos:
     alt: "Forum Privatheit"
     title: "Forum Privatheit"
 ---
-
-## 18th IFIP Summer School on Privacy and Identity Management 2023 - Sharing (in) a Digital World
 
 ## Save the date!
   
