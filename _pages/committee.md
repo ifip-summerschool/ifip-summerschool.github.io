@@ -4,14 +4,13 @@ permalink: /committee/
 ---
 
 ## Programme Chairs
-tbd
-
-## General Chairs
 Felix Bieker (ULD) <br/>
 Silvia De Conca (Vrije Universiteit Amsterdam)<br/>
-Nils Gruschka (University of Oslo)<br/>
-Meiko Jensen (Karlstad University)<br/>
 Ina Schiering (Ostfalia University of Applied Sciences)
+
+## General Chairs
+Nils Gruschka (University of Oslo)<br/>
+Meiko Jensen (Karlstad University)
 
 ## Steering Committee
 Simone Fischer-Hübner (Karlstad University)<br/>

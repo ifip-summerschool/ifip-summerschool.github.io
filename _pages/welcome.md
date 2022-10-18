@@ -17,6 +17,8 @@ logos:
     title: "Forum Privatheit"
 ---
 
+## 18th IFIP Summer School on Privacy and Identity Management 2023 - Sharing (in) a Digital World
+
 ## Save the date!
   
 **8. - 11. August 2023, Oslo, Norway**
