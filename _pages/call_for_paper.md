@@ -13,7 +13,7 @@ Experts can work to make sharing secure, safe, and just, to protect the privacy 
 
 These questions and issues in the context of privacy and identity management are still nascent. The summer school aims to create a platform for spreading awareness and facilitating interactions and knowledge exchanges around these issues.
 
-The *18th IFIP Summer School on Privacy and Identity Management* takes a holistic approach to society and technology. We support interdisciplinary research exchange and foster discussions through keynote lectures, tutorials and workshops. Participants will benefit from presenting their research and receiving meaningful feedbacks. The summer school culminates in the publication of selected papers among those submitted by the participants, in the form of an edited volume published by Springer.
+The **18th IFIP Summer School on Privacy and Identity Management** takes a holistic approach to society and technology. We support interdisciplinary research exchange and foster discussions through keynote lectures, tutorials and workshops. Participants will benefit from presenting their research and receiving meaningful feedbacks. The summer school culminates in the publication of selected papers among those submitted by the participants, in the form of an edited volume published by Springer.
 
 **We welcome contributions combining any of the following perspectives:**
 
@@ -25,12 +25,12 @@ The IFIP Summer School encourages not only interdisciplinarity but also broade
 
 The research paper presentations focus on involving students, and on encouraging the publication of high-quality, thorough research papers by students and young researchers. To this end, the school will have the following process for submissions:
 
-* Submit an *extended abstract* of at least 2 and at most 4 pages in Springer LNCS style. From these submissions, the PC chairs select papers within the scope of this call for presentation at the summer school.
-* A full length *submission* (up to 16 pages), also in Springer LNCS format, is required to be submitted before the summer school by applicants whose abstract has been accepted. The full-length paper will be published in the pre-proceedings.
-* At the summer school each author will give a *presentation* followed by a discussion. 
-* After the summer school, authors are invited to submit to the *proceedings* (again 16 pages LNCS). It is expected that they take into account the comments and discussions from the summer school.
-* There will be a *review* of these submissions by the Programme Committee. Based on these reviews, papers might be accepted, conditionally accepted, or rejected.
-* Accepted and (after satisfactory revision) conditionally accepted papers will be included in the summer school’s proceedings, which will be *published* by Springer.
+* Submit an **extended abstract** of at least 2 and at most 4 pages in Springer LNCS style. From these submissions, the PC chairs select papers within the scope of this call for presentation at the summer school.
+* A full length **submission** (up to 16 pages), also in Springer LNCS format, is required to be submitted before the summer school by applicants whose abstract has been accepted. The full-length paper will be published in the pre-proceedings.
+* At the summer school each author will give a **presentation** followed by a discussion. 
+* After the summer school, authors are invited to submit to the **proceedings** (again 16 pages LNCS). It is expected that they take into account the comments and discussions from the summer school.
+* There will be a **review** of these submissions by the Programme Committee. Based on these reviews, papers might be accepted, conditionally accepted, or rejected.
+* Accepted and (after satisfactory revision) conditionally accepted papers will be included in the summer school’s proceedings, which will be **published** by Springer.
 
 Submissions need to be in English language, and must be submitted electronically using the following Easychair link:
 
