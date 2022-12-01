@@ -12,4 +12,10 @@ Concerning the submission you should use the following pre-filled form:
 
 **For IFIP Summer School 2023:**
 
-Details will follow.
+Submissions need to be in English language, and must be submitted electronically using the following Easychair link:
+
+[https://easychair.org/my/conference?conf=ifipsc2023](https://easychair.org/my/conference?conf=ifipsc2023)
+
+Workshop and tutorial proposals need to be in English language, and must be submitted electronically using the following Easychair link:
+
+[https://easychair.org/my/conference?conf=ifipsc2023](https://easychair.org/my/conference?conf=ifipsc2023)
