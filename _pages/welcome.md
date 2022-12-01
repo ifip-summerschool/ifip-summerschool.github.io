@@ -20,7 +20,7 @@ logos:
 
 ## 2023 Call for Papers out now!
   
-**8. - 11. August 2023, Oslo, Norway**
+[https://ifip-summerschool.github.io/call_for_paper/](**8. - 11. August 2023, Oslo, Norway**)
 
 ## Sponsors
 
