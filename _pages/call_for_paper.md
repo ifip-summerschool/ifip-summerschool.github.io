@@ -13,7 +13,7 @@ These questions and issues in the context of privacy and identity management are
 
 The 18th IFIP Summer School on Privacy and Identity Management takes a holistic approach to society and technology. We support interdisciplinary research exchange and foster discussions through keynote lectures, tutorials and workshops. Participants will benefit from presenting their research and receiving meaningful feedbacks. The summer school culminates in the publication of selected papers among those submitted by the participants, in the form of an edited volume published by Springer.
 
-** We welcome contributions combining any of the following perspectives:
+**We welcome contributions combining any of the following perspectives:**
 
 sociological, legal, technical, ethical, political, surveillance, intersectional, anthropological, economic, historical, media & communication, regulatory, philosophical, critical, disabilites, and psychological studies in the areas around privacy, data protection, and identity management.
 

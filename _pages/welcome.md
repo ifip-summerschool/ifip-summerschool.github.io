@@ -18,17 +18,9 @@ logos:
     title: "Forum Privatheit"
 ---
 
-## Save the date!
+## 2023 Call for Papers out now!
   
 **8. - 11. August 2023, Oslo, Norway**
-
-**organized by University of Oslo, Norway,**
-
-**and Karlstad University, Sweden**
-
-## General information
-
-**Details will follow soon, stay tuned!**
 
 ## Sponsors
 
