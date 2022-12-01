@@ -17,9 +17,9 @@ The **18th IFIP Summer School on Privacy and Identity Management** takes a ho
 
 **We welcome contributions combining any of the following perspectives:**
 
-sociological, legal, technical, ethical, political, surveillance, intersectional, anthropological, economic, historical, media & communication, regulatory, philosophical, critical, disabilites, and psychological studies in the areas around privacy, data protection, and identity management.
+sociological, legal, technical, ethical, political, surveillance, intersectional, anthropological, economic, historical, media & communication, regulatory, philosophical, critical, disabilites, and psychological studies in the areas around privacy, data protection, and identity management.
 
-The IFIP Summer School encourages not only interdisciplinarity but also broader diversity. It particularly welcomes submissions on how to foster gender and cultural balance in privacy and identity research and policy, and notably tutorials and workshops about how to raise awareness in these matters.
+The IFIP Summer School encourages not only interdisciplinarity but also broader diversity. It particularly welcomes submissions on how to foster gender and cultural balance in privacy and identity research and policy, and notably tutorials and workshops about how to raise awareness in these matters.
 
 ### Paper Submission and Review Process
 
