@@ -5,13 +5,15 @@ toc: true
 toc_sticky: true
 ---
 
+## Sharing (in) a Digital World
+
 Our future is shared. The Internet and the web, (personal) data, resources, climate effects, music, genetic information, trading routes, celestial bodies, holiday homes, rides: we have built a globalized world on sharing, and sharing will be the great protagonist of our future. However, sharing is mostly realized through centralized platforms, controlled by dominant industry players, instead of decentralized architectures and communities. Recently, European policymakers have started to provide legal frameworks for sharing, including concepts such as data intermediaries and data sharing obligations.
 
 Experts can work to make sharing secure, safe, and just, to protect the privacy and other rights of those who want to share, and of those who cannot or do not want to. Starting today, the experts of tomorrow can research ways to enable the fair distribution of the benefits – and side-effects – of sharing in a globalized world. How can sharing be realized using today's technology and building blocks, but with a sustainable and inclusive approach for the shared IT worlds and metaverses of the future? On a structural level, who determines who is – purposefully or carelessly – included in and excluded from accessing, sharing, or deciding, and which narratives are used to justify these positions? How can we address the sharing paradox, i.e. that everyone wants to see what others shared, but people are reluctant to sharing their own information? Which of the technical and organisational approaches to sharing are best suited to protect the rights and freedoms of natural persons?
 
 These questions and issues in the context of privacy and identity management are still nascent. The summer school aims to create a platform for spreading awareness and facilitating interactions and knowledge exchanges around these issues.
 
-The 18th IFIP Summer School on Privacy and Identity Management takes a holistic approach to society and technology. We support interdisciplinary research exchange and foster discussions through keynote lectures, tutorials and workshops. Participants will benefit from presenting their research and receiving meaningful feedbacks. The summer school culminates in the publication of selected papers among those submitted by the participants, in the form of an edited volume published by Springer.
+The *18th IFIP Summer School on Privacy and Identity Management* takes a holistic approach to society and technology. We support interdisciplinary research exchange and foster discussions through keynote lectures, tutorials and workshops. Participants will benefit from presenting their research and receiving meaningful feedbacks. The summer school culminates in the publication of selected papers among those submitted by the participants, in the form of an edited volume published by Springer.
 
 **We welcome contributions combining any of the following perspectives:**
 
@@ -23,12 +25,12 @@ The IFIP Summer School encourages not only interdisciplinarity but also broade
 
 The research paper presentations focus on involving students, and on encouraging the publication of high-quality, thorough research papers by students and young researchers. To this end, the school will have the following process for submissions:
 
-* Submit an extended abstract of at least 2 and at most 4 pages in Springer LNCS style. From these submissions, the PC chairs select papers within the scope of this call for presentation at the summer school.
-* A full length submission (up to 16 pages), also in Springer LNCS format, is required to be submitted before the summer school by applicants whose abstract has been accepted. The full-length paper will be published in the pre-proceedings.
-* At the summer school each author will give a presentation followed by a discussion. 
-* After the summer school, authors are invited to submit to the proceedings (again 16 pages LNCS). It is expected that they take into account the comments and discussions from the summer school.
-* There will be a review of these submissions by the Programme Committee. Based on these reviews, papers might be accepted, conditionally accepted, or rejected.
-* Accepted and (after satisfactory revision) conditionally accepted papers will be included in the summer school’s proceedings, which will be published by Springer.
+* Submit an *extended abstract* of at least 2 and at most 4 pages in Springer LNCS style. From these submissions, the PC chairs select papers within the scope of this call for presentation at the summer school.
+* A full length *submission* (up to 16 pages), also in Springer LNCS format, is required to be submitted before the summer school by applicants whose abstract has been accepted. The full-length paper will be published in the pre-proceedings.
+* At the summer school each author will give a *presentation* followed by a discussion. 
+* After the summer school, authors are invited to submit to the *proceedings* (again 16 pages LNCS). It is expected that they take into account the comments and discussions from the summer school.
+* There will be a *review* of these submissions by the Programme Committee. Based on these reviews, papers might be accepted, conditionally accepted, or rejected.
+* Accepted and (after satisfactory revision) conditionally accepted papers will be included in the summer school’s proceedings, which will be *published* by Springer.
 
 Submissions need to be in English language, and must be submitted electronically using the following Easychair link:
 
@@ -95,4 +97,4 @@ Possible Topics (can include, but are not limited to)
 
 ### Why should I submit?
 
-Accepted papers will receive thorough discussions during the School and provide students with an opportunity to be published in the IFIP AICT series by Springer. Students who present a paper can receive a course certificate awarding 3 ECTS points at the PhD level. Students whose papers were accepted as full papers for the proceedings, can receive a course certificate awarding 6 ECTS points at the PhD level. The certificate can state the topic of the paper so as to demonstrate its relationship (or otherwise) to the student’s master or PhD thesis. We encourage submissions from students from emerging economies: it is possible to apply for support from the IFIP Digital Equity Fund to ease student travel.
+Accepted papers will receive thorough discussions during the School and provide students with an opportunity to be published in the [www.springer.com/series/6102](IFIP AICT series) by Springer. Students who present a paper can receive a course certificate awarding 3 ECTS points at the PhD level. Students whose papers were accepted as full papers for the proceedings, can receive a course certificate awarding 6 ECTS points at the PhD level. The certificate can state the topic of the paper so as to demonstrate its relationship (or otherwise) to the student’s master or PhD thesis. We encourage submissions from students from emerging economies: it is possible to apply for support from the IFIP Digital Equity Fund to ease student travel.
