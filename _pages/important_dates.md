@@ -2,6 +2,19 @@
 title: "Important Dates"
 permalink: /important_dates/
 ---
+
+## IFIP Summer School 2023
+
+| Event | Deadline |
+| -- | -- |
+| **Abstracts Deadline** | 31.03.2023 |
+| **Acceptance Decision:** | 28.04.2023 |
+| **Full Paper Paper:** | 07.07.2023 |
+| **Summer School:** | 08.-11.08.2023 |
+| **Revised Full Paper Deadline:** | 29.09.2023 |
+| **Full Paper Feedback:** | 27.10.2023 |
+| **Camera Ready Deadline:** | 24.11.2023 |
+
 ## IFIP Summer School 2022
 
 | Event | Deadline |
@@ -13,15 +26,3 @@ permalink: /important_dates/
 | **Full Paper:** | 28 Oct 2022 23:59 (AoE) |
 | **Reviews:** | 25 Nov 2022 (AoE) |
 | **Camera Ready:** | 16. Dec 2022 (AoE) |
-
-## IFIP Summer School 2023
-
-| Event | (preliminary) Deadline |
-| -- | -- |
-| **Abstracts Deadline** | early May 2023 |
-| **Acceptance Decision:** | June 2023 |
-| **Full Draft Paper:** | July/August 2023 |
-| **Summer School:** | 08. - 11. August 2023 |
-| **Full Paper:** | in October 2023 |
-| **Reviews:** | in November 2023 |
-| **Camera Ready:** | in December 2023 |
