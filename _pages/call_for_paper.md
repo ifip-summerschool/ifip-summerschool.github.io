@@ -13,11 +13,9 @@ Experts can work to make sharing secure, safe, and just, to protect the privacy 
 
 These questions and issues in the context of privacy and identity management are still nascent. The summer school aims to create a platform for spreading awareness and facilitating interactions and knowledge exchanges around these issues.
 
-The **18th IFIP Summer School on Privacy and Identity Management** takes a holistic approach to society and technology. We support interdisciplinary research exchange and foster discussions through keynote lectures, tutorials and workshops. Participants will benefit from presenting their research and receiving meaningful feedbacks. The summer school culminates in the publication of selected papers among those submitted by the participants, in the form of an edited volume published by Springer.
+The **18th IFIP Summer School on Privacy and Identity Management** takes a holistic approach to society and technology. We support interdisciplinary research exchange and foster discussions through keynote lectures, tutorials and workshops. Participants will benefit from presenting their research and receiving meaningful feedback. The summer school culminates in the publication of selected papers among those submitted by the participants, in the form of an edited volume published by Springer.
 
-**We welcome contributions combining any of the following perspectives:**
-
-sociological, legal, technical, ethical, political, surveillance, intersectional, anthropological, economic, historical, media & communication, regulatory, philosophical, critical, disabilites, and psychological studies in the areas around privacy, data protection, and identity management.
+**We welcome contributions combining any of the following perspectives:** sociological, legal, technical, ethical, political, surveillance, intersectional, anthropological, economic, historical, media & communication, regulatory, philosophical, critical, disabilites, and psychological studies in the areas around privacy, data protection, and identity management.
 
 The IFIP Summer School encourages not only interdisciplinarity but also broader diversity. It particularly welcomes submissions on how to foster gender and cultural balance in privacy and identity research and policy, and notably tutorials and workshops about how to raise awareness in these matters.
 
