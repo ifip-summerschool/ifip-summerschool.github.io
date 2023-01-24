@@ -22,6 +22,8 @@ logos:
   
 [**8. - 11. August 2023, Oslo, Norway**](https://ifip-summerschool.github.io/call_for_paper/)
 
+You can contact the organizers via Meiko(dot)Jensen(at)kau.se .
+
 ## Sponsors
 
 {% include gallery id="logos" layout="" %}
