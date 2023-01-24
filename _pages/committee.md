@@ -21,7 +21,7 @@ Eleni Kosta (Tilburg University)<br/>
 Diane Whitehouse (EHTEL)<br/>
 Michael	Friedewald (Fraunhofer ISI)<br/>
 Stephan	Krenn (AIT Austrian Institute of Technology)<br/>
-Stefan Schiffner (WWU Münster)
+Stefan Schiffner (BHH Hamburg)
 
 ## Programme Committee
 tbd
