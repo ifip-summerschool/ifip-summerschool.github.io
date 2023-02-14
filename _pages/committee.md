@@ -60,5 +60,5 @@ Juraj Somorovsky (Paderborn University)<BR/>
 Christoph Sorge (Saarland University)<BR/>
 Stefan Strauss (Austrian Academy of Sciences, Institute of Technology Assessment (ITA))<BR/>
 Niels van Dijk (Vrije Universiteit Brussel)<BR/>
-Andreas Weich (Leibniz-Institut für Bildungsmedien, Georg-Eckert-Institut)<BR/>
+Andreas Weich (Leibniz-Institut für Bildungsmedien, Georg-Eckert-Institut)
 
