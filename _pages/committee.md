@@ -14,14 +14,14 @@ Meiko Jensen (Karlstad University)
 
 ## Steering Committee
 Simone Fischer-Hübner (Karlstad University)<br/>
+Michael Friedewald (Fraunhofer ISI)<br/>
 Marit Hansen (ULD)<br/>
+Eleni Kosta (Tilburg University)<br/>
+Stephan Krenn (AIT Austrian Institute of Technology)<br/>
 Charles Raab (University of Edinburgh)<br/>
 Kai Rannenberg (Goethe University Frankfurt)<br/>
-Eleni Kosta (Tilburg University)<br/>
-Diane Whitehouse (EHTEL)<br/>
-Michael Friedewald (Fraunhofer ISI)<br/>
-Stephan Krenn (AIT Austrian Institute of Technology)<br/>
-Stefan Schiffner (BHH Hamburg)
+Stefan Schiffner (BHH Hamburg)<br/>
+Diane Whitehouse (EHTEL)
 
 ## Programme Committee
 Florian Adamsky (Hof University of Applied Sciences)<BR/>
