@@ -34,7 +34,7 @@ Jose M. Del Alamo (Universidad Politecnica de Madrid)<BR/>
 Prokopios Drogkaris (ENISA)<BR/>
 Michael Friedewald (Fraunhofer)<BR/>
 Lothar Fritsch (Oslo Metropolitan University)<BR/>
-Marit Hansen (Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein)<BR/>
+Marit Hansen (ULD)<BR/>
 Tanja Heuer (Ostfalia University of Applied Sciences)<BR/>
 Stefan Katzenbeisser (University of Passau)<BR/>
 Os Keyes (University of Washington)<BR/>
@@ -53,7 +53,7 @@ Sebastian Pape (Continental Automotive Technologies GmbH)<BR/>
 Robin Pierce (University of Exeter)<BR/>
 Davy Preuveneers (imec-DistriNet, KU Leuven)<BR/>
 Arnold Roosendaal (Privacy Company)<BR/>
-Stefan Schiffner (WWU Münster)<BR/>
+Stefan Schiffner (BHH Hamburg)<BR/>
 Sandra Schmitz (Universite du Luxembourg)<BR/>
 Yefim Shulman (Tel Aviv University)<BR/>
 Juraj Somorovsky (Paderborn University)<BR/>
