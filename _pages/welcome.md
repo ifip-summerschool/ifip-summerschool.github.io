@@ -18,9 +18,17 @@ logos:
     title: "Forum Privatheit"
 ---
 
+## Deadline extension!
+
+Due to numerous requests, we have extended the submission deadline for the Extended Abstracts to Friday, April 21st, 2023!
+
+You can find the submission system here:
+
+[https://easychair.org/my/conference?conf=ifipsc2023](https://easychair.org/my/conference?conf=ifipsc2023)
+
 ## 2023 Call for Papers out now!
   
-[**8. - 11. August 2023, Oslo, Norway**](https://ifip-summerschool.github.io/call_for_paper/)
+[https://easychair.org/my/conference?conf=ifipsc2023](https://easychair.org/my/conference?conf=ifipsc2023)
 
 You can contact the organizers via Meiko(dot)Jensen(at)kau.se .
 
