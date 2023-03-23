@@ -46,7 +46,9 @@ Workshop and tutorial proposals need to be in English language, and must be subm
 
 [https://easychair.org/my/conference?conf=ifipsc2023](https://easychair.org/my/conference?conf=ifipsc2023)
 
-Possible Topics (can include, but are not limited to)
+### Possible Topics
+
+(can include, but are not limited to)
 
 * Technical and Organisational Measures for Privacy:
    * Privacy by design and data protection by design approaches
