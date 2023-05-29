@@ -18,11 +18,11 @@ You can access the payment form either via the registration form above, or direc
 
 **Please note that the deadline for registration is**
 
-**June 25th, 2023**
+**June 25th, 2023.**
 
 For each accepted abstract, at least one of the authors must register for participation before that deadline in order to be included in the final programme.
 
-| Registration Type  | Price |
+| Registration Type  | Registration Fee |
 |---|----|
 | Author  | EUR 500 |   
 | Participant  | EUR 500 | 
