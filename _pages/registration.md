@@ -23,7 +23,7 @@ You can access the payment form either via the registration form above, or direc
 For each accepted abstract, at least one of the authors must register for participation before that deadline in order to be included in the final programme.
 
 | Registration Type  | Registration Fee |
-|---|----|
+|---|:----:|
 | Author  | EUR 500 |   
 | Participant  | EUR 500 | 
 | Author (IFIP member)  | EUR 450 | 
