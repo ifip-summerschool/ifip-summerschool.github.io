@@ -18,6 +18,10 @@ logos:
     title: "Forum Privatheit"
 ---
 
+## Registration open!
+
+The registration for participation in the summer school is now open and can be found [here](/registration). Please note that the deadline for registration is **June 25th, 2023**.
+
 ## Deadline extension!
 
 Due to numerous requests, we have extended the submission deadline for the Extended Abstracts to Friday, April 21st, 2023!
