@@ -1,7 +1,6 @@
 ---
 title: "Programme"
 permalink: /programme/
-toc: true
 ---
 
 The IFIP Summer School on Privacy and Identity Management will start on 
