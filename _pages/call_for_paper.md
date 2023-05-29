@@ -85,18 +85,9 @@ Workshop and tutorial proposals need to be in English language, and must be subm
    * Trade-offs between participation in digital cultures and privacy aspects
    * Historical development of data practices
 
-### Timeline
-
-| Event | Deadline |
-| -- | -- |
-| **Abstracts Deadline:** | 31.03.2023 23:59 (AoE) |
-| **Acceptance Decision:** | 28.04.2023 |
-| **Full Paper Deadline:** | 07.07.2023 23:59 (AoE) |
-| **Summer School:** | 08.-11.08.2023 |
-| **Revised Full Paper Deadline:** | 29.09.2023 23:59 (AoE) |
-| **Full Paper Feedback:** | 27.10.2023 |
-| **Camera Ready Deadline:** | 24.11.2023 23:59 (AoE) |
-
 ### Why should I submit?
 
-Accepted papers will receive thorough discussions during the School and provide students with an opportunity to be published in the [IFIP AICT series](https://www.springer.com/series/6102) by Springer. Students who present a paper can receive a course certificate awarding 1.5 ECTS points at the PhD level. Students whose papers were accepted as full papers for the proceedings, can receive a course certificate awarding 3 ECTS points at the PhD level. The certificate can state the topic of the paper so as to demonstrate its relationship (or otherwise) to the student’s master or PhD thesis. We encourage submissions from students from emerging economies: it is possible to apply for support from the IFIP Digital Equity Fund to ease student travel.
+Accepted papers will receive thorough discussions during the School and provide students with an opportunity to be published in the [IFIP AICT series](https://www.springer.com/series/6102) by Springer. 
+
+A course certificate for 1,5 ECTS can be granted for students who attend the summer school and write a short essay on how their own research is relevant in relation to or can be inspired by the summer school sessions. A course certificate for 3 ECTS can be granted for students who attend the summer school, submit and present an abstract for a research article, and demonstrate that they have addressed the feedback from the summer school in an extended version and rebuttal. We encourage submissions from students from emerging economies: it is possible to apply for support from the IFIP Digital Equity Fund to ease student travel.
+
