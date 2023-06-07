@@ -22,12 +22,12 @@ logos:
 
 We can confirm the following set of high-profile invited speakers to present at the summer school:
 
--Jaap-Henk Hoepman, Radboud University, Netherlands
--Maria Grazia Porcedda, Trinity College Dublin, Ireland
--Martin Degeling, Stiftung Neue Verantwortung, Germany
--Lothar Fritsch, Oslo Metropolitan University, Norway
--Liina Kamm, Cybernetica, Estonia
--Stefan Schiffner, BHH University of Applied Sciences Hamburg, Germany
+- Jaap-Henk Hoepman, Radboud University, Netherlands
+- Maria Grazia Porcedda, Trinity College Dublin, Ireland
+- Martin Degeling, Stiftung Neue Verantwortung, Germany
+- Lothar Fritsch, Oslo Metropolitan University, Norway
+- Liina Kamm, Cybernetica, Estonia
+- Stefan Schiffner, BHH University of Applied Sciences Hamburg, Germany
 
 More to come...
 
