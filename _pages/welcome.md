@@ -18,6 +18,23 @@ logos:
     title: "Forum Privatheit"
 ---
 
+## Confirmed Invited Speakers @IFIPSC2023!
+
+We can confirm the following set of high-profile invited speakers to present at the summer school:
+
+-Jaap-Henk Hoepman, Radboud University, Netherlands
+-Maria Grazia Porcedda, Trinity College Dublin, Ireland
+-Martin Degeling, Stiftung Neue Verantwortung, Germany
+-Lothar Fritsch, Oslo Metropolitan University, Norway
+-Liina Kamm, Cybernetica, Estonia
+-Stefan Schiffner, BHH University of Applied Sciences Hamburg, Germany
+
+More to come...
+
+## Free access to last year's Proceedings!
+
+The proceedings of the IFIP Summer School on Privacy and Identity Management of 2022 have now been published at Springer. If you want to obtain a free copy of it, please [follow this link](https://link.springer.com/book/10.1007/978-3-031-31971-6) (the free access is only granted until July 10th, 2023, and only works if accessed via this website!)
+
 ## Registration open!
 
 The registration for participation in the summer school is now open and can be found [here](/registration). Please note that the deadline for registration is **June 25th, 2023**.
