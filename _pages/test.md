@@ -11,26 +11,26 @@ toc_sticky: true
 
 ### Monday, Aug 7th, 2023
 
-**19:00**
+*19:00*
 
 ### Tuesday, Aug 8th, 2023
 
-**08:30-09:00**
+*08:30-09:00*
 
 Registration and Coffee Break
 
-**09:00-09:15**
+*09:00-09:15*
 
 Introduction
 
-**09:15-10:15**
+*09:15-10:15*
 
 Keynote: TODO
 
-**10:30-12:30**
+*10:30-12:30*
 
 <table>
-<thead><tr><td colspan="3">Track A: Paper Session 1 (Chair: TODO) </td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 1 (Chair: TODO) </b></td></tr></thead>
 <tbody>
 <tr><td><!-- ﻿# -->TODO </td><td> <b>title</b><br/> authors<br /><i>Keywords: keywords</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_﻿#.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
 <tr><td><!-- 401 -->TODO </td><td> <b>Private Training Approaches - A Primer</b><br/> Jenni Reuben and Ala Sarah Alaqra<br /><i>Keywords: Machine learning, Private learning, Privacy</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
@@ -84,7 +84,7 @@ Keynote: TODO
 </tbody>
 </table>
 
-**13:30-15:00**
+*13:30-15:00*
 
 <table>
 <thead><tr><td colspan="3">Track A: Paper Session 4 (Chair: TODO) </td></tr></thead>
@@ -104,15 +104,15 @@ Keynote: TODO
 </tbody>
 </table>
 
-**15:15-16:15**
+*15:15-16:15*
 
-**19:00**
+*19:00*
 
 ### Wednesday, Aug 9th, 2023
 
-**09:00-10:00**
+*09:00-10:00*
 
-**10:15-12:15**
+*10:15-12:15*
 <table>
 <thead><tr><td colspan="3">Track A: Paper Session 7 (Chair: TODO) </td></tr></thead>
 <tbody>
@@ -131,7 +131,7 @@ Keynote: TODO
 </tbody>
 </table>
 
-**13:15-14:15**
+*13:15-14:15*
 
 <table>
 <thead><tr><td colspan="3">Track A: Paper Session 10 (Chair: TODO) </td></tr></thead>
@@ -151,29 +151,29 @@ Keynote: TODO
 </tbody>
 </table>
 
-**14:30-15:30**
+*14:30-15:30*
 
-**19:00 Summer School Dinner**
+*19:00 Summer School Dinner*
 
 ### Thursday, Aug 10th, 2023
 
-**09:00-11:00**
+*09:00-11:00*
 
-**11:15-12:45**
+*11:15-12:45*
 
-**12:45-14:15**
+*12:45-14:15*
 
-**14:30-15:30**
+*14:30-15:30*
 
-**16:30**
+*16:30*
 
 ### Friday, Aug 11th, 2023
 
-**09:00-11:00**
+*09:00-11:00*
 
-**11:15-12:45**
+*11:15-12:45*
 
-**12:45-13:15**
+*12:45-13:15*
 
 
 <table>
@@ -237,7 +237,7 @@ Keynote: TODO
 </tbody>
 </table>
 
-**Session 2
+*Session 2
 
 <table>
 <thead><tr><td> </td><td> </td><td> </td></tr></thead>
