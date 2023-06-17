@@ -19,9 +19,9 @@ toc_sticky: true
 
 *09:00-09:15: Opening Remarks*
 
-***Welcome from the Local Organizers***
+**Welcome from the Local Organizers**
 
-**Nils Gruschka, Oslo University**
+*Nils Gruschka, Oslo University*
 
 **Welcome from the Steering Committee**
 
@@ -31,11 +31,9 @@ toc_sticky: true
 
 **Looooonger longer longer Title**
 
-*Author*
+*Author, Affiliation*
 
-*(Affiliation)*
-
-*10:30-12:30*
+*10:30-12:30: Paper Sessions*
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session 1 (Chair: TODOCHAIR , Room: TODOROOM )</b></td></tr></thead>
@@ -43,11 +41,110 @@ toc_sticky: true
 <tr><td><!-- ﻿# --> </td><td> <b>authors:</b><br/> <b>title</b><br /><i>(Keywords: keywords)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_﻿#.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 401 --> </td><td> <b>Jenni Reuben and Ala Sarah Alaqra:</b><br/> <b>Private Training Approaches - A Primer</b><br /><i>(Keywords: Machine learning, Private learning, Privacy)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 432 --> </td><td> <b>Marcela Tuler de Oliveira and Elyas Khorasani:</b><br/> <b>Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges</b><br /><i>(Keywords: Digital identity, Distributed access control policies, Data Sharing, Blockchain)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 1 (Chair: TODOCHAIR , Room: TODOROOM )</b></td></tr></thead>
+</tbody>
+<thead><tr><td colspan="3"><b>Track B: Workshop (Chair: TODOCHAIR , Room: TODOROOM )</b></td></tr></thead>
 <tr><td><!-- 623 --> </td><td> <b>Paweł Hajduk:</b><br/> <b>Between the right to the protection of personal data and the right to health. Evolving EU regulatory framework on secondary use of electronic personal health data for medical research</b><br /><i>(Keywords: Secondary Use of Personal Health Data, Medical Research, Data Protection)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_623.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 728 --> </td><td> <b>Paul Michel Dit Ferrer, Vera Schmitt, Arooj Anwar Khan and Ina Kern:</b><br/> <b>What are You Willing to Pay to Protect Your Instagram Data? Examining the Privacy Paradox in the Social Media Context</b><br /><i>(Keywords: Information Privacy, Social Media, Willingness To Pay, Privacy Paradox)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_728.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 951 --> </td><td> <b>Mahdi Akil and Sujash Naskar:</b><br/> <b>Non-Interactive Authentication Scheme for Vehicular Ad-hoc Networks: Security, Privacy, and Accountability</b><br /><i>(Keywords: VANETs, Attribute-based cerdentials, Idemix, Verifiable encryption)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_951.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+</tbody>
+<thead><tr><td colspan="3"><b>Track C: Paper Session 2 (Chair: TODOCHAIR , Room: TODOROOM )</b></td></tr></thead>
+<tr><td><!-- 1098 --> </td><td> <b>Mordechai Guri:</b><br/> <b>Mind The Gap: Can Air-Gaps Keep Your Private Data Secure?</b><br /><i>(Keywords: air-gap, networks, data privacy, data protection, security, data leakage, cyber attacks, information protection, regulations)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1098.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 1105 --> </td><td> <b>Ramona Schmidt and Ina Schiering:</b><br/> <b>Who is the attacker - Analyzing data protection violations in health care</b><br /><i>(Keywords: privacy, data protection, GDPR, health related data)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1105.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 1762 --> </td><td> <b>Malte Hansen and Andre B&uuml;ttner:</b><br/> <b>Secure and GDPR-Compliant Authentication for Data Subject Rights Enforcement</b><br /><i>(Keywords: Data Subject Rights, Authentication, GDPR)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1762.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+</tbody>
+</table>
+
+*13:30-15:00*
+
+*09:15-10:15: Keynote*
+
+**Looooonger longer longer Title**
+
+*Author, Affiliation*
+
+
+*15:15-16:15*
+
+*19:00*
+
+### Wednesday, Aug 9th, 2023
+
+*09:00-10:00*
+
+*10:15-12:15*
+
+<table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session 1 (Chair: TODOCHAIR , Room: TODOROOM )</b></td></tr></thead>
+<tbody>
+<tr><td><!-- ﻿# --> </td><td> <b>authors:</b><br/> <b>title</b><br /><i>(Keywords: keywords)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_﻿#.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 401 --> </td><td> <b>Jenni Reuben and Ala Sarah Alaqra:</b><br/> <b>Private Training Approaches - A Primer</b><br /><i>(Keywords: Machine learning, Private learning, Privacy)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 432 --> </td><td> <b>Marcela Tuler de Oliveira and Elyas Khorasani:</b><br/> <b>Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges</b><br /><i>(Keywords: Digital identity, Distributed access control policies, Data Sharing, Blockchain)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+</tbody>
+<thead><tr><td colspan="3"><b>Track B: Workshop (Chair: TODOCHAIR , Room: TODOROOM )</b></td></tr></thead>
+<tr><td><!-- 623 --> </td><td> <b>Paweł Hajduk:</b><br/> <b>Between the right to the protection of personal data and the right to health. Evolving EU regulatory framework on secondary use of electronic personal health data for medical research</b><br /><i>(Keywords: Secondary Use of Personal Health Data, Medical Research, Data Protection)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_623.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 728 --> </td><td> <b>Paul Michel Dit Ferrer, Vera Schmitt, Arooj Anwar Khan and Ina Kern:</b><br/> <b>What are You Willing to Pay to Protect Your Instagram Data? Examining the Privacy Paradox in the Social Media Context</b><br /><i>(Keywords: Information Privacy, Social Media, Willingness To Pay, Privacy Paradox)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_728.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 951 --> </td><td> <b>Mahdi Akil and Sujash Naskar:</b><br/> <b>Non-Interactive Authentication Scheme for Vehicular Ad-hoc Networks: Security, Privacy, and Accountability</b><br /><i>(Keywords: VANETs, Attribute-based cerdentials, Idemix, Verifiable encryption)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_951.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+</tbody>
+<thead><tr><td colspan="3"><b>Track C: Paper Session 2 (Chair: TODOCHAIR , Room: TODOROOM )</b></td></tr></thead>
+<tr><td><!-- 1098 --> </td><td> <b>Mordechai Guri:</b><br/> <b>Mind The Gap: Can Air-Gaps Keep Your Private Data Secure?</b><br /><i>(Keywords: air-gap, networks, data privacy, data protection, security, data leakage, cyber attacks, information protection, regulations)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1098.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 1105 --> </td><td> <b>Ramona Schmidt and Ina Schiering:</b><br/> <b>Who is the attacker - Analyzing data protection violations in health care</b><br /><i>(Keywords: privacy, data protection, GDPR, health related data)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1105.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 1762 --> </td><td> <b>Malte Hansen and Andre B&uuml;ttner:</b><br/> <b>Secure and GDPR-Compliant Authentication for Data Subject Rights Enforcement</b><br /><i>(Keywords: Data Subject Rights, Authentication, GDPR)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1762.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+</tbody>
+</table>
+
+*13:15-14:15*
+
+<table>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 1 (Chair: TODOCHAIR , Room: TODOROOM )</b></td></tr></thead>
+<tbody>
+<tr><td><!-- ﻿# --> </td><td> <b>authors:</b><br/> <b>title</b><br /><i>(Keywords: keywords)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_﻿#.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 401 --> </td><td> <b>Jenni Reuben and Ala Sarah Alaqra:</b><br/> <b>Private Training Approaches - A Primer</b><br /><i>(Keywords: Machine learning, Private learning, Privacy)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 432 --> </td><td> <b>Marcela Tuler de Oliveira and Elyas Khorasani:</b><br/> <b>Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges</b><br /><i>(Keywords: Digital identity, Distributed access control policies, Data Sharing, Blockchain)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+</tbody>
+<thead><tr><td colspan="3"><b>Track B: Workshop (Chair: TODOCHAIR , Room: TODOROOM )</b></td></tr></thead>
+<tr><td><!-- 623 --> </td><td> <b>Paweł Hajduk:</b><br/> <b>Between the right to the protection of personal data and the right to health. Evolving EU regulatory framework on secondary use of electronic personal health data for medical research</b><br /><i>(Keywords: Secondary Use of Personal Health Data, Medical Research, Data Protection)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_623.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 728 --> </td><td> <b>Paul Michel Dit Ferrer, Vera Schmitt, Arooj Anwar Khan and Ina Kern:</b><br/> <b>What are You Willing to Pay to Protect Your Instagram Data? Examining the Privacy Paradox in the Social Media Context</b><br /><i>(Keywords: Information Privacy, Social Media, Willingness To Pay, Privacy Paradox)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_728.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 951 --> </td><td> <b>Mahdi Akil and Sujash Naskar:</b><br/> <b>Non-Interactive Authentication Scheme for Vehicular Ad-hoc Networks: Security, Privacy, and Accountability</b><br /><i>(Keywords: VANETs, Attribute-based cerdentials, Idemix, Verifiable encryption)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_951.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+</tbody>
+<thead><tr><td colspan="3"><b>Track C: Paper Session 2 (Chair: TODOCHAIR , Room: TODOROOM )</b></td></tr></thead>
+<tr><td><!-- 1098 --> </td><td> <b>Mordechai Guri:</b><br/> <b>Mind The Gap: Can Air-Gaps Keep Your Private Data Secure?</b><br /><i>(Keywords: air-gap, networks, data privacy, data protection, security, data leakage, cyber attacks, information protection, regulations)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1098.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 1105 --> </td><td> <b>Ramona Schmidt and Ina Schiering:</b><br/> <b>Who is the attacker - Analyzing data protection violations in health care</b><br /><i>(Keywords: privacy, data protection, GDPR, health related data)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1105.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 1762 --> </td><td> <b>Malte Hansen and Andre B&uuml;ttner:</b><br/> <b>Secure and GDPR-Compliant Authentication for Data Subject Rights Enforcement</b><br /><i>(Keywords: Data Subject Rights, Authentication, GDPR)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1762.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+</tbody>
+</table>
+
+*14:30-15:30*
+
+*19:00 Summer School Dinner*
+
+### Thursday, Aug 10th, 2023
+
+*09:00-11:00*
+
+*11:15-12:45*
+
+*12:45-14:15*
+
+*14:30-15:30*
+
+*16:30*
+
+### Friday, Aug 11th, 2023
+
+*09:00-11:00*
+
+*11:15-12:45*
+
+*12:45-13:15*
+
+Paper Log:
+<table>
+<tr><td><!-- ﻿# --> </td><td> <b>authors:</b><br/> <b>title</b><br /><i>(Keywords: keywords)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_﻿#.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 401 --> </td><td> <b>Jenni Reuben and Ala Sarah Alaqra:</b><br/> <b>Private Training Approaches - A Primer</b><br /><i>(Keywords: Machine learning, Private learning, Privacy)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 432 --> </td><td> <b>Marcela Tuler de Oliveira and Elyas Khorasani:</b><br/> <b>Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges</b><br /><i>(Keywords: Digital identity, Distributed access control policies, Data Sharing, Blockchain)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 623 --> </td><td> <b>Paweł Hajduk:</b><br/> <b>Between the right to the protection of personal data and the right to health. Evolving EU regulatory framework on secondary use of electronic personal health data for medical research</b><br /><i>(Keywords: Secondary Use of Personal Health Data, Medical Research, Data Protection)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_623.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 728 --> </td><td> <b>Paul Michel Dit Ferrer, Vera Schmitt, Arooj Anwar Khan and Ina Kern:</b><br/> <b>What are You Willing to Pay to Protect Your Instagram Data? Examining the Privacy Paradox in the Social Media Context</b><br /><i>(Keywords: Information Privacy, Social Media, Willingness To Pay, Privacy Paradox)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_728.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 951 --> </td><td> <b>Mahdi Akil and Sujash Naskar:</b><br/> <b>Non-Interactive Authentication Scheme for Vehicular Ad-hoc Networks: Security, Privacy, and Accountability</b><br /><i>(Keywords: VANETs, Attribute-based cerdentials, Idemix, Verifiable encryption)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_951.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 1098 --> </td><td> <b>Mordechai Guri:</b><br/> <b>Mind The Gap: Can Air-Gaps Keep Your Private Data Secure?</b><br /><i>(Keywords: air-gap, networks, data privacy, data protection, security, data leakage, cyber attacks, information protection, regulations)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1098.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 1105 --> </td><td> <b>Ramona Schmidt and Ina Schiering:</b><br/> <b>Who is the attacker - Analyzing data protection violations in health care</b><br /><i>(Keywords: privacy, data protection, GDPR, health related data)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1105.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 1762 --> </td><td> <b>Malte Hansen and Andre B&uuml;ttner:</b><br/> <b>Secure and GDPR-Compliant Authentication for Data Subject Rights Enforcement</b><br /><i>(Keywords: Data Subject Rights, Authentication, GDPR)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1762.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
@@ -80,46 +177,4 @@ toc_sticky: true
 <tr><td><!-- 8265 --> </td><td> <b>Vera Schmitt, Tingyu Song and Danila Ferents:</b><br/> <b>Economics of Privacy and the Relation to Users&rsquo; Trust</b><br /><i>(Keywords: Economics of privacy, Endowment effect, Trust, Privacy concern, Negative privacy experiences)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_8265.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 9899 --> </td><td> <b>Anette Siebenk&auml;s:</b><br/> <b>A Framework for Exploring Personal Data Transparency from a Theoretical Perspective &ndash; Workshop Proposal &ndash;</b><br /><i>(Keywords: Personal Data Transparency, Theory, Information Privacy)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9899.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 9938 --> </td><td> <b>Bj&oslash;rn Aslak Juliussen:</b><br/> <b>Compliance By Design: Balancing Data Protection, Cybersecurity and AI Regulation in Software and System Development</b><br /><i>(Keywords: Privacy, Data Protection, Concurrent Compliance, Cybersecurity)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9938.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
-</tbody>
 </table>
-
-*13:30-15:00*
-
-
-
-
-*15:15-16:15*
-
-*19:00*
-
-### Wednesday, Aug 9th, 2023
-
-*09:00-10:00*
-
-*10:15-12:15*
-
-*13:15-14:15*
-
-*14:30-15:30*
-
-*19:00 Summer School Dinner*
-
-### Thursday, Aug 10th, 2023
-
-*09:00-11:00*
-
-*11:15-12:45*
-
-*12:45-14:15*
-
-*14:30-15:30*
-
-*16:30*
-
-### Friday, Aug 11th, 2023
-
-*09:00-11:00*
-
-*11:15-12:45*
-
-*12:45-13:15*
