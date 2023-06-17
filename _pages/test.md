@@ -32,172 +32,44 @@ Keynote: TODO
 <table>
 <thead><tr><td colspan="3">Track A: Paper Session 1 (Chair: TODO) </td></tr></thead>
 <tbody>
-<tr><td><!-- ﻿# -->TODO </td><td> <b>title</b><br/> authors<br /><i>Keywords: keywords</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_﻿#.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 401 -->TODO </td><td> <b>Private Training Approaches - A Primer</b><br/> Jenni Reuben and Ala Sarah Alaqra<br /><i>Keywords: Machine learning
-Private learning
-Privacy</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 432 -->TODO </td><td> <b>Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges</b><br/> Marcela Tuler de Oliveira and Elyas Khorasani<br /><i>Keywords: Digital identity
-Distributed access control policies
-Data Sharing
-Blockchain</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 623 -->TODO </td><td> <b>Between the right to the protection of personal data and the right to health. Evolving EU regulatory framework on secondary use of electronic personal health data for medical research</b><br/> Paweł Hajduk<br /><i>Keywords: Secondary Use of Personal Health Data
-Medical Research
-Data Protection</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_623.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 728 -->TODO </td><td> <b>What are You Willing to Pay to Protect Your Instagram Data? Examining the Privacy Paradox in the Social Media Context</b><br/> Paul Michel Dit Ferrer, Vera Schmitt, Arooj Anwar Khan and Ina Kern<br /><i>Keywords: Information Privacy
-Social Media
-Willingness To Pay
-Privacy Paradox</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_728.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 951 -->TODO </td><td> <b>Non-Interactive Authentication Scheme for Vehicular Ad-hoc Networks: Security, Privacy, and Accountability</b><br/> Mahdi Akil and Sujash Naskar<br /><i>Keywords: VANETs
-Attribute-based cerdentials
-Idemix
-Verifiable encryption</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_951.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 1098 -->TODO </td><td> <b>Mind The Gap: Can Air-Gaps Keep Your Private Data Secure?</b><br/> Mordechai Guri<br /><i>Keywords: air-gap
-networks
-data privacy
-data protection
-security
-data leakage
-cyber attacks
-information protection
-regulations</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1098.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 1105 -->TODO </td><td> <b>Who is the attacker - Analyzing data protection violations in health care</b><br/> Ramona Schmidt and Ina Schiering<br /><i>Keywords: privacy
-data protection
-GDPR
-health related data</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1105.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 1762 -->TODO </td><td> <b>Secure and GDPR-Compliant Authentication for Data Subject Rights Enforcement</b><br/> Malte Hansen and Andre Büttner<br /><i>Keywords: Data Subject Rights
-Authentication
-GDPR</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1762.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 2021 -->TODO </td><td> <b>User Interaction Data in Apps: Comparing Policy Claims to Implementations</b><br/> Feiyang Tang and Bjarte M. Østvold<br /><i>Keywords: Mobile Apps
-Transparency
-Trust
-Interaction Data
-Privacy Policy</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2021.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 2128 -->TODO </td><td> <b>Proposal for a Tutorial: Shared, public and out of control – Your data on the public web</b><br/> Carolin Gilga<br /><i>Keywords: public data
-data protection
-psychology
-web monitoring
-screen scraping
-social media monitoring
-interdisciplinarity</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2128.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 2161 -->TODO </td><td> <b>(Re)construction of Data Spaces: Socio-Technical Perspectives on Structures, Actors and Impacts</b><br/> Greta Runge<br /><i>Keywords: data spaces
-digital infrastructures
-data sharing
-field research
-cross-sectoral innovation processes</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2161.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 2419 -->TODO </td><td> <b>Supporting Parents in Managing Online Privacy Risks</b><br/> Ann-Kristin Lieberknecht<br /><i>Keywords: Privacy Education
-Parents
-Children</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2419.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 2528 -->TODO </td><td> <b>Legal considerations for resilient, crisis-aware information management on Urban Data Platforms</b><br/> Jan-Philipp Stroscher, Frank Hessel, Kevin Logan, Michaela Leštáková, Martin Pietsch, Andreas Morgen and Yasin Alhamwy<br /><i>Keywords: Urban Data Platform
-Data Protection
-Resilience</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2528.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 2558 -->TODO </td><td> <b>Digital Security Controversy Analysis:  Security Rationalities in the Contemporary Debate on Privacy and Surveillance</b><br/> Cynthia Ng<br /><i>Keywords: Digital Security Controversy
-Privacy
-Surveillance
-Security Rationalities
-End-to-End Encryption</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2558.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 2779 -->TODO </td><td> <b>Towards privacy-preserving machine learning in sovereign data spaces: challenges and potentials</b><br/> Mehdi Akbari Gurabi, Felix Hermsen and Avikarsha Mandal<br /><i>Keywords: Data Sovereignty
-Privacy-Preserving Machine Learning
-Usage Control
-Privacy Enhancing Technologies</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2779.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 2937 -->TODO </td><td> <b>Identification of international transfers of personal data</b><br/> Hugo Pascual and Jose Del Alamo<br /><i>Keywords: Privacy
-Personal Data
-International Transfers</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2937.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 3728 -->TODO </td><td> <b>Blockchain-based Decentralized Identity Management for Healthcare Systems</b><br/> Arnaf Aziz Torongo and Mohsen Toorani<br /><i>Keywords: Self-Sovereign Identity
-Hyperledger Indy
-Hyperledger Aries
-Decentralized Identifiers
-Verifiable Credentials</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_3728.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 4401 -->TODO </td><td> <b>Privacy Analysis of the Synthetic Data using Membership Inference and Data Reconstruction Attack</b><br/> Saloni Kwatra and Vicenc Torra<br /><i>Keywords: Membership Inference Attack
-Data Reconstruction Attack
-Principal Component Analysis
-Generative Adversarial Network
-Synthetic Data</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4401.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 4773 -->TODO </td><td> <b>Assuring GDPR Conformance through Language-Based Compliance</b><br/> Chinmayi Prabhu Baramashetru, Silvia Lizeth Tapia Tarifa and Olaf Owe<br /><i>Keywords: GDPR Enforcement
-Privacy by Design
-Data protection by Deisgn
-Language Compliance
-Formal Model
-Runtime Checking</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4773.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 4883 -->TODO </td><td> <b>Subscriber's Identity Privacy in 5G Networks</b><br/> Ali Haider and Mohsen Toorani<br /><i>Keywords: Subscriber Privacy
-5G
-Cellular Networks
-Authenticated Key Agreement</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4883.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 5020 -->TODO </td><td> <b>Enhancing transparency through Personal Information Management Systems: current state of service offerings and considerations for further advancements</b><br/> Janina Rochon<br /><i>Keywords: Personal Information Management Systems
-Transparency
-Access
-Information
-Consent</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5020.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 5189 -->TODO </td><td> <b>Towards an affordance-based typology of Personal Data Stores</b><br/> August Bourgeus, Tim Theys, Nanouk Verhulst, Peter Mechant and Laurens Vandercruysse<br /><i>Keywords: Personal Data Store
-typology
-affordances</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5189.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 5350 -->TODO </td><td> <b>K-Anonymous Privacy Preserving Manifold Learning</b><br/> Sonakshi Garg and Vicenc Torra<br /><i>Keywords: K-Anonymity
-MDAV
-Manifold learning
-Geodesic distance</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5350.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 5401 -->TODO </td><td> <b>Cybersecurity of Critical Infrastructures</b><br/> Sabarathinam Chockalingam<br /><i>Keywords: Cybersecurity
-Artificial Intelligence
-Threat intelligence
-Regulations and compliance</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5401.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 5497 -->TODO </td><td> <b>Entangled: A Case Study of Data Exchange and Actor Relationships in a Mobility Ecosystem</b><br/> Daniel Richter<br /><i>Keywords: self-sovereign identity
-governance framework
-ecosystem
-multi-modal mobility
-interorganizational data exchange</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5497.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 5566 -->TODO </td><td> <b>Towards Enabling Digital Sovereignty of the AI Marketplace</b><br/> Venkata Satya Sai Ajay Daliparthi, Nurul Momen, Kurt Tutschku and Miguel De Prado<br /><i>Keywords: Data Marketplaces
-Crowdsourcing
-Smart Contracts</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5566.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 6268 -->TODO </td><td> <b>Towards User Definitions of Privacy Factors on IoT Trigger-Action apps</b><br/> Piero Romare, Victor Morel, Farzaneh Karegar and Simone Fischer-Hübner<br /><i>Keywords: Privacy Factors
-Human Centric Cybersecurity
-Trigger-Action Application</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6268.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 6308 -->TODO </td><td> <b>Integration of Verifiable Credentials in Centralized Identity Management via OAuth 2.0</b><br/> Aytaj Badirova, Faraz Fatemi Moghaddam and Ramin Yahyapour<br /><i>Keywords: Identity management
-Access control
-Verifiable Credentials</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6308.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 6322 -->TODO </td><td> <b>THE ESSENTIAL FEATURES OF TOOLS TO ENHANCE USER CONTROL OVER PERSONAL DATA</b><br/> Alexandre Humain-Lescop<br /><i>Keywords: Control
-User control
-Control tools
-Personal Data
-Privacy Dashboard
-Personal Information Management System
-PIMS
-eIDAS
-DGA</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6322.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 6999 -->TODO </td><td> <b>Consumer data and technology: consumer-data subject protection tools</b><br/> Kristýna Bónová<br /><i>Keywords: consumer data
-GDPR
-consumer protection
-privacy protection
-surveillance technologies</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6999.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 7082 -->TODO </td><td> <b>Privacy and Utility Evaluation of Synthetic Data for Machine Learning</b><br/> Felix Hermsen and Avikarsha Mandal<br /><i>Keywords: Generative adversarial networks
-differential privacy
-membership inference attacks</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_7082.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 7635 -->TODO </td><td> <b>Non-human Agency: Algorithmic Surveillance and Article 8 of the ECHR</b><br/> Isabella de Melo<br /><i>Keywords: Privacy
-Data protection
-European Convention on Human Rights
-European Court of Human Rights
-Surveillance
-Artificial Intelligence
-Public Safety
-Law Enforcement</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_7635.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 7666 -->TODO </td><td> <b>Shared data in a European Health Data Space using the example of digital health applications</b><br/> Fabiola Böning<br /><i>Keywords: European Health Data Space
-digital health applications
-electronic health record systems</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_7666.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 8210 -->TODO </td><td> <b>Towards better whistleblowing processes: understanding  privacy risks and resulting harms</b><br/> Samuel Wairimu<br /><i>Keywords: Whistleblower
-Privacy Risks
-Privacy Harms
-Journalism
-Retaliation
-External Whistleblowing Channel</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_8210.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 8265 -->TODO </td><td> <b>Economics of Privacy and the Relation to Users’ Trust</b><br/> Vera Schmitt, Tingyu Song and Danila Ferents<br /><i>Keywords: Economics of privacy
-Endowment effect
-Trust
-Privacy concern
-Negative privacy experiences</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_8265.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 9899 -->TODO </td><td> <b>A Framework for Exploring Personal Data Transparency from a Theoretical Perspective – Workshop Proposal –</b><br/> Anette Siebenkäs<br /><i>Keywords: Personal Data Transparency
-Theory
-Information Privacy</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9899.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
-<tr><td><!-- 9938 -->TODO </td><td> <b>Compliance By Design: Balancing Data Protection, Cybersecurity and AI Regulation in Software and System Development</b><br/> Bjørn Aslak Juliussen<br /><i>Keywords: Privacy
-Data Protection
-Concurrent Compliance
-Cybersecurity</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9938.pdf"><img src="/assets/images/pdficon.png" border="0" width="64"/></a></td></tr>
+<tr><td><!-- ﻿# -->TODO </td><td> <b>title</b><br/> authors<br /><i>Keywords: keywords</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_﻿#.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 401 -->TODO </td><td> <b>Private Training Approaches - A Primer</b><br/> Jenni Reuben and Ala Sarah Alaqra<br /><i>Keywords: Machine learning, Private learning, Privacy</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 432 -->TODO </td><td> <b>Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges</b><br/> Marcela Tuler de Oliveira and Elyas Khorasani<br /><i>Keywords: Digital identity, Distributed access control policies, Data Sharing, Blockchain</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 623 -->TODO </td><td> <b>Between the right to the protection of personal data and the right to health. Evolving EU regulatory framework on secondary use of electronic personal health data for medical research</b><br/> Paweł Hajduk<br /><i>Keywords: Secondary Use of Personal Health Data, Medical Research, Data Protection</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_623.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 728 -->TODO </td><td> <b>What are You Willing to Pay to Protect Your Instagram Data? Examining the Privacy Paradox in the Social Media Context</b><br/> Paul Michel Dit Ferrer, Vera Schmitt, Arooj Anwar Khan and Ina Kern<br /><i>Keywords: Information Privacy, Social Media, Willingness To Pay, Privacy Paradox</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_728.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 951 -->TODO </td><td> <b>Non-Interactive Authentication Scheme for Vehicular Ad-hoc Networks: Security, Privacy, and Accountability</b><br/> Mahdi Akil and Sujash Naskar<br /><i>Keywords: VANETs, Attribute-based cerdentials, Idemix, Verifiable encryption</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_951.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 1098 -->TODO </td><td> <b>Mind The Gap: Can Air-Gaps Keep Your Private Data Secure?</b><br/> Mordechai Guri<br /><i>Keywords: air-gap, networks, data privacy, data protection, security, data leakage, cyber attacks, information protection, regulations</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1098.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 1105 -->TODO </td><td> <b>Who is the attacker - Analyzing data protection violations in health care</b><br/> Ramona Schmidt and Ina Schiering<br /><i>Keywords: privacy, data protection, GDPR, health related data</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1105.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 1762 -->TODO </td><td> <b>Secure and GDPR-Compliant Authentication for Data Subject Rights Enforcement</b><br/> Malte Hansen and Andre Büttner<br /><i>Keywords: Data Subject Rights, Authentication, GDPR</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1762.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 2021 -->TODO </td><td> <b>User Interaction Data in Apps: Comparing Policy Claims to Implementations</b><br/> Feiyang Tang and Bjarte M. Østvold<br /><i>Keywords: Mobile Apps, Transparency, Trust, Interaction Data, Privacy Policy</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2021.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 2128 -->TODO </td><td> <b>Proposal for a Tutorial: Shared, public and out of control – Your data on the public web</b><br/> Carolin Gilga<br /><i>Keywords: public data, data protection, psychology, web monitoring, screen scraping, social media monitoring, interdisciplinarity</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2128.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 2161 -->TODO </td><td> <b>(Re)construction of Data Spaces: Socio-Technical Perspectives on Structures, Actors and Impacts</b><br/> Greta Runge<br /><i>Keywords: data spaces, digital infrastructures, data sharing, field research, cross-sectoral innovation processes</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2161.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 2419 -->TODO </td><td> <b>Supporting Parents in Managing Online Privacy Risks</b><br/> Ann-Kristin Lieberknecht<br /><i>Keywords: Privacy Education, Parents, Children</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2419.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 2528 -->TODO </td><td> <b>Legal considerations for resilient, crisis-aware information management on Urban Data Platforms</b><br/> Jan-Philipp Stroscher, Frank Hessel, Kevin Logan, Michaela Leštáková, Martin Pietsch, Andreas Morgen and Yasin Alhamwy<br /><i>Keywords: Urban Data Platform, Data Protection, Resilience</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2528.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 2558 -->TODO </td><td> <b>Digital Security Controversy Analysis:  Security Rationalities in the Contemporary Debate on Privacy and Surveillance</b><br/> Cynthia Ng<br /><i>Keywords: Digital Security Controversy, Privacy, Surveillance, Security Rationalities, End-to-End Encryption</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2558.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 2779 -->TODO </td><td> <b>Towards privacy-preserving machine learning in sovereign data spaces: challenges and potentials</b><br/> Mehdi Akbari Gurabi, Felix Hermsen and Avikarsha Mandal<br /><i>Keywords: Data Sovereignty, Privacy-Preserving Machine Learning, Usage Control, Privacy Enhancing Technologies</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2779.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 2937 -->TODO </td><td> <b>Identification of international transfers of personal data</b><br/> Hugo Pascual and Jose Del Alamo<br /><i>Keywords: Privacy, Personal Data, International Transfers</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2937.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 3728 -->TODO </td><td> <b>Blockchain-based Decentralized Identity Management for Healthcare Systems</b><br/> Arnaf Aziz Torongo and Mohsen Toorani<br /><i>Keywords: Self-Sovereign Identity, Hyperledger Indy, Hyperledger Aries, Decentralized Identifiers, Verifiable Credentials</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_3728.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 4401 -->TODO </td><td> <b>Privacy Analysis of the Synthetic Data using Membership Inference and Data Reconstruction Attack</b><br/> Saloni Kwatra and Vicenc Torra<br /><i>Keywords: Membership Inference Attack, Data Reconstruction Attack, Principal Component Analysis, Generative Adversarial Network, Synthetic Data</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4401.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 4773 -->TODO </td><td> <b>Assuring GDPR Conformance through Language-Based Compliance</b><br/> Chinmayi Prabhu Baramashetru, Silvia Lizeth Tapia Tarifa and Olaf Owe<br /><i>Keywords: GDPR Enforcement, Privacy by Design, Data protection by Deisgn, Language Compliance, Formal Model, Runtime Checking</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4773.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 4883 -->TODO </td><td> <b>Subscriber's Identity Privacy in 5G Networks</b><br/> Ali Haider and Mohsen Toorani<br /><i>Keywords: Subscriber Privacy, 5G, Cellular Networks, Authenticated Key Agreement</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4883.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 5020 -->TODO </td><td> <b>Enhancing transparency through Personal Information Management Systems: current state of service offerings and considerations for further advancements</b><br/> Janina Rochon<br /><i>Keywords: Personal Information Management Systems, Transparency, Access, Information, Consent</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5020.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 5189 -->TODO </td><td> <b>Towards an affordance-based typology of Personal Data Stores</b><br/> August Bourgeus, Tim Theys, Nanouk Verhulst, Peter Mechant and Laurens Vandercruysse<br /><i>Keywords: Personal Data Store, typology, affordances</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5189.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 5350 -->TODO </td><td> <b>K-Anonymous Privacy Preserving Manifold Learning</b><br/> Sonakshi Garg and Vicenc Torra<br /><i>Keywords: K-Anonymity, MDAV, Manifold learning, Geodesic distance</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5350.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 5401 -->TODO </td><td> <b>Cybersecurity of Critical Infrastructures</b><br/> Sabarathinam Chockalingam<br /><i>Keywords: Cybersecurity, Artificial Intelligence, Threat intelligence, Regulations and compliance</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5401.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 5497 -->TODO </td><td> <b>Entangled: A Case Study of Data Exchange and Actor Relationships in a Mobility Ecosystem</b><br/> Daniel Richter<br /><i>Keywords: self-sovereign identity, governance framework, ecosystem, multi-modal mobility, interorganizational data exchange</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5497.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 5566 -->TODO </td><td> <b>Towards Enabling Digital Sovereignty of the AI Marketplace</b><br/> Venkata Satya Sai Ajay Daliparthi, Nurul Momen, Kurt Tutschku and Miguel De Prado<br /><i>Keywords: Data Marketplaces, Crowdsourcing, Smart Contracts</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5566.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 6268 -->TODO </td><td> <b>Towards User Definitions of Privacy Factors on IoT Trigger-Action apps</b><br/> Piero Romare, Victor Morel, Farzaneh Karegar and Simone Fischer-Hübner<br /><i>Keywords: Privacy Factors, Human Centric Cybersecurity, Trigger-Action Application</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6268.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 6308 -->TODO </td><td> <b>Integration of Verifiable Credentials in Centralized Identity Management via OAuth 2.0</b><br/> Aytaj Badirova, Faraz Fatemi Moghaddam and Ramin Yahyapour<br /><i>Keywords: Identity management, Access control, Verifiable Credentials</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6308.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 6322 -->TODO </td><td> <b>THE ESSENTIAL FEATURES OF TOOLS TO ENHANCE USER CONTROL OVER PERSONAL DATA</b><br/> Alexandre Humain-Lescop<br /><i>Keywords: Control, User control, Control tools, Personal Data, Privacy Dashboard, Personal Information Management System, PIMS, eIDAS, DGA</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6322.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 6999 -->TODO </td><td> <b>Consumer data and technology: consumer-data subject protection tools</b><br/> Kristýna Bónová<br /><i>Keywords: consumer data, GDPR, consumer protection, privacy protection, surveillance technologies</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6999.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 7082 -->TODO </td><td> <b>Privacy and Utility Evaluation of Synthetic Data for Machine Learning</b><br/> Felix Hermsen and Avikarsha Mandal<br /><i>Keywords: Generative adversarial networks, differential privacy, membership inference attacks</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_7082.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 7635 -->TODO </td><td> <b>Non-human Agency: Algorithmic Surveillance and Article 8 of the ECHR</b><br/> Isabella de Melo<br /><i>Keywords: Privacy, Data protection, European Convention on Human Rights, European Court of Human Rights, Surveillance, Artificial Intelligence, Public Safety, Law Enforcement</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_7635.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 7666 -->TODO </td><td> <b>Shared data in a European Health Data Space using the example of digital health applications</b><br/> Fabiola Böning<br /><i>Keywords: European Health Data Space, digital health applications, electronic health record systems</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_7666.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 8210 -->TODO </td><td> <b>Towards better whistleblowing processes: understanding  privacy risks and resulting harms</b><br/> Samuel Wairimu<br /><i>Keywords: Whistleblower, Privacy Risks, Privacy Harms, Journalism, Retaliation, External Whistleblowing Channel</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_8210.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 8265 -->TODO </td><td> <b>Economics of Privacy and the Relation to Users’ Trust</b><br/> Vera Schmitt, Tingyu Song and Danila Ferents<br /><i>Keywords: Economics of privacy, Endowment effect, Trust, Privacy concern, Negative privacy experiences</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_8265.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 9899 -->TODO </td><td> <b>A Framework for Exploring Personal Data Transparency from a Theoretical Perspective – Workshop Proposal –</b><br/> Anette Siebenkäs<br /><i>Keywords: Personal Data Transparency, Theory, Information Privacy</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9899.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
+<tr><td><!-- 9938 -->TODO </td><td> <b>Compliance By Design: Balancing Data Protection, Cybersecurity and AI Regulation in Software and System Development</b><br/> Bjørn Aslak Juliussen<br /><i>Keywords: Privacy, Data Protection, Concurrent Compliance, Cybersecurity</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9938.pdf"><img src="/assets/images/pdficon.png" border="0" width="128"/></a></td></tr>
 
 </tbody>
 <thead><tr><td colspan="3">Track B: Paper Session 2 (Chair: TODO) </td></tr></thead>
