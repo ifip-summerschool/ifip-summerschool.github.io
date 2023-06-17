@@ -12,27 +12,56 @@ toc_sticky: true
 
 ### Tuesday, Aug 8th, 2023
 
+#### Session 1
+
 <table>
-<tr>
-<td>
-<table>
+<thead><tr><td> </td><td> </td><td> </td></tr></thead>
+<tbody>
 <tr><td align="right"> TODO </td><td> Private Training Approaches - A Primer (Jenni Reuben and Ala Sarah Alaqra) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> Rapid proliferation of Machine Learning (ML) systems in today online services and applications have given rise to privacy preserving machine learning research. In the tutorial we present a primer understanding of general design patterns when it comes to private training of ML models, by drawing in research works from the state-of-the art private learning methods. We divide the tutorial into two parts, first the knowledge on the topic is introduced to the participants, which later is followed up through a hands-on exercise. </td><td> &nbsp;</td></tr>
 <tr><td align="right"> TODO </td><td> Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges (Marcela Tuler de Oliveira and Elyas Khorasani) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> In this workshop, we will present SmartAccess [1], a distributed Attribute-Based Access Control system based on Smart Contracts and Distributed Ledger Technology (DLT) that allows joint data controllers to define and enforce access control policies in consensus with transparency and auditability. Then we will explore the privacy challenges regarding the authentication and authorisation phase and potential solutions, including European Digital Identity. The session will be interactive, with participants working in groups to propose digital identity solutions to the privacy issues identified in the presentation (with compliance to the eIDAS framework ideally or other frameworks). This workshop is directed at a multidisciplinary audience, and participants from any field can be involved and give their contributions. </td><td> &nbsp;</td></tr>
+</tbody>
 </table>
-</td>
-<td>
+
 <table>
+<thead><tr><td> </td><td> </td><td> </td></tr></thead>
+<tbody>
 <tr><td align="right"> TODO </td><td> Private Training Approaches - A Primer (Jenni Reuben and Ala Sarah Alaqra) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> Rapid proliferation of Machine Learning (ML) systems in today online services and applications have given rise to privacy preserving machine learning research. In the tutorial we present a primer understanding of general design patterns when it comes to private training of ML models, by drawing in research works from the state-of-the art private learning methods. We divide the tutorial into two parts, first the knowledge on the topic is introduced to the participants, which later is followed up through a hands-on exercise. </td><td> &nbsp;</td></tr>
 <tr><td align="right"> TODO </td><td> Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges (Marcela Tuler de Oliveira and Elyas Khorasani) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> In this workshop, we will present SmartAccess [1], a distributed Attribute-Based Access Control system based on Smart Contracts and Distributed Ledger Technology (DLT) that allows joint data controllers to define and enforce access control policies in consensus with transparency and auditability. Then we will explore the privacy challenges regarding the authentication and authorisation phase and potential solutions, including European Digital Identity. The session will be interactive, with participants working in groups to propose digital identity solutions to the privacy issues identified in the presentation (with compliance to the eIDAS framework ideally or other frameworks). This workshop is directed at a multidisciplinary audience, and participants from any field can be involved and give their contributions. </td><td> &nbsp;</td></tr>
+</tbody>
 </table>
-</td>
-<td>
+
 <table>
+<thead><tr><td> </td><td> </td><td> </td></tr></thead>
+<tbody>
 <tr><td align="right"> TODO </td><td> Private Training Approaches - A Primer (Jenni Reuben and Ala Sarah Alaqra) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> Rapid proliferation of Machine Learning (ML) systems in today online services and applications have given rise to privacy preserving machine learning research. In the tutorial we present a primer understanding of general design patterns when it comes to private training of ML models, by drawing in research works from the state-of-the art private learning methods. We divide the tutorial into two parts, first the knowledge on the topic is introduced to the participants, which later is followed up through a hands-on exercise. </td><td> &nbsp;</td></tr>
 <tr><td align="right"> TODO </td><td> Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges (Marcela Tuler de Oliveira and Elyas Khorasani) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> In this workshop, we will present SmartAccess [1], a distributed Attribute-Based Access Control system based on Smart Contracts and Distributed Ledger Technology (DLT) that allows joint data controllers to define and enforce access control policies in consensus with transparency and auditability. Then we will explore the privacy challenges regarding the authentication and authorisation phase and potential solutions, including European Digital Identity. The session will be interactive, with participants working in groups to propose digital identity solutions to the privacy issues identified in the presentation (with compliance to the eIDAS framework ideally or other frameworks). This workshop is directed at a multidisciplinary audience, and participants from any field can be involved and give their contributions. </td><td> &nbsp;</td></tr>
+</tbody>
 </table>
-</td>
-</tr>
+
+#### Session 2
+
+<table>
+<thead><tr><td> </td><td> </td><td> </td></tr></thead>
+<tbody>
+<tr><td align="right"> TODO </td><td> Private Training Approaches - A Primer (Jenni Reuben and Ala Sarah Alaqra) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> Rapid proliferation of Machine Learning (ML) systems in today online services and applications have given rise to privacy preserving machine learning research. In the tutorial we present a primer understanding of general design patterns when it comes to private training of ML models, by drawing in research works from the state-of-the art private learning methods. We divide the tutorial into two parts, first the knowledge on the topic is introduced to the participants, which later is followed up through a hands-on exercise. </td><td> &nbsp;</td></tr>
+<tr><td align="right"> TODO </td><td> Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges (Marcela Tuler de Oliveira and Elyas Khorasani) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> In this workshop, we will present SmartAccess [1], a distributed Attribute-Based Access Control system based on Smart Contracts and Distributed Ledger Technology (DLT) that allows joint data controllers to define and enforce access control policies in consensus with transparency and auditability. Then we will explore the privacy challenges regarding the authentication and authorisation phase and potential solutions, including European Digital Identity. The session will be interactive, with participants working in groups to propose digital identity solutions to the privacy issues identified in the presentation (with compliance to the eIDAS framework ideally or other frameworks). This workshop is directed at a multidisciplinary audience, and participants from any field can be involved and give their contributions. </td><td> &nbsp;</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead><tr><td> </td><td> </td><td> </td></tr></thead>
+<tbody>
+<tr><td align="right"> TODO </td><td> Private Training Approaches - A Primer (Jenni Reuben and Ala Sarah Alaqra) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> Rapid proliferation of Machine Learning (ML) systems in today online services and applications have given rise to privacy preserving machine learning research. In the tutorial we present a primer understanding of general design patterns when it comes to private training of ML models, by drawing in research works from the state-of-the art private learning methods. We divide the tutorial into two parts, first the knowledge on the topic is introduced to the participants, which later is followed up through a hands-on exercise. </td><td> &nbsp;</td></tr>
+<tr><td align="right"> TODO </td><td> Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges (Marcela Tuler de Oliveira and Elyas Khorasani) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> In this workshop, we will present SmartAccess [1], a distributed Attribute-Based Access Control system based on Smart Contracts and Distributed Ledger Technology (DLT) that allows joint data controllers to define and enforce access control policies in consensus with transparency and auditability. Then we will explore the privacy challenges regarding the authentication and authorisation phase and potential solutions, including European Digital Identity. The session will be interactive, with participants working in groups to propose digital identity solutions to the privacy issues identified in the presentation (with compliance to the eIDAS framework ideally or other frameworks). This workshop is directed at a multidisciplinary audience, and participants from any field can be involved and give their contributions. </td><td> &nbsp;</td></tr>
+</tbody>
+</table>
+
+<table>
+<thead><tr><td> </td><td> </td><td> </td></tr></thead>
+<tbody>
+<tr><td align="right"> TODO </td><td> Private Training Approaches - A Primer (Jenni Reuben and Ala Sarah Alaqra) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> Rapid proliferation of Machine Learning (ML) systems in today online services and applications have given rise to privacy preserving machine learning research. In the tutorial we present a primer understanding of general design patterns when it comes to private training of ML models, by drawing in research works from the state-of-the art private learning methods. We divide the tutorial into two parts, first the knowledge on the topic is introduced to the participants, which later is followed up through a hands-on exercise. </td><td> &nbsp;</td></tr>
+<tr><td align="right"> TODO </td><td> Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges (Marcela Tuler de Oliveira and Elyas Khorasani) </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf">paper</a></td></tr><tr><td>&nbsp;</td><td> In this workshop, we will present SmartAccess [1], a distributed Attribute-Based Access Control system based on Smart Contracts and Distributed Ledger Technology (DLT) that allows joint data controllers to define and enforce access control policies in consensus with transparency and auditability. Then we will explore the privacy challenges regarding the authentication and authorisation phase and potential solutions, including European Digital Identity. The session will be interactive, with participants working in groups to propose digital identity solutions to the privacy issues identified in the presentation (with compliance to the eIDAS framework ideally or other frameworks). This workshop is directed at a multidisciplinary audience, and participants from any field can be involved and give their contributions. </td><td> &nbsp;</td></tr>
+</tbody>
 </table>
 
 ### Wednesday, Aug 9th, 2023
