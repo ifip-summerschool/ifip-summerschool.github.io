@@ -20,15 +20,19 @@ toc_sticky: true
 *09:00-09:15: Opening Remarks*
 
 ***Welcome from the Local Organizers***
+
 **Nils Gruschka, Oslo University**
 
 **Welcome from the Steering Committee**
+
 *Simone Fischer-Hübner, Karlstad University*
 
 *09:15-10:15: Keynote*
 
 **Looooonger longer longer Title**
+
 *Author*
+
 *(Affiliation)*
 
 *10:30-12:30*
