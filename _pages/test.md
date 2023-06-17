@@ -11,7 +11,9 @@ toc_sticky: true
 
 ### Monday, Aug 7th, 2023
 
-*19:00*
+*19:00* Get-Together
+
+**Informal Get-Together at TODOLOCATION for those already present**
 
 ### Tuesday, Aug 8th, 2023
 
