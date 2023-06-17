@@ -13,11 +13,11 @@ toc_sticky: true
 
 *19:00* Get-Together
 
-**Informal Get-Together at TODOLOCATION for those already present**
+*Informal Get-Together at TODOLOCATION for those already present*
 
 ### Tuesday, Aug 8th, 2023
 
-*08:30-09:00 Registration and Coffee Break*
+*08:30-09:00* **Registration and Coffee Break**
 
 *09:00-09:15 Opening Remarks*
 
