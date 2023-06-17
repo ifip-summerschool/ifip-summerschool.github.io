@@ -29,13 +29,17 @@ toc_sticky: true
 
 *Simone Fischer-Hübner, Karlstad University*
 
-*09:15-10:15* **Keynote** (Room: TODOROOM)
+*09:15-10:15* **Keynote**
+
+(Session Chair: TODOCHAIR, Room: TODOROOM)
 
 **Title**
 
 *Speaker, Affiliation*
 
-(Session Chair: TODOCHAIR)
+Abstract
+
+Bio
 
 *10:30-12:30* **Paper Sessions**
 
@@ -71,25 +75,33 @@ toc_sticky: true
 </tbody>
 </table>
 
-*15:15-16:15* **Keynote** (Room: TODOROOM)
+*15:15-16:15* **Keynote**
+
+(Session Chair: TODOCHAIR, Room: TODOROOM)
 
 **Title**
 
 *Speaker, Affiliation*
 
-(Session Chair: TODOCHAIR)
+Abstract
+
+Bio
 
 *19:00 Reception at Oslo City Hall*
 
 ### Wednesday, Aug 9th, 2023
 
-*09:00-10:00* **Keynote** (Room: TODOROOM)
+*09:00-10:00* **Keynote**
+
+(Session Chair: TODOCHAIR, Room: TODOROOM)
 
 **Title**
 
 *Speaker, Affiliation*
 
-(Session Chair: TODOCHAIR)
+Abstract
+
+Bio
 
 *10:15-12:15* **Paper Sessions**
 
@@ -133,27 +145,37 @@ toc_sticky: true
 </tbody>
 </table>
 
-*14:30-15:30* **Keynote** (Room: TODOROOM)
+*14:30-15:30* **Keynote**
+
+(Session Chair: TODOCHAIR, Room: TODOROOM)
 
 **Title**
 
 *Speaker, Affiliation*
 
-(Session Chair: TODOCHAIR)
+Abstract
+
+Bio
 
 *19:00 Summer School Dinner*
 
 ### Thursday, Aug 10th, 2023
 
-*09:00-10:00* **Keynote** (Room: TODOROOM)
+*09:00-10:00* **Keynote**
+
+(Session Chair: TODOCHAIR, Room: TODOROOM)
 
 **Title**
 
 *Speaker, Affiliation*
 
-(Session Chair: TODOCHAIR)
+Abstract
+
+Bio
 
 *10:00-11:00* **Panel**
+
+(Session Chair: TODOCHAIR, Room: TODOROOM)
 
 **Title**
 
@@ -162,8 +184,6 @@ toc_sticky: true
 - *Speaker, Affiliation*
 - *Speaker, Affiliation*
 - *Speaker, Affiliation*
-
-(Session Chair: TODOCHAIR)
 
 *11:15-12:45* **Paper Sessions**
 
@@ -200,27 +220,45 @@ toc_sticky: true
 <thead><tr><td colspan="3"><b>Track C: Rump Session </b><br />(Chair: TODOCHAIR , Room: TODOROOM )</td></tr></thead>
 </table>
 
-*14:30-15:30* **Keynote** (Room: TODOROOM)
+*14:30-15:30* **Keynote**
+
+(Session Chair: TODOCHAIR, Room: TODOROOM)
+
+**Title**
+
+*Speaker, Affiliation*
+
+Abstract
+
+Bio
 
 *16:30*
 
 ### Friday, Aug 11th, 2023
 
-*09:00-10:00* **Keynote** (Room: TODOROOM)
+*09:00-10:00* **Keynote**
+
+(Session Chair: TODOCHAIR, Room: TODOROOM)
 
 **Title**
 
 *Speaker, Affiliation*
 
-(Session Chair: TODOCHAIR)
+Abstract
 
-*10:00-11:00* **Keynote** (Room: TODOROOM)
+Bio
+
+*10:00-11:00* **Keynote**
+
+(Session Chair: TODOCHAIR, Room: TODOROOM)
 
 **Title**
 
 *Speaker, Affiliation*
 
-(Session Chair: TODOCHAIR)
+Abstract
+
+Bio
 
 *11:15-12:45* **Paper Sessions**
 
