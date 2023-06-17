@@ -15,17 +15,21 @@ toc_sticky: true
 
 ### Tuesday, Aug 8th, 2023
 
-*08:30-09:00*
+*08:30-09:00: Registration and Coffee Break*
 
-Registration and Coffee Break
+*09:00-09:15: Opening Remarks*
 
-*09:00-09:15*
+***Welcome from the Local Organizers***
+**Nils Gruschka, Oslo University**
 
-Introduction
+**Welcome from the Steering Committee**
+*Simone Fischer-Hübner, Karlstad University*
 
-*09:15-10:15*
+*09:15-10:15: Keynote*
 
-Keynote: TODO
+**Looooonger longer longer Title**
+*Author*
+*(Affiliation)*
 
 *10:30-12:30*
 
