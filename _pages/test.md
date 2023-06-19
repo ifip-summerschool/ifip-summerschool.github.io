@@ -71,7 +71,7 @@ Bio
 </tbody>
 <thead><tr><td colspan="3"><b>Track B: Workshop </b><br />(Chair: TODOCHAIR , Room: TODOROOM )</td></tr></thead>
 <tbody>
-<tr><td> </td><td> <b>Meiko Jensen and Simone Fischer-H&uuml;bner:</b><br/> <b>TRUEdig Workshop</b><br /><i>(Keywords: TODO)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4883.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 401 --> </td><td> <b>Jenni Reuben and Ala Sarah Alaqra:</b><br/> <b>Private Training Approaches - A Primer</b><br /><i>(Keywords: Machine learning, Private learning, Privacy)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
 </table>
 
@@ -157,6 +157,18 @@ Abstract
 
 Bio
 
+*15:30-16:15* **Panel**
+
+(Session Chair: TODOCHAIR, Room: TODOROOM)
+
+**Title**
+
+- *Speaker, Affiliation*
+- *Speaker, Affiliation*
+- *Speaker, Affiliation*
+- *Speaker, Affiliation*
+- *Speaker, Affiliation*
+
 *19:00 Summer School Dinner*
 
 ### Thursday, Aug 10th, 2023
@@ -173,19 +185,7 @@ Abstract
 
 Bio
 
-*10:00-11:00* **Panel**
-
-(Session Chair: TODOCHAIR, Room: TODOROOM)
-
-**Title**
-
-- *Speaker, Affiliation*
-- *Speaker, Affiliation*
-- *Speaker, Affiliation*
-- *Speaker, Affiliation*
-- *Speaker, Affiliation*
-
-*11:15-12:45* **Paper Sessions**
+*10:15-11:45* **Paper Sessions**
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session 1: Machine Learning </b><br />(Chair: TODOCHAIR , Room: TODOROOM )</td></tr></thead>
@@ -200,7 +200,7 @@ Bio
 </tbody>
 <thead><tr><td colspan="3"><b>Track C: Workshop </b><br />(Chair: TODOCHAIR , Room: TODOROOM )</td></tr></thead>
 <tbody>
-<tr><td><!-- 401 --> </td><td> <b>Jenni Reuben and Ala Sarah Alaqra:</b><br/> <b>Private Training Approaches - A Primer</b><br /><i>(Keywords: Machine learning, Private learning, Privacy)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td> </td><td> <b>Meiko Jensen and Simone Fischer-H&uuml;bner:</b><br/> <b>TRUEdig Workshop</b><br /><i>(Keywords: TODO)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4883.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
 </table>
 
