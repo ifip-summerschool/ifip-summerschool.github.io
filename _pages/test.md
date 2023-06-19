@@ -56,7 +56,7 @@ Bio
 <tr><td><!-- 6308 --> </td><td> <b>Aytaj Badirova, Faraz Fatemi Moghaddam and Ramin Yahyapour:</b><br/> <b>Integration of Verifiable Credentials in Centralized Identity Management via OAuth 2.0</b><br /><i>(Keywords: Identity management, Access control, Verifiable Credentials)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6308.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 3728 --> </td><td> <b>Arnaf Aziz Torongo and Mohsen Toorani:</b><br/> <b>Blockchain-based Decentralized Identity Management for Healthcare Systems</b><br /><i>(Keywords: Self-Sovereign Identity, Hyperledger Indy, Hyperledger Aries, Decentralized Identifiers, Verifiable Credentials)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_3728.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop </b><br />(Chair: TODOCHAIR , Room: TODOROOM )</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track C: Workshop </b><br />(Room: TODOROOM )</td></tr></thead>
 <tbody>
 <tr><td><!-- 5401 --> </td><td> <b>Sabarathinam Chockalingam:</b><br/> <b>Cybersecurity of Critical Infrastructures</b><br /><i>(Keywords: Cybersecurity, Artificial Intelligence, Threat intelligence, Regulations and compliance)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
@@ -67,11 +67,15 @@ Bio
 <table>
 <thead><tr><td colspan="3"><b>Track A: Tutorial </b><br />(Chair: TODOCHAIR , Room: TODOROOM )</td></tr></thead>
 <tbody>
-<tr><td><!-- 2128 --> </td><td> <b>Carolin Gilga:</b><br/> <b>Proposal for a Tutorial: Shared, public and out of control &ndash; Your data on the public web</b><br /><i>(Keywords: public data, data protection, psychology, web monitoring, screen scraping, social media monitoring, interdisciplinarity)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2128.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 2128 --> </td><td> <b>Carolin Gilga:</b><br/> <b>Shared, public and out of control &ndash; Your data on the public web</b><br /><i>(Keywords: public data, data protection, psychology, web monitoring, screen scraping, social media monitoring, interdisciplinarity)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2128.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Workshop </b><br />(Chair: TODOCHAIR , Room: TODOROOM )</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Workshop </b><br />(Room: TODOROOM )</td></tr></thead>
 <tbody>
 <tr><td><!-- 401 --> </td><td> <b>Jenni Reuben and Ala Sarah Alaqra:</b><br/> <b>Private Training Approaches - A Primer</b><br /><i>(Keywords: Machine learning, Private learning, Privacy)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+</tbody>
+<thead><tr><td colspan="3"><b>Track C: Workshop (cont'd) </b><br />(Room: TODOROOM )</td></tr></thead>
+<tbody>
+<tr><td><!-- 5401 --> </td><td> <b>Sabarathinam Chockalingam:</b><br/> <b>Cybersecurity of Critical Infrastructures</b><br /><i>(Keywords: Cybersecurity, Artificial Intelligence, Threat intelligence, Regulations and compliance)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
 </table>
 
@@ -118,7 +122,7 @@ Bio
 <tr><td><!-- 9938 --> </td><td> <b>Bj&oslash;rn Aslak Juliussen:</b><br/> <b>Compliance By Design: Balancing Data Protection, Cybersecurity and AI Regulation in Software and System Development</b><br /><i>(Keywords: Privacy, Data Protection, Concurrent Compliance, Cybersecurity)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9938.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 2558 --> </td><td> <b>Cynthia Ng:</b><br/> <b>Digital Security Controversy Analysis:  Security Rationalities in the Contemporary Debate on Privacy and Surveillance</b><br /><i>(Keywords: Digital Security Controversy, Privacy, Surveillance, Security Rationalities, End-to-End Encryption)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2558.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop </b><br />(Chair: TODOCHAIR , Room: TODOROOM )</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track C: Workshop </b><br />(Room: TODOROOM )</td></tr></thead>
 <tbody>
 <tr><td><!-- 432 --> </td><td> <b>Marcela Tuler de Oliveira and Elyas Khorasani:</b><br/> <b>Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges</b><br /><i>(Keywords: Digital identity, Distributed access control policies, Data Sharing, Blockchain)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
@@ -139,9 +143,9 @@ Bio
 <tr><td><!-- 623 --> </td><td> <b>Paweł Hajduk:</b><br/> <b>Between the right to the protection of personal data and the right to health. Evolving EU regulatory framework on secondary use of electronic personal health data for medical research</b><br /><i>(Keywords: Secondary Use of Personal Health Data, Medical Research, Data Protection)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_623.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 1105 --> </td><td> <b>Ramona Schmidt and Ina Schiering:</b><br/> <b>Who is the attacker - Analyzing data protection violations in health care</b><br /><i>(Keywords: privacy, data protection, GDPR, health related data)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1105.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop </b><br />(Chair: TODOCHAIR , Room: TODOROOM )</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track C: Workshop </b><br />(Room: TODOROOM )</td></tr></thead>
 <tbody>
-<tr><td><!-- 9899 --> </td><td> <b>Anette Siebenk&auml;s:</b><br/> <b>A Framework for Exploring Personal Data Transparency from a Theoretical Perspective &ndash; Workshop Proposal &ndash;</b><br /><i>(Keywords: Personal Data Transparency, Theory, Information Privacy)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9899.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
+<tr><td><!-- 9899 --> </td><td> <b>Anette Siebenk&auml;s:</b><br/> <b>A Framework for Exploring Personal Data Transparency from a Theoretical Perspective</b><br /><i>(Keywords: Personal Data Transparency, Theory, Information Privacy)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9899.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
 </table>
 
@@ -198,7 +202,7 @@ Bio
 <tr><td><!-- 1762 --> </td><td> <b>Malte Hansen and Andre B&uuml;ttner:</b><br/> <b>Secure and GDPR-Compliant Authentication for Data Subject Rights Enforcement</b><br /><i>(Keywords: Data Subject Rights, Authentication, GDPR)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1762.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 <tr><td><!-- 6999 --> </td><td> <b>Krist&yacute;na B&oacute;nov&aacute;:</b><br/> <b>Consumer data and technology: consumer-data subject protection tools</b><br /><i>(Keywords: consumer data, GDPR, consumer protection, privacy protection, surveillance technologies)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6999.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop </b><br />(Chair: TODOCHAIR , Room: TODOROOM )</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track C: Workshop </b><br />(Room: TODOROOM )</td></tr></thead>
 <tbody>
 <tr><td> </td><td> <b>Meiko Jensen and Simone Fischer-H&uuml;bner:</b><br/> <b>TRUEdig Workshop</b><br /><i>(Keywords: TODO)</i> </td><td> <a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4883.pdf"><img src="/assets/images/pdficon.png" border="0"/></a></td></tr>
 </tbody>
