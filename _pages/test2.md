@@ -1,6 +1,6 @@
 ---
 title: "Program"
-permalink: /test/
+permalink: /test2/
 toc: true
 toc_sticky: true
 ---
