@@ -5,8 +5,6 @@ toc: true
 toc_sticky: true
 ---
 
-## Program
-
 ### Overview
 
 (to follow)
