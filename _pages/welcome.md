@@ -18,6 +18,14 @@ logos:
     title: "Forum Privatheit"
 ---
 
+## First draft programme online!
+
+You can access a first draft of this year's schedule [here](/programme).
+
+Please note that not all details are already fixed, and that changes are still possible.
+
+If you cannot find your presentation timeslot or have any other issues, please contact the organizers via Meiko(dot)Jensen(at)kau.se .
+
 ## Confirmed Invited Speakers @IFIPSC2023!
 
 We can confirm the following set of high-profile invited speakers to present at the summer school:
