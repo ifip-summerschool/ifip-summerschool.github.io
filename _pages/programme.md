@@ -1,6 +1,8 @@
 ---
 title: "Programme"
 permalink: /programme/
+toc: true
+toc_sticky: true
 ---
 
 ## Program
