@@ -13,7 +13,9 @@ toc_sticky: true
 
 *19:00* **Get-Together**
 
-*Informal Get-Together for those already present (location to be announced)*
+*Informal Get-Together for those already present*
+
+*(location to be announced)*
 
 ### Tuesday, Aug 8th, 2023
 
