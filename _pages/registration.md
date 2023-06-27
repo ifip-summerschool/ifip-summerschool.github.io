@@ -16,7 +16,7 @@ You can access the payment form either via the registration form above, or direc
 
 [https://epay.uio.no/shop/order-create.html?projectStepId=5206909](https://epay.uio.no/shop/order-create.html?projectStepId=5206909).
 
-**Please note that the deadline for registration is June 25th, 2023.**
+**Please note that the extended deadline for registration is July 14th, 2023.**
 
 For each accepted abstract, at least one of the authors must register for participation before that deadline in order to be included in the final programme.
 

@@ -18,6 +18,12 @@ logos:
     title: "Forum Privatheit"
 ---
 
+## Registration deadline extended!
+
+We extended the registration deadline for general participants to July 14th, 2023.
+
+Please note that this is a hard deadline that cannot be extended further!
+
 ## First draft programme online!
 
 You can access a first draft of this year's schedule [here](/programme).
