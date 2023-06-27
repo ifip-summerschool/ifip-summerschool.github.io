@@ -53,5 +53,5 @@ The city of Oslo, capital of the Kingdom of Norway, is located at the northern s
 * the Viking Ship Museum, or
 * the Holmenkollen Ski Jump.
 
-
+Details on all of these can be found here: [https://www.visitoslo.com/en/](https://www.visitoslo.com/en/)
 
