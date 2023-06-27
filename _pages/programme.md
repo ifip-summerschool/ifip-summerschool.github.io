@@ -196,11 +196,7 @@ toc_sticky: true
 
 *to be detailed*
 
-*10:00-11:00* **Keynote**
-
-*to be detailed*
-
-*11:15-12:45* **Paper Sessions**
+*10:15-11:45* **Paper Sessions**
 
 
 <table>
@@ -218,6 +214,10 @@ toc_sticky: true
 <tbody>
 </tbody>
 </table>
+
+*11:45-12:45* **Keynote**
+
+*to be detailed*
 
 *12:45-13:15* **Closing Remarks**
 
