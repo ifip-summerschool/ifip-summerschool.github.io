@@ -23,7 +23,7 @@ You can easily reach the building by metro (T-bane) via the station "Forskningsp
 
 Oslo has two airports, *Gardermoen (OSL)* and *Sandefjord (TRF)*, with the former being the most common way to reach the city. Both are easily connected to the city centre by bus and/or train. Alternatively, several ferries directly target the city, such as Color Line from Kiel in Germany, DFDS from Copenhagen in Denmark, or Stena Line from Frederikshavn in Denmark.
 
-Within the city, the public metro system works very well, with the metro (T-Bane) operating frequently until late. The operator is called Ruter, see [https://ruter.no/en](https://ruter.no/en). Tickets can be purchased online, via the Ruter app, or at the vending machines at almost every metro station. What might be of special interest are the 24-hour and 7-day tickets, see [here](https://ruter.no/en/buying-tickets/tickets-and-fares/). Tickets are valid for zones, and within each zone, they are valid for all buses, trams, metro, and even local ferries (which can be a nice option to get a free harbour boat ride to the nearby islands).
+Within the city, the public metro system works very well, with the metro (T-Bane) operating frequently until late. The operator is called Ruter, see [https://ruter.no/en](https://ruter.no/en). Tickets can be purchased via the Ruter app or at the Narvesen stores you can find almost everywhere in the city. What might be of special interest are the 24-hour and 7-day tickets, see [here](https://ruter.no/en/buying-tickets/tickets-and-fares/). Tickets are valid for zones, and within each zone, they are valid for all buses, trams, metro, and even local ferries (which can be a nice option to get a free harbour boat ride to the nearby islands).
 
 **Accommodation**
 
