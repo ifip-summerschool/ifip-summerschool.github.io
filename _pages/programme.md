@@ -63,7 +63,7 @@ toc_sticky: true
 <tbody>
 <tr><td><!-- 2128 --> </td><td> <b>Carolin Gilga:</b><br/> <b>Shared, public and out of control &ndash; Your data on the public web</b><br /><i>(Keywords: public data, data protection, psychology, web monitoring, screen scraping, social media monitoring, interdisciplinarity)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2128.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Workshop </b></td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Tutorial </b></td></tr></thead>
 <tbody>
 <tr><td><!-- 401 --> </td><td> <b>Jenni Reuben and Ala Sarah Alaqra:</b><br/> <b>Private Training Approaches - A Primer</b><br /><i>(Keywords: Machine learning, Private learning, Privacy)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
