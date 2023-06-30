@@ -30,7 +30,7 @@ You can access a first draft of this year's schedule [here](/programme).
 
 Please note that not all details are already fixed, and that changes are still possible.
 
-If you cannot find your presentation timeslot or have any other issues, please contact the organizers via Meiko(dot)Jensen(at)kau.se .
+If you cannot find your presentation timeslot or have any other issues, please contact the organizers via ifipsc2023(AT)easychair.org .
 
 ## Confirmed Invited Speakers @IFIPSC2023!
 
