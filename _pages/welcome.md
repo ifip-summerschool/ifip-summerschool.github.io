@@ -66,7 +66,7 @@ You can find the submission system here:
   
 [https://easychair.org/my/conference?conf=ifipsc2023](https://easychair.org/my/conference?conf=ifipsc2023)
 
-You can contact the organizers via Meiko(dot)Jensen(at)kau.se .
+You can contact the organizers via ifipsc2023(AT)easychair.org .
 
 ## Sponsors
 
