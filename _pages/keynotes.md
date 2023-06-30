@@ -110,13 +110,16 @@ cooking, and practising Okinawan Goju Ryu karate-do.
 <hr><a name="fritsch" />
 ### Lothar Fritsch
 
-**TBD**  
+**The subtle differences between privacy risk and privacy breach consequences**  
 
-**Abstract:** tbd
+**Abstract:** Handling personal data may cause risks for the persons whose data is processed or stored. But which risks are we referring to when we discuss privacy risks? Regulation sets specific emphasis on especially sensitive personal data, as well as on processing efforts that are affecting a large number of individuals, or society as a whole. Risk analysis in the form of data protection impact analysis (DPIA) and Privacy risk analysis (PRA) is required or strongly recommended in various frameworks. 
+This talk will examine the concept of privacy risks and their consequences. It will present the various perspectives and what they actually capture, or neglect. Listeners will gain a better understanding on risks and consequences of personal data breaches, and about the maturity of the assessment methods used to assess such risks.
 
 ![Photo showing Lothar Fritsch](/assets/images/keynotes/lotharfritsch.jpg "Lothar Fritsch")
 
-**Lothar Fritsch** tbd
+**Lothar Fritsch** is professor for Applied Cybersecurity at Oslo Metropolitan University. His areas of interest are information privacy, identity management, cyberwar, privacy technology, privacy risk assessment, and general cybersecurity topics.
+Lothar has been part of pan-European research projects on privacy and identity management, and has worked on topics such as privacy enhanding technology, privacy risk analysis, and human factors in information security.
+He teaches and supervises in many areas of computer science, among others Internet of Things, network security and Privacy by Design. He supervises PhD students, and bachelor and master thesis projects, in collaboration with industry, associations and public organizations.
 
 
 
