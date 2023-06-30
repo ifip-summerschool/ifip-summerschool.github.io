@@ -14,7 +14,7 @@ toc_sticky: true
 
 ![Photo showing Maria Grazia Porcedda](/assets/images/keynotes/mariagraziaporcedda.jpg "Maria Grazia Porcedda")
 
-**Maria Grazia Porcedda** [website](https://www.tcd.ie/law/people/mariagrp) is Assistant Professor in Information Technology Law at the School of Law, Trinity College Dublin. She works on the relationship between law and technology and especially privacy, data protection, cybersecurity and cybercrime in EU law. She is the author of ‘Cybersecurity, Privacy and Data Protection in EU Law. A law, policy and technology analaysis’ (Hart Publishing 2023).
+**Maria Grazia Porcedda** [(website)](https://www.tcd.ie/law/people/mariagrp) is Assistant Professor in Information Technology Law at the School of Law, Trinity College Dublin. She works on the relationship between law and technology and especially privacy, data protection, cybersecurity and cybercrime in EU law. She is the author of ‘Cybersecurity, Privacy and Data Protection in EU Law. A law, policy and technology analaysis’ (Hart Publishing 2023).
 Maria Grazia is the Principal Investigator, among others, of the Provost’s PhD Projects
 Award PRECYLI on cybercrime law in Ireland. She is a member of the EDPB's Support Pool of Experts, of Horizon Europe VIGILANT’s Advisory Board and of ADAPT, the Global Centre of Excellence for Digital Content and Media Innovation. She visited the School of Law at Pompeu Fabra University (Barcelona) and the Tilburg Institute of Law and Technology.  Maria Grazia holds a PhD in Law from the European University Institute.
 
