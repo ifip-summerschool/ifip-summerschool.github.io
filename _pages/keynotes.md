@@ -5,7 +5,10 @@ toc: true
 toc_sticky: true
 ---
 
-### Martin Degeling - The Digital Services Act: New rules for online platforms and how to hold them accountable <a name="degeling" />
+<a name="degeling" />
+### Martin Degeling
+
+**The Digital Services Act: New rules for online platforms and how to hold them accountable**
 
 **Abstract:** The Digital Services Act is a legislative approach by the European Union to regulate (large) online platforms. It imposes a new set of roles regarding transparency, e.g. in content moderation or online advertising and mandates risk assessments and audits for those very large online platforms and search engines like Instagram, TikTok, Google or Zalando. They must assess the impact of their platforms, organizations and algorithms on systemic risks like election integrity or the mental health of its users.
 In my talk, I will describe the idea of the DSA and its implications for researchers conducting studies on online platform data practices. I will draw examples from our research on TikTok and approaches to discuss methodologies for data-based platform research. 
@@ -13,7 +16,10 @@ In my talk, I will describe the idea of the DSA and its implications for researc
 **Martin Degeling** is a researcher at Stiftung Neue Verantwortung, a berlin-based Think Tank for technology policy. Previously, he was a post-doctoral researcher at Ruhr-University Bochum and Carnegie Mellon University. His research interests are black-box auditing of algorithmic systems, usable privacy and security, and data protection.
 
 
-### Lothar Fritsch - Title  <a name="fritsch" />
+<a name="fritsch" />
+### Lothar Fritsch
+
+**TBD**  
 
 ![Photo showing Lothar Fritsch](/assets/images/keynotes/lotharfritsch.jpg "Lothar Fritsch")
 
@@ -21,8 +27,10 @@ In my talk, I will describe the idea of the DSA and its implications for researc
 
 **Lothar Fritsch** tbd
 
+<a name="hansen" />
+### Marit Hansen
 
-### Marit Hansen - AI and Data Protection - Challenges for Controllers, Processors and Supervisory Authorities <a name="hansen" />
+**AI and Data Protection - Challenges for Controllers, Processors and Supervisory Authorities**
 
 ![Photo showing Marit Hansen](/assets/images/keynotes/marithansen.jpg "Marit Hansen")
 
@@ -30,7 +38,10 @@ In my talk, I will describe the idea of the DSA and its implications for researc
 
 **Marit Hansen** tbd
 
-### Jaap-Henk Hoepman - Privacy Is Hard And Seven Other Myths. Achieving Privacy Through Careful Design  <a name="hoepman" />
+<a name="hoepman" />
+### Jaap-Henk Hoepman 
+
+**Privacy Is Hard And Seven Other Myths. Achieving Privacy Through Careful Design**
 
 ![Photo showing Jaap-Henk Hoepman](/assets/images/keynotes/jaaphenkhoepman.jpg "Jaap-Henk Hoepman")
 
@@ -71,7 +82,10 @@ In his free time he enjoys making composing music, designing graphics,
 cooking, and practising Okinawan Goju Ryu karate-do.
 
 
-### Liina Kamm - Deploying privacy enhancing technologies in an e-government  <a name="kamm" />
+<a name="kamm" />
+### Liina Kamm
+
+**Deploying privacy enhancing technologies in an e-government**
 
 ![Photo showing Liina Kamm](/assets/images/keynotes/liinakamm.jpg "Liina Kamm")
 
@@ -79,8 +93,10 @@ cooking, and practising Okinawan Goju Ryu karate-do.
 
 **Liina Kamm** received her PhD in computer science from the University of Tartu in 2015. She is a senior researcher and research project lead at Cybernetica (a deep-tech SME in Estonia). She started her professional career designing software for the Estonian Genome Foundation and for cross-border clinical trials. She then focused her research on enabling privacy-preserving statistical analysis for social sciences and genomics.
 
+<a name="porcedda" />
+### Maria Grazia Porcedda
 
-### Maria Grazia Porcedda - The effacement of information technology from EU law: the need for collaborative approaches to redesign the EU’s regulatory architecture  <a name="porcedda" />
+**The effacement of information technology from EU law: the need for collaborative approaches to redesign the EU’s regulatory architecture**
 
 ![Photo showing Maria Grazia Porcedda](/assets/images/keynotes/mariagraziaporcedda.jpg "Maria Grazia Porcedda")
 
@@ -90,7 +106,10 @@ cooking, and practising Okinawan Goju Ryu karate-do.
 Maria Grazia is the Principal Investigator, among others, of the Provost’s PhD Projects
 Award PRECYLI on cybercrime law in Ireland. She is a member of the EDPB's Support Pool of Experts, of Horizon Europe VIGILANT’s Advisory Board and of ADAPT, the Global Centre of Excellence for Digital Content and Media Innovation. She visited the School of Law at Pompeu Fabra University (Barcelona) and the Tilburg Institute of Law and Technology.  Maria Grazia holds a PhD in Law from the European University Institute.
 
-### Stefan Schiffner - On the endeavour designing and deploying a privacy certification scheme under the GDPR  <a name="schiffner" />
+<a name="schiffner" />
+### Stefan Schiffner
+
+**On the endeavour designing and deploying a privacy certification scheme under the GDPR**
 
 ![Photo showing Stefan Schiffner, copyright held by Johannes Noldt, BHH](/assets/images/keynotes/stefanschiffner.jpg "Stefan Schiffner, (c)Johannes Noldt, BHH")
 
