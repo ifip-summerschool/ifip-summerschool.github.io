@@ -18,7 +18,7 @@ toc_sticky: true
 Maria Grazia is the Principal Investigator, among others, of the Provost’s PhD Projects
 Award PRECYLI on cybercrime law in Ireland. She is a member of the EDPB's Support Pool of Experts, of Horizon Europe VIGILANT’s Advisory Board and of ADAPT, the Global Centre of Excellence for Digital Content and Media Innovation. She visited the School of Law at Pompeu Fabra University (Barcelona) and the Tilburg Institute of Law and Technology.  Maria Grazia holds a PhD in Law from the European University Institute.
 
-<a name="schiffner" />
+<hr><a name="schiffner" />
 ### Stefan Schiffner
 
 **On the endeavour designing and deploying a privacy certification scheme under the GDPR**
@@ -31,7 +31,7 @@ Award PRECYLI on cybercrime law in Ireland. She is a member of the EDPB's Suppor
 
 <!-- kim -->
 
-<a name="degeling" />
+<hr><a name="degeling" />
 ### Martin Degeling
 
 **The Digital Services Act: New rules for online platforms and how to hold them accountable**
@@ -41,7 +41,7 @@ In my talk, I will describe the idea of the DSA and its implications for researc
 
 **Martin Degeling** is a researcher at Stiftung Neue Verantwortung, a berlin-based Think Tank for technology policy. Previously, he was a post-doctoral researcher at Ruhr-University Bochum and Carnegie Mellon University. His research interests are black-box auditing of algorithmic systems, usable privacy and security, and data protection.
 
-<a name="hoepman" />
+<hr><a name="hoepman" />
 ### Jaap-Henk Hoepman 
 
 **Privacy Is Hard And Seven Other Myths. Achieving Privacy Through Careful Design**
@@ -84,7 +84,7 @@ Achieving Privacy through Careful Design appeared at MIT Press.
 In his free time he enjoys making composing music, designing graphics,
 cooking, and practising Okinawan Goju Ryu karate-do.
 
-<a name="kamm" />
+<hr><a name="kamm" />
 ### Liina Kamm
 
 **Deploying privacy enhancing technologies in an e-government**
@@ -95,7 +95,7 @@ cooking, and practising Okinawan Goju Ryu karate-do.
 
 **Liina Kamm** received her PhD in computer science from the University of Tartu in 2015. She is a senior researcher and research project lead at Cybernetica (a deep-tech SME in Estonia). She started her professional career designing software for the Estonian Genome Foundation and for cross-border clinical trials. She then focused her research on enabling privacy-preserving statistical analysis for social sciences and genomics.
 
-<a name="hansen" />
+<hr><a name="hansen" />
 ### Marit Hansen
 
 **AI and Data Protection - Challenges for Controllers, Processors and Supervisory Authorities**
@@ -107,7 +107,7 @@ cooking, and practising Okinawan Goju Ryu karate-do.
 **Marit Hansen** tbd
 
 
-<a name="fritsch" />
+<hr><a name="fritsch" />
 ### Lothar Fritsch
 
 **TBD**  
