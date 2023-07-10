@@ -35,7 +35,7 @@ Informal Get-Together for those already present. Meeting point is on top of the 
 
 [**On the endeavour designing and deploying a privacy certification scheme under the GDPR**](/keynotes#stefan-schiffner) 
 
-(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found)) 
+(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Meiko Jensen) 
 
 *10:30-12:30* **Paper Sessions**
 
@@ -52,7 +52,7 @@ Informal Get-Together for those already present. Meeting point is on top of the 
 <tr><td><!-- 6308 --> </td><td> <b>Aytaj Badirova, Faraz Fatemi Moghaddam and Ramin Yahyapour:</b><br/> <b>Integration of Verifiable Credentials in Centralized Identity Management via OAuth 2.0</b><br /><i>(Keywords: Identity management, Access control, Verifiable Credentials)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6308.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 3728 --> </td><td> <b>Arnaf Aziz Torongo and Mohsen Toorani:</b><br/> <b>Blockchain-based Decentralized Identity Management for Healthcare Systems</b><br /><i>(Keywords: Self-Sovereign Identity, Hyperledger Indy, Hyperledger Aries, Decentralized Identifiers, Verifiable Credentials)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_3728.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop: Cybersecurity of Critical Infrastructures</b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>, Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track C: Workshop: Cybersecurity of Critical Infrastructures</b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>)</td></tr></thead>
 <tbody>
 <tr><td> </td><td> <b>Aida Akbarzadeh and Xhesika Ramaj:</b><br/> <b> Welcome; About RECYCIN: Reinforcing Competence in Cybersecurity of Critical Infrastructures: A Norway – US Partnership Project</b></td><td> </td></tr>
 <tr><td> </td><td> <b>Laszlo Erdodi:</b><br/> <b>Power Grid from Offensive Perspective</b><br /><i>(Hands-on Session)</i> </td><td> </td></tr>
@@ -70,7 +70,7 @@ Informal Get-Together for those already present. Meeting point is on top of the 
 <tbody>
 <tr><td><!-- 401 --> </td><td> <b>Jenni Reuben and Ala Sarah Alaqra:</b><br/> <b>Private Training Approaches - A Primer</b><br /><i>(Keywords: Machine learning, Private learning, Privacy)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop: Cybersecurity of Critical Infrastructures (cont'd) </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>, Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track C: Workshop: Cybersecurity of Critical Infrastructures (cont'd) </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>)</td></tr></thead>
 <tbody>
 <tr><td> </td><td> <b>Siv Hilde Houmb:</b><br/> <b>Using IEC 62443 to Manage Cyber Security Risks to Power Grid and Oil and Gas Installations</b></td><td> </td></tr>
 <tr><td> </td><td> <b>Nathan Lau:</b><br/> <b>Adopting an Ecological Approach to Develop User Interfaces for Cybersecurity of Industrial Control Systems</b></td><td> </td></tr>
@@ -101,7 +101,7 @@ The evening is free to mingle and explore the city.
 *10:15-12:15* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Policy Validation </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Policy Validation </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Simone Fischer-Hübner)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Chinmayi Prabhu Baramashetru, Silvia Lizeth Tapia Tarifa and Olaf Owe:</b><br/> <b>Assuring GDPR Conformance through Language-Based Compliance</b><br /><i>(Keywords: GDPR Enforcement, Privacy by Design, Data protection by Deisgn, Language Compliance, Formal Model, Runtime Checking)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4773.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Feiyang Tang and Bjarte M. &Oslash;stvold:</b><br/> <b>User Interaction Data in Apps: Comparing Policy Claims to Implementations</b><br /><i>(Keywords: Mobile Apps, Transparency, Trust, Interaction Data, Privacy Policy)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2021.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -176,12 +176,12 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 <tr><td><!-- 2779 --> </td><td> <b>Mehdi Akbari Gurabi, Felix Hermsen and Avikarsha Mandal:</b><br/> <b>Towards privacy-preserving machine learning in sovereign data spaces: challenges and potentials</b><br /><i>(Keywords: Data Sovereignty, Privacy-Preserving Machine Learning, Usage Control, Privacy Enhancing Technologies)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2779.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 5350 --> </td><td> <b>Sonakshi Garg and Vicenc Torra:</b><br/> <b>K-Anonymous Privacy Preserving Manifold Learning</b><br /><i>(Keywords: K-Anonymity, MDAV, Manifold learning, Geodesic distance)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5350.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Paper Session 8: Data Subjects </b><br/>(Room: <a href="https://link.mazemap.com/eZ3Fb991">JAVA</a>, Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Paper Session 8: Data Subjects </b><br/>(Room: <a href="https://link.mazemap.com/eZ3Fb991">JAVA</a>, Session Chair: Marit Hansen)</td></tr></thead>
 <tbody>
 <tr><td><!-- 1762 --> </td><td> <b>Malte Hansen and Andre B&uuml;ttner:</b><br/> <b>Secure and GDPR-Compliant Authentication for Data Subject Rights Enforcement</b><br /><i>(Keywords: Data Subject Rights, Authentication, GDPR)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1762.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 6999 --> </td><td> <b>Krist&yacute;na B&oacute;nov&aacute;:</b><br/> <b>Consumer data and technology: consumer-data subject protection tools</b><br /><i>(Keywords: consumer data, GDPR, consumer protection, privacy protection, surveillance technologies)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6999.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop: TRUEdig project </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>, Session Chair: Meiko Jensen)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track C: Workshop: TRUEdig project </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>)</td></tr></thead>
 <tbody>
 <tr><td> </td><td> <b>Albin Zuccato:</b><br/> <b>(to be announced)</b></td><td> </td></tr>
 <tr><td> </td><td> <b>Ala Sarah Alaqra and Simone Fischer-Hübner:</b><br/> <b>Human factors for usable PETs</b></td><td> </td></tr>
@@ -196,7 +196,7 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 <tr><td><!-- 951 --> </td><td> <b>Mahdi Akil and Sujash Naskar:</b><br/> <b>Non-Interactive Authentication Scheme for Vehicular Ad-hoc Networks: Security, Privacy, and Accountability</b><br /><i>(Keywords: VANETs, Attribute-based cerdentials, Idemix, Verifiable encryption)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_951.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 5497 --> </td><td> <b>Daniel Richter:</b><br/> <b>Entangled: A Case Study of Data Exchange and Actor Relationships in a Mobility Ecosystem</b><br /><i>(Keywords: self-sovereign identity, governance framework, ecosystem, multi-modal mobility, interorganizational data exchange)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5497.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Paper Session 10: Data Subjects (cont'd)</b><br/>(Room: <a href="https://link.mazemap.com/eZ3Fb991">JAVA</a>, Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Paper Session 10: Data Subjects (cont'd)</b><br/>(Room: <a href="https://link.mazemap.com/eZ3Fb991">JAVA</a>, Session Chair: Marit Hansen)</td></tr></thead>
 <tbody>
 <tr><td><!-- 5020 --> </td><td> <b>Janina Rochon:</b><br/> <b>Enhancing transparency through Personal Information Management Systems: current state of service offerings and considerations for further advancements</b><br /><i>(Keywords: Personal Information Management Systems, Transparency, Access, Information, Consent)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5020.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 6268 --> </td><td> <b>Piero Romare, Victor Morel, Farzaneh Karegar and Simone Fischer-H&uuml;bner:</b><br/> <b>Towards User Definitions of Privacy Factors on IoT Trigger-Action apps</b><br /><i>(Keywords: Privacy Factors, Human Centric Cybersecurity, Trigger-Action Application)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6268.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
