@@ -42,19 +42,19 @@ toc_sticky: true
 *10:30-12:30* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Power Structures & Individuals </b><br/>(Room: [SMALLTALK](https://link.mazemap.com/WIJD9Ey2), Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Power Structures & Individuals </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found))</td></tr></thead>
 <tbody>
 <tr><td><!-- 2161 --> </td><td> <b>Greta Runge:</b><br/> <b>(Re)construction of Data Spaces: Socio-Technical Perspectives on Structures, Actors and Impacts</b><br /><i>(Keywords: data spaces, digital infrastructures, data sharing, field research, cross-sectoral innovation processes)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2161.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 7635 --> </td><td> <b>Isabella de Melo:</b><br/> <b>Non-human Agency: Algorithmic Surveillance and Article 8 of the ECHR</b><br /><i>(Keywords: Privacy, Data protection, European Convention on Human Rights, European Court of Human Rights, Surveillance, Artificial Intelligence, Public Safety, Law Enforcement)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_7635.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 5189 --> </td><td> <b>August Bourgeus, Tim Theys, Nanouk Verhulst, Peter Mechant and Laurens Vandercruysse:</b><br/> <b>Towards an affordance-based typology of Personal Data Stores</b><br /><i>(Keywords: Personal Data Store, typology, affordances)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5189.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Paper Session 2: Identity Management </b><br/>(Room: [JAVA](https://link.mazemap.com/eZ3Fb991), Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Paper Session 2: Identity Management </b><br/>(Room: <a href="https://link.mazemap.com/eZ3Fb991">JAVA</a>, Session Chair: (to be found))</td></tr></thead>
 <tbody>
 <tr><td><!-- 4883 --> </td><td> <b>Ali Haider and Mohsen Toorani:</b><br/> <b>Subscriber's Identity Privacy in 5G Networks</b><br /><i>(Keywords: Subscriber Privacy, 5G, Cellular Networks, Authenticated Key Agreement)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4883.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 6308 --> </td><td> <b>Aytaj Badirova, Faraz Fatemi Moghaddam and Ramin Yahyapour:</b><br/> <b>Integration of Verifiable Credentials in Centralized Identity Management via OAuth 2.0</b><br /><i>(Keywords: Identity management, Access control, Verifiable Credentials)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6308.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 3728 --> </td><td> <b>Arnaf Aziz Torongo and Mohsen Toorani:</b><br/> <b>Blockchain-based Decentralized Identity Management for Healthcare Systems</b><br /><i>(Keywords: Self-Sovereign Identity, Hyperledger Indy, Hyperledger Aries, Decentralized Identifiers, Verifiable Credentials)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_3728.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop </b><br/>(Room: [LOGO](https://link.mazemap.com/ZkCyljtE), Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track C: Workshop </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>, Session Chair: (to be found))</td></tr></thead>
 <tbody>
 <tr><td><!-- 5401 --> </td><td> <b>Sabarathinam Chockalingam:</b><br/> <b>Cybersecurity of Critical Infrastructures</b><br /><i>(Keywords: Cybersecurity, Artificial Intelligence, Threat intelligence, Regulations and compliance)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
