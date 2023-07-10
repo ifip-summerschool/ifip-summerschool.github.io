@@ -7,7 +7,7 @@ toc_sticky: true
 
 ### Overview
 
-(to follow soon)
+(to follow)
 
 ### Monday, Aug 7th, 2023
 
