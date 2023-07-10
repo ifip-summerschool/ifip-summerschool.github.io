@@ -92,13 +92,13 @@ The evening is free to mingle and explore the city, but for those interested, a 
 *10:15-12:15* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Policy Validation </b></td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Policy Validation </b></td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Chinmayi Prabhu Baramashetru, Silvia Lizeth Tapia Tarifa and Olaf Owe:</b><br/> <b>Assuring GDPR Conformance through Language-Based Compliance</b><br /><i>(Keywords: GDPR Enforcement, Privacy by Design, Data protection by Deisgn, Language Compliance, Formal Model, Runtime Checking)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4773.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Feiyang Tang and Bjarte M. &Oslash;stvold:</b><br/> <b>User Interaction Data in Apps: Comparing Policy Claims to Implementations</b><br /><i>(Keywords: Mobile Apps, Transparency, Trust, Interaction Data, Privacy Policy)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2021.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2937 --> </td><td> <b>Hugo Pascual and Jose Del Alamo:</b><br/> <b>Identification of international transfers of personal data</b><br /><i>(Keywords: Privacy, Personal Data, International Transfers)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2937.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Paper Session 2: Privacy & Security </b></td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Paper Session 4: Privacy & Security </b></td></tr></thead>
 <tbody>
 <tr><td><!-- 1098 --> </td><td> <b>Mordechai Guri:</b><br/> <b>Mind The Gap: Can Air-Gaps Keep Your Private Data Secure?</b><br /><i>(Keywords: air-gap, networks, data privacy, data protection, security, data leakage, cyber attacks, information protection, regulations)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1098.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 9938 --> </td><td> <b>Bj&oslash;rn Aslak Juliussen:</b><br/> <b>Compliance By Design: Balancing Data Protection, Cybersecurity and AI Regulation in Software and System Development</b><br /><i>(Keywords: Privacy, Data Protection, Concurrent Compliance, Cybersecurity)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9938.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -113,13 +113,13 @@ The evening is free to mingle and explore the city, but for those interested, a 
 *13:15-14:15* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 4: Risk </b></td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 5: Risk </b></td></tr></thead>
 <tbody>
 <tr><td><!-- 2528 --> </td><td> <b>Jan-Philipp Stroscher, Frank Hessel, Kevin Logan, Michaela Le&scaron;t&aacute;kov&aacute;, Martin Pietsch, Andreas Morgen and Yasin Alhamwy:</b><br/> <b>Legal considerations for resilient, crisis-aware information management on Urban Data Platforms</b><br /><i>(Keywords: Urban Data Platform, Data Protection, Resilience)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2528.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 8210 --> </td><td> <b>Samuel Wairimu:</b><br/> <b>Towards better whistleblowing processes: understanding  privacy risks and resulting harms</b><br /><i>(Keywords: Whistleblower, Privacy Risks, Privacy Harms, Journalism, Retaliation, External Whistleblowing Channel)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_8210.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2419 --> </td><td> <b>Ann-Kristin Lieberknecht:</b><br/> <b>Supporting Parents in Managing Online Privacy Risks</b><br /><i>(Keywords: Privacy Education, Parents, Children)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2419.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Paper Session 5: Healthcare </b></td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Paper Session 6: Healthcare </b></td></tr></thead>
 <tbody>
 <tr><td><!-- 7666 --> </td><td> <b>Fabiola B&ouml;ning:</b><br/> <b>Shared data in a European Health Data Space using the example of digital health applications</b><br /><i>(Keywords: European Health Data Space, digital health applications, electronic health record systems)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_7666.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 623 --> </td><td> <b>Paweł Hajduk:</b><br/> <b>Between the right to the protection of personal data and the right to health. Evolving EU regulatory framework on secondary use of electronic personal health data for medical research</b><br /><i>(Keywords: Secondary Use of Personal Health Data, Medical Research, Data Protection)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_623.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -157,12 +157,12 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 *10:15-11:45* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Machine Learning </b></td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 7: Machine Learning </b></td></tr></thead>
 <tbody>
 <tr><td><!-- 2779 --> </td><td> <b>Mehdi Akbari Gurabi, Felix Hermsen and Avikarsha Mandal:</b><br/> <b>Towards privacy-preserving machine learning in sovereign data spaces: challenges and potentials</b><br /><i>(Keywords: Data Sovereignty, Privacy-Preserving Machine Learning, Usage Control, Privacy Enhancing Technologies)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2779.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 5350 --> </td><td> <b>Sonakshi Garg and Vicenc Torra:</b><br/> <b>K-Anonymous Privacy Preserving Manifold Learning</b><br /><i>(Keywords: K-Anonymity, MDAV, Manifold learning, Geodesic distance)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5350.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Paper Session 2: Data Subjects </b></td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Paper Session 8: Data Subjects </b></td></tr></thead>
 <tbody>
 <tr><td><!-- 1762 --> </td><td> <b>Malte Hansen and Andre B&uuml;ttner:</b><br/> <b>Secure and GDPR-Compliant Authentication for Data Subject Rights Enforcement</b><br /><i>(Keywords: Data Subject Rights, Authentication, GDPR)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1762.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 6999 --> </td><td> <b>Krist&yacute;na B&oacute;nov&aacute;:</b><br/> <b>Consumer data and technology: consumer-data subject protection tools</b><br /><i>(Keywords: consumer data, GDPR, consumer protection, privacy protection, surveillance technologies)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6999.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -176,12 +176,12 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 *12:45-14:15* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Mobility/VANETs </b></td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 9: Mobility/VANETs </b></td></tr></thead>
 <tbody>
 <tr><td><!-- 951 --> </td><td> <b>Mahdi Akil and Sujash Naskar:</b><br/> <b>Non-Interactive Authentication Scheme for Vehicular Ad-hoc Networks: Security, Privacy, and Accountability</b><br /><i>(Keywords: VANETs, Attribute-based cerdentials, Idemix, Verifiable encryption)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_951.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 5497 --> </td><td> <b>Daniel Richter:</b><br/> <b>Entangled: A Case Study of Data Exchange and Actor Relationships in a Mobility Ecosystem</b><br /><i>(Keywords: self-sovereign identity, governance framework, ecosystem, multi-modal mobility, interorganizational data exchange)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5497.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Paper Session 2 (cont'd): Data Subjects </b></td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Paper Session 10 (cont'd): Data Subjects </b></td></tr></thead>
 <tbody>
 <tr><td><!-- 5020 --> </td><td> <b>Janina Rochon:</b><br/> <b>Enhancing transparency through Personal Information Management Systems: current state of service offerings and considerations for further advancements</b><br /><i>(Keywords: Personal Information Management Systems, Transparency, Access, Information, Consent)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5020.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 6268 --> </td><td> <b>Piero Romare, Victor Morel, Farzaneh Karegar and Simone Fischer-H&uuml;bner:</b><br/> <b>Towards User Definitions of Privacy Factors on IoT Trigger-Action apps</b><br /><i>(Keywords: Privacy Factors, Human Centric Cybersecurity, Trigger-Action Application)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6268.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -212,12 +212,12 @@ The rest of the evening is free to mingle.
 
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Synthetic Data </b></td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 11: Synthetic Data </b></td></tr></thead>
 <tbody>
 <tr><td><!-- 7082 --> </td><td> <b>Felix Hermsen and Avikarsha Mandal:</b><br/> <b>Privacy and Utility Evaluation of Synthetic Data for Machine Learning</b><br /><i>(Keywords: Generative adversarial networks, differential privacy, membership inference attacks)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_7082.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 4401 --> </td><td> <b>Saloni Kwatra and Vicenc Torra:</b><br/> <b>Privacy Analysis of the Synthetic Data using Membership Inference and Data Reconstruction Attack</b><br /><i>(Keywords: Membership Inference Attack, Data Reconstruction Attack, Principal Component Analysis, Generative Adversarial Network, Synthetic Data)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Paper Session 2: Privacy Economics </b></td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Paper Session 12: Privacy Economics </b></td></tr></thead>
 <tbody>
 <tr><td><!-- 728 --> </td><td> <b>Paul Michel Dit Ferrer, Vera Schmitt, Arooj Anwar Khan and Ina Kern:</b><br/> <b>What are You Willing to Pay to Protect Your Instagram Data? Examining the Privacy Paradox in the Social Media Context</b><br /><i>(Keywords: Information Privacy, Social Media, Willingness To Pay, Privacy Paradox)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_728.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 8265 --> </td><td> <b>Vera Schmitt, Tingyu Song and Danila Ferents:</b><br/> <b>Economics of Privacy and the Relation to Users&rsquo; Trust</b><br /><i>(Keywords: Economics of privacy, Endowment effect, Trust, Privacy concern, Negative privacy experiences)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_8265.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
