@@ -33,11 +33,9 @@ toc_sticky: true
 
 (Room: SMALLTALK)
 
-*09:15-10:15* **Keynote**
+*09:15-10:15* **Keynote: Stefan Schiffner**
 
 [**On the endeavour designing and deploying a privacy certification scheme under the GDPR**](/keynotes#stefan-schiffner) 
-
-[**Stefan Schiffner**, *BHH University of Applied Sciences Hamburg*](/keynotes#stefan-schiffner) 
 
 (Room: SMALLTALK, Session Chair: (to be found)) 
 
@@ -79,11 +77,9 @@ toc_sticky: true
 </tbody>
 </table>
 
-*15:15-16:15* **Keynote**
+*15:15-16:15* **Keynote: Maria Grazia Porcedda**
 
 [**The effacement of information technology from EU law: the need for collaborative approaches to redesign the EU’s regulatory architecture**](/keynotes#maria-grazia-porcedda) 
-
-[**Maria Grazia Porcedda**, *Trinity College Dublin*](/keynotes#maria-grazia-porcedda) 
 
 (Room: SMALLTALK, Session Chair: (to be found))
 
@@ -95,11 +91,9 @@ The evening is free to mingle and explore the city, but for those interested, a 
 
 ### Wednesday, Aug 9th, 2023
 
-*09:00-10:00* **Keynote**
+*09:00-10:00* **Keynote: Lothar Fritsch**
 
 [**The subtle differences between privacy risk and privacy breach consequences**](/keynotes#lothar-fritsch) 
-
-[**Lothar Fritsch**, *Oslo Metropolitan University*](/keynotes#lothar-fritsch) 
 
 (Room: SMALLTALK, Session Chair: (to be found)) 
 
@@ -145,11 +139,9 @@ The evening is free to mingle and explore the city, but for those interested, a 
 </tbody>
 </table>
 
-*14:30-15:30* **Keynote**
+*14:30-15:30* **Keynote: Martin Degeling**
 
 [**The Digital Services Act: New rules for online platforms and how to hold them accountable**](/keynotes#martin-degeling) 
-
-[**Martin Degeling**, *Stiftung Neue Verantwortung*](/keynotes#martin-degeling) 
 
 (Room: SMALLTALK, Session Chair: (to be found))
 
@@ -170,11 +162,9 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 
 ### Thursday, Aug 10th, 2023
 
-*09:00-10:00* **Keynote**
+*09:00-10:00* **Keynote: Jaap-Henk Hoepman**
 
 [**Privacy Is Hard And Seven Other Myths. Achieving Privacy Through Careful Design**](/keynotes#jaap-henk-hoepman) 
-
-[**Jaap-Henk Hoepman**, *Radboud University, University of Groningen, Karlstad University*](/keynotes#jaap-henk-hoepman) 
 
 (Room: SMALLTALK, Session Chair: (to be found))
 
@@ -213,11 +203,9 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 <thead><tr><td colspan="3"><b>Track C: Rump Session </b></td></tr></thead>
 </table>
 
-*14:30-15:30* **Keynote**
+*14:30-15:30* **Keynote: TBD**
 
 [**to be detailed**](/keynotes#) 
-
-[*to be detailed*](/keynotes#) 
 
 (Room: SMALLTALK, Session Chair: (to be found))
 
@@ -232,16 +220,13 @@ The rest of the evening is free to mingle.
 
 ### Friday, Aug 11th, 2023
 
-*09:00-10:00* **Keynote**
+*09:00-10:00* **Keynote: Marit Hansen**
 
 [**AI and Data Protection - Challenges for Controllers, Processors and Supervisory Authorities**](/keynotes#marit-hansen) 
-
-[**Marit Hansen**, *Unabhängiges Landeszentrum für Datenschutz (ULD)*](/keynotes#marit-hansen) 
 
 (Room: SMALLTALK, Session Chair: (to be found))
 
 *10:15-11:45* **Paper Sessions**
-
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session 11: Synthetic Data </b></td></tr></thead>
@@ -259,11 +244,9 @@ The rest of the evening is free to mingle.
 </tbody>
 </table>
 
-*11:45-12:45* **Keynote**
+*11:45-12:45* **Keynote: Liina Kamm**
 
 [**Deploying privacy enhancing technologies in an e-government**](/keynotes#liina-kamm) 
-
-[**Liina Kamm**, *Cybernetica*](/keynotes#liina-kamm) 
 
 (Room: SMALLTALK, Session Chair: (to be found))
 
