@@ -35,7 +35,7 @@ toc_sticky: true
 
 [**On the endeavour designing and deploying a privacy certification scheme under the GDPR**](/keynotes#stefan-schiffner) 
 
-[*Stefan Schiffner, BHH University of Applied Sciences Hamburg*](/keynotes#stefan-schiffner) 
+[**Stefan Schiffner**, *BHH University of Applied Sciences Hamburg*](/keynotes#stefan-schiffner) 
 
 (Room: SMALLTALK, Session Chair: TODOCHAIR) 
 
@@ -81,7 +81,7 @@ toc_sticky: true
 
 [**The effacement of information technology from EU law: the need for collaborative approaches to redesign the EU’s regulatory architecture**](/keynotes#maria-grazia-porcedda) 
 
-[*Maria Grazia Porcedda, Trinity College Dublin*](/keynotes#maria-grazia-porcedda) 
+[**Maria Grazia Porcedda**, *Trinity College Dublin*](/keynotes#maria-grazia-porcedda) 
 
 (Room: SMALLTALK, Session Chair: TODOCHAIR)
 
@@ -97,7 +97,7 @@ The evening is free to mingle and explore the city, but for those interested, a 
 
 [**The subtle differences between privacy risk and privacy breach consequences**](/keynotes#lothar-fritsch) 
 
-[*Lothar Fritsch, Oslo Metropolitan University*](/keynotes#lothar-fritsch) 
+[**Lothar Fritsch**, *Oslo Metropolitan University*](/keynotes#lothar-fritsch) 
 
 (Room: SMALLTALK, Session Chair: TODOCHAIR) 
 
@@ -147,7 +147,7 @@ The evening is free to mingle and explore the city, but for those interested, a 
 
 [**The Digital Services Act: New rules for online platforms and how to hold them accountable**](/keynotes#martin-degeling) 
 
-[*Martin Degeling, Stiftung Neue Verantwortung*](/keynotes#martin-degeling) 
+[**Martin Degeling**, *Stiftung Neue Verantwortung*](/keynotes#martin-degeling) 
 
 (Room: SMALLTALK, Session Chair: TODOCHAIR)
 
@@ -172,7 +172,7 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 
 [**Privacy Is Hard And Seven Other Myths. Achieving Privacy Through Careful Design**](/keynotes#jaap-henk-hoepman) 
 
-[*Jaap-Henk Hoepman, Affiliation*](/keynotes#jaap-henk-hoepman) 
+[**Jaap-Henk Hoepman**, *Radboud University, University of Groningen, Karlstad University*](/keynotes#jaap-henk-hoepman) 
 
 (Room: SMALLTALK, Session Chair: TODOCHAIR)
 
@@ -234,7 +234,7 @@ The rest of the evening is free to mingle.
 
 [**AI and Data Protection - Challenges for Controllers, Processors and Supervisory Authorities**](/keynotes#marit-hansen) 
 
-[*Marit Hansen, Unabhängiges Landeszentrum für Datenschutz (ULD)*](/keynotes#marit-hansen) 
+[**Marit Hansen**, *Unabhängiges Landeszentrum für Datenschutz (ULD)*](/keynotes#marit-hansen) 
 
 (Room: SMALLTALK, Session Chair: TODOCHAIR)
 
@@ -261,7 +261,7 @@ The rest of the evening is free to mingle.
 
 [**Deploying privacy enhancing technologies in an e-government**](/keynotes#liina-kamm) 
 
-[*Liina Kamm, Cybernetica*](/keynotes#liina-kamm) 
+[**Liina Kamm**, *Cybernetica*](/keynotes#liina-kamm) 
 
 (Room: SMALLTALK, Session Chair: TODOCHAIR)
 
