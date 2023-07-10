@@ -21,7 +21,9 @@ toc_sticky: true
 
 *08:30-09:00* **Registration and Coffee Break**
 
-*09:00-09:15* **Opening Remarks** (Room: [SMALLTALK](https://link.mazemap.com/WIJD9Ey2))
+*09:00-09:15* **Opening Remarks**
+
+(Room: [SMALLTALK](https://link.mazemap.com/WIJD9Ey2))
 
 **Welcome from the Local Organizers**
 
@@ -30,8 +32,6 @@ toc_sticky: true
 **Welcome from the Steering Committee**
 
 *Simone Fischer-Hübner, Karlstad University*
-
-(Room: SMALLTALK)
 
 *09:15-10:15* **Keynote: Stefan Schiffner**
 
