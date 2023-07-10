@@ -1,6 +1,6 @@
 ---
 title: "Programme"
-permalink: /programme/
+permalink: /toast/
 toc: true
 toc_sticky: true
 ---
