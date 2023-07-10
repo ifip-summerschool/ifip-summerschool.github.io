@@ -13,9 +13,7 @@ toc_sticky: true
 
 *19:00* **Get-Together**
 
-*Informal Get-Together for those already present*
-
-*(location to be announced)*
+Informal Get-Together for those already present. Meeting point is on top of the Oslo Opera House ([map](https://osm.org/go/0TuNJ2aUE--?way=810259696)), from where we will start exploring the city.
 
 ### Tuesday, Aug 8th, 2023
 
@@ -83,11 +81,11 @@ toc_sticky: true
 
 (Room: SMALLTALK, Session Chair: (to be found))
 
-*16:15 Reception at Uni Oslo*
+*16:30 Reception at Uni Oslo*
 
-After the last session, we will have a small get-together with (non-alcoholic) drinks at the conference site.
+After the last session, we will have a small get-together at the conference site.
 
-The evening is free to mingle and explore the city, but for those interested, a joint visit to the [Munch Museum](https://www.munchmuseet.no/en/) can be arranged (not included in conference fee).
+The evening is free to mingle and explore the city.
 
 ### Wednesday, Aug 9th, 2023
 
@@ -153,12 +151,11 @@ The evening is free to mingle and explore the city, but for those interested, a 
 
 *19:00* **Summer School Dinner**
 
-We meet at [Ekebergrestauranten](https://www.ekebergrestauranten.com/) around 19:00 for the summer school dinner. 
+We meet at [Ekebergrestauranten](https://www.ekebergrestauranten.com/) at 19:00 for the summer school dinner. 
 The restaurant's address is *Kongsveien 15, 0193 Oslo, Norway* (see [map](https://osm.org/go/0TuNKkXS6?node=2785464006)), and you can easily reach it via T-bane station *Ekebergsparken*.
 The dinner is included in the conference fee, including drinks.
 
-For those interested, there is a [sculpture park](https://ekebergparken.com/en) in the park right next to the restaurant, so it might be a good idea to arrive 20 minutes early and have a stroll.
-
+For those interested, there is a [sculpture park](https://ekebergparken.com/en) in the park right next to the restaurant, so it might be a good idea to arrive 30-60 minutes early and have a stroll.
 
 ### Thursday, Aug 10th, 2023
 
