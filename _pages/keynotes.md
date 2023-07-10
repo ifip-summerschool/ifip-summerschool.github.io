@@ -5,7 +5,6 @@ toc: true
 toc_sticky: true
 ---
 
-<a name="schiffner" />
 ### Stefan Schiffner
 
 **On the endeavour designing and deploying a privacy certification scheme under the GDPR**
@@ -17,7 +16,7 @@ toc_sticky: true
 **Stefan Schiffner** is lecturing Computer Networks and IT Security at BHH University of Applied Sciences Hamburg. He has been a post doctoral researcher at University of Luxembourg, an expert in information security at the European Union’s Cyber Security Agency (ENISA), and a post-doctoral researcher at TU Darmstadt, were he led a team of researchers on the topics of privacy and trust within the Telekooperation group. He holds a Ph.D. from KU Leuven (Topic: models for online privacy, trust and reputation) and the Degree of Diplom Informatiker from TU Dresden. His research interests focus on secure information technologies and their policy implications. This includes specifically Privacy Enhancing Technologies, computational trust, “by Design” Paradigms, and maturity and market readiness of technologies. A computer scientist by training, Stefan is an advocate for the free use of cryptographic techniques and anonymisation tools as means for individuals to exercise their right to privacy and freedom of speech.
 
 
-<hr><a name="porcedda" />
+<hr>
 ### Maria Grazia Porcedda
 
 **The effacement of information technology from EU law: the need for collaborative approaches to redesign the EU’s regulatory architecture**
@@ -30,7 +29,7 @@ toc_sticky: true
 Maria Grazia is the Principal Investigator, among others, of the Provost’s PhD Projects
 Award PRECYLI on cybercrime law in Ireland. She is a member of the EDPB's Support Pool of Experts, of Horizon Europe VIGILANT’s Advisory Board and of ADAPT, the Global Centre of Excellence for Digital Content and Media Innovation. She visited the School of Law at Pompeu Fabra University (Barcelona) and the Tilburg Institute of Law and Technology.  Maria Grazia holds a PhD in Law from the European University Institute.
 
-<hr><a name="fritsch" />
+<hr>
 ### Lothar Fritsch
 
 **The subtle differences between privacy risk and privacy breach consequences**  
@@ -44,7 +43,7 @@ This talk will examine the concept of privacy risks and their consequences. It w
 Lothar has been part of pan-European research projects on privacy and identity management, and has worked on topics such as privacy enhanding technology, privacy risk analysis, and human factors in information security.
 He teaches and supervises in many areas of computer science, among others Internet of Things, network security and Privacy by Design. He supervises PhD students, and bachelor and master thesis projects, in collaboration with industry, associations and public organizations.
 
-<hr><a name="degeling" />
+<hr>
 ### Martin Degeling
 
 **The Digital Services Act: New rules for online platforms and how to hold them accountable**
@@ -54,7 +53,7 @@ In my talk, I will describe the idea of the DSA and its implications for researc
 
 **Martin Degeling** is a researcher at Stiftung Neue Verantwortung, a berlin-based Think Tank for technology policy. Previously, he was a post-doctoral researcher at Ruhr-University Bochum and Carnegie Mellon University. His research interests are black-box auditing of algorithmic systems, usable privacy and security, and data protection.
 
-<hr><a name="hoepman" />
+<hr>
 ### Jaap-Henk Hoepman 
 
 **Privacy Is Hard And Seven Other Myths. Achieving Privacy Through Careful Design**
@@ -99,7 +98,7 @@ cooking, and practising Okinawan Goju Ryu karate-do.
 
 <!-- zuccato -->
 
-<hr><a name="hansen" />
+<hr>
 ### Marit Hansen
 
 **AI and Data Protection - Challenges for Controllers, Processors and Supervisory Authorities**
@@ -111,7 +110,7 @@ cooking, and practising Okinawan Goju Ryu karate-do.
 Since 2015 **Marit Hansen** has been the State Data Protection Commissioner of Land Schleswig-Holstein and Chief of Unabhängiges Landeszentrum für Datenschutz (ULD). Before being appointed Data Protection Commissioner, she had been Deputy Commissioner for seven years. Since her diploma in computer science in 1995 Marit has been working on privacy and security aspects. Her focus is on “data protection by design” and “data protection by default” from both the technical and the legal perspectives. She often gives talks and has been lecturing at various universities and academies.
 Marit was member of the Data Ethics Commission of the German Government. Her contribution to education and research on privacy-enhancing technologies has awarded her an honorary doctorate from Karlstad University, Sweden. 
 
-<hr><a name="kamm" />
+<hr>
 ### Liina Kamm
 
 **Deploying privacy enhancing technologies in an e-government**
