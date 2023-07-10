@@ -199,7 +199,8 @@ We will meet at [Holmenkollen t-bane station](https://osm.org/go/0TuSNlQo3?node=
 A local guide will then lead you through the Holmenkollen area with the iconous (ski jump ramp)[https://www.visitoslo.com/en/activities-and-attractions/boroughs/holmenkollen/] that can be seen from almost everywhere in the city.
 Please wear shoes suitable for hiking.
 
-After the tour, we can have a coffee or snack at a local restaurant. The rest of the evening is free to mingle.
+After the tour, we can have a coffee or snack at [Frognerseteren](https://www.frognerseteren.no/) (not included in the conference fee).
+The rest of the evening is free to mingle.
 
 ### Friday, Aug 11th, 2023
 
