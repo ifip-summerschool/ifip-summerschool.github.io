@@ -9,11 +9,15 @@ toc_sticky: true
 
 [![Tabular Timetable of the Summer School Programme](/assets/images/Timetable.png "Timetable")](/assets/images/Timetable.pdf)
 
+<hr/>
+
 ### Monday, Aug 7th, 2023
 
 *19:00* **Get-Together**
 
 Informal Get-Together for those already present. Meeting point is on top of the Oslo Opera House ([map](https://osm.org/go/0TuNJ2aUE--?way=810259696)), from where we will start exploring the city.
+
+<hr/>
 
 ### Tuesday, Aug 8th, 2023
 
@@ -90,6 +94,8 @@ After the last session, we will have a small get-together at the conference site
 
 The evening is free to mingle and explore the city.
 
+<hr/>
+
 ### Wednesday, Aug 9th, 2023
 
 *09:00-10:00* **Keynote: Lothar Fritsch**
@@ -160,6 +166,8 @@ The dinner is included in the conference fee, including some drinks.
 
 For those interested, there is a [sculpture park](https://ekebergparken.com/en) next to the restaurant, so it might be a good idea to arrive 30-60 minutes early and have a stroll.
 
+<hr/>
+
 ### Thursday, Aug 10th, 2023
 
 *09:00-10:00* **Keynote: Jaap-Henk Hoepman**
@@ -218,6 +226,8 @@ Please wear shoes suitable for hiking.
 
 After the tour, we can have a coffee or snack at [Frognerseteren](https://www.frognerseteren.no/) (not included in the conference fee).
 The rest of the evening is free to mingle.
+
+<hr/>
 
 ### Friday, Aug 11th, 2023
 
