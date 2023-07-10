@@ -160,7 +160,7 @@ The evening is free to mingle and explore the city.
 
 *19:00* **Summer School Dinner**
 
-We meet at [Ekebergrestauranten](https://www.ekebergrestauranten.com/) at 19:00 for the summer school dinner. 
+We meet at [Ekebergrestauranten](https://www.ekebergrestauranten.com/) at 19:00 for the summer school dinner (in the room named "Store Festsal"). 
 The restaurant's address is *Kongsveien 15, 0193 Oslo, Norway* (see [map](https://osm.org/go/0TuNKkXS6?node=2785464006)), and you can easily reach it via T-bane station *Ekebergsparken*.
 The dinner is included in the conference fee, including some drinks.
 
