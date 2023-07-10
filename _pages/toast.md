@@ -33,7 +33,11 @@ toc_sticky: true
 
 *09:15-10:15* **Keynote**
 
-*to be detailed*
+[**On the endeavour designing and deploying a privacy certification scheme under the GDPR**](/keynotes#schiffner) 
+
+[*Stefan Schiffner, BHH University of Applied Sciences Hamburg*](/keynotes#schiffner) 
+
+(Room: SMALLTALK, Session Chair: TODOCHAIR) 
 
 *10:30-12:30* **Paper Sessions**
 
@@ -75,7 +79,11 @@ toc_sticky: true
 
 *15:15-16:15* **Keynote**
 
-*to be detailed*
+[**The effacement of information technology from EU law: the need for collaborative approaches to redesign the EU’s regulatory architecture**](/keynotes#Porcedda) 
+
+[*Maria Grazia Porcedda, Trinity College Dublin*](/keynotes#Porcedda) 
+
+(Room: SMALLTALK, Session Chair: TODOCHAIR)
 
 *16:15 Reception at Uni Oslo*
 
@@ -87,7 +95,11 @@ The evening is free to mingle and explore the city, but for those interested, a 
 
 *09:00-10:00* **Keynote**
 
-*to be detailed*
+[**The subtle differences between privacy risk and privacy breach consequences**](/keynotes#Fritsch) 
+
+[*Lothar Fritsch, Oslo Metropolitan University*](/keynotes#Fritsch) 
+
+(Room: SMALLTALK, Session Chair: TODOCHAIR) 
 
 *10:15-12:15* **Paper Sessions**
 
@@ -133,11 +145,17 @@ The evening is free to mingle and explore the city, but for those interested, a 
 
 *14:30-15:30* **Keynote**
 
-*to be detailed*
+[**The Digital Services Act: New rules for online platforms and how to hold them accountable**](/keynotes#Degeling) 
+
+[*Martin Degeling, Stiftung Neue Verantwortung*](/keynotes#Degeling) 
+
+(Room: SMALLTALK, Session Chair: TODOCHAIR)
 
 *15:30-16:15* **Panel**
 
-*to be detailed*
+(to be detailed) 
+
+(Room: SMALLTALK, Session Chair: TODOCHAIR)
 
 *19:00* **Summer School Dinner**
 
@@ -152,7 +170,11 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 
 *09:00-10:00* **Keynote**
 
-*to be detailed*
+[**Privacy Is Hard And Seven Other Myths. Achieving Privacy Through Careful Design**](/keynotes#Hoepman) 
+
+[*Jaap-Henk Hoepman, Affiliation*](/keynotes#Hoepman) 
+
+(Room: SMALLTALK, Session Chair: TODOCHAIR)
 
 *10:15-11:45* **Paper Sessions**
 
@@ -191,7 +213,11 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 
 *14:30-15:30* **Keynote**
 
-*to be detailed*
+[**to be detailed**](/keynotes#) 
+
+[*to be detailed*](/keynotes#) 
+
+(Room: SMALLTALK, Session Chair: TODOCHAIR)
 
 *16:30* **Social Event: Hiking at Holmenkollen**
 
@@ -206,7 +232,11 @@ The rest of the evening is free to mingle.
 
 *09:00-10:00* **Keynote**
 
-*to be detailed*
+[**AI and Data Protection - Challenges for Controllers, Processors and Supervisory Authorities**](/keynotes#Hansen) 
+
+[*Marit Hansen, Unabhängiges Landeszentrum für Datenschutz (ULD)*](/keynotes#Hansen) 
+
+(Room: SMALLTALK, Session Chair: TODOCHAIR)
 
 *10:15-11:45* **Paper Sessions**
 
@@ -229,7 +259,11 @@ The rest of the evening is free to mingle.
 
 *11:45-12:45* **Keynote**
 
-*to be detailed*
+[**Deploying privacy enhancing technologies in an e-government**](/keynotes#Kamm) 
+
+[*Liina Kamm, Cybernetica*](/keynotes#Kamm) 
+
+(Room: SMALLTALK, Session Chair: TODOCHAIR)
 
 *12:45-13:15* **Closing Remarks**
 
