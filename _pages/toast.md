@@ -66,11 +66,11 @@ Informal Get-Together for those already present. Meeting point is on top of the 
 *13:30-15:00* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Tutorial </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Tutorial </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>)</td></tr></thead>
 <tbody>
 <tr><td><!-- 2128 --> </td><td> <b>Carolin Gilga:</b><br/> <b>Shared, public and out of control &ndash; Your data on the public web</b><br /><i>(Keywords: public data, data protection, psychology, web monitoring, screen scraping, social media monitoring, interdisciplinarity)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2128.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Tutorial </b><br/>(Room: <a href="https://link.mazemap.com/eZ3Fb991">JAVA</a>, Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Tutorial </b><br/>(Room: <a href="https://link.mazemap.com/eZ3Fb991">JAVA</a>)</td></tr></thead>
 <tbody>
 <tr><td><!-- 401 --> </td><td> <b>Jenni Reuben and Ala Sarah Alaqra:</b><br/> <b>Private Training Approaches - A Primer</b><br /><i>(Keywords: Machine learning, Private learning, Privacy)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
@@ -119,7 +119,7 @@ The evening is free to mingle and explore the city.
 <tr><td><!-- 9938 --> </td><td> <b>Bj&oslash;rn Aslak Juliussen:</b><br/> <b>Compliance By Design: Balancing Data Protection, Cybersecurity and AI Regulation in Software and System Development</b><br /><i>(Keywords: Privacy, Data Protection, Concurrent Compliance, Cybersecurity)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9938.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2558 --> </td><td> <b>Cynthia Ng:</b><br/> <b>Digital Security Controversy Analysis:  Security Rationalities in the Contemporary Debate on Privacy and Surveillance</b><br /><i>(Keywords: Digital Security Controversy, Privacy, Surveillance, Security Rationalities, End-to-End Encryption)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2558.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>, Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track C: Workshop </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>)</td></tr></thead>
 <tbody>
 <tr><td><!-- 432 --> </td><td> <b>Marcela Tuler de Oliveira and Elyas Khorasani:</b><br/> <b>Digital identity solutions to allow distributed access control mechanisms in cross-organisation data-sharing: Addressing privacy challenges</b><br /><i>(Keywords: Digital identity, Distributed access control policies, Data Sharing, Blockchain)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_432.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
@@ -140,7 +140,7 @@ The evening is free to mingle and explore the city.
 <tr><td><!-- 623 --> </td><td> <b>Paweł Hajduk:</b><br/> <b>Between the right to the protection of personal data and the right to health. Evolving EU regulatory framework on secondary use of electronic personal health data for medical research</b><br /><i>(Keywords: Secondary Use of Personal Health Data, Medical Research, Data Protection)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_623.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 1105 --> </td><td> <b>Ramona Schmidt and Ina Schiering:</b><br/> <b>Who is the attacker - Analyzing data protection violations in health care</b><br /><i>(Keywords: privacy, data protection, GDPR, health related data)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_1105.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>, Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track C: Workshop </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>)</td></tr></thead>
 <tbody>
 <tr><td><!-- 9899 --> </td><td> <b>Anette Siebenk&auml;s:</b><br/> <b>A Framework for Exploring Personal Data Transparency from a Theoretical Perspective</b><br /><i>(Keywords: Personal Data Transparency, Theory, Information Privacy)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_9899.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
@@ -249,9 +249,6 @@ The rest of the evening is free to mingle.
 <tbody>
 <tr><td><!-- 728 --> </td><td> <b>Paul Michel Dit Ferrer, Vera Schmitt, Arooj Anwar Khan and Ina Kern:</b><br/> <b>What are You Willing to Pay to Protect Your Instagram Data? Examining the Privacy Paradox in the Social Media Context</b><br /><i>(Keywords: Information Privacy, Social Media, Willingness To Pay, Privacy Paradox)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_728.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 8265 --> </td><td> <b>Vera Schmitt, Tingyu Song and Danila Ferents:</b><br/> <b>Economics of Privacy and the Relation to Users&rsquo; Trust</b><br /><i>(Keywords: Economics of privacy, Endowment effect, Trust, Privacy concern, Negative privacy experiences)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_8265.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-</tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>, Session Chair: (to be found))</td></tr></thead>
-<tbody>
 </tbody>
 </table>
 
