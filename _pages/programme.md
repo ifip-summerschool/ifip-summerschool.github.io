@@ -7,7 +7,7 @@ toc_sticky: true
 
 ### Overview
 
-(to follow)
+[![Tabular Timetable of the Summer School Programme](/assets/images/Timetable.png "Timetable")](/assets/images/Timetable.pdf)
 
 ### Monday, Aug 7th, 2023
 
