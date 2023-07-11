@@ -1,0 +1,8 @@
+---
+layout: null
+permalink: assets/papers/2023/.htaccess
+---
+AuthType Basic
+AuthName "Credentials provided on site"
+AuthUserFile assets/papers/2023/.htpasswd
+Require valid-user
