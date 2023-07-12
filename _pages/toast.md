@@ -86,9 +86,9 @@ Informal Get-Together for those already present. Meeting point is on top of the 
 
 [**The effacement of information technology from EU law: the need for collaborative approaches to redesign the EU’s regulatory architecture**](/keynotes#maria-grazia-porcedda) 
 
-(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found))
+(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Felix Bieker)
 
-*16:30 Reception at Uni Oslo*
+*16:30 Reception at Oslo University*
 
 After the last session, we will have a small get-together at the conference site.
 
@@ -125,7 +125,7 @@ The evening is free to mingle and explore the city.
 </tbody>
 </table>
 
-*13:15-14:15* **Paper Sessions**
+*13:15-15:15* **Paper Sessions**
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session 5: Risk </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Silvia de Conca)</td></tr></thead>
@@ -146,17 +146,17 @@ The evening is free to mingle and explore the city.
 </tbody>
 </table>
 
-*14:30-15:30* **Keynote: Martin Degeling**
+*15:30-16:30* **Keynote: Martin Degeling**
 
 [**The Digital Services Act: New rules for online platforms and how to hold them accountable**](/keynotes#martin-degeling) 
 
-(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found))
+(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Ina Schiering)
 
-*15:30-16:15* **Panel**
+*16:30-17:15* **Panel**
 
 (to be detailed) 
 
-(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found))
+(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Felix Bieker)
 
 *19:00* **Summer School Dinner**
 
@@ -170,11 +170,11 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 
 ### Thursday, Aug 10th, 2023
 
-*09:00-10:00* **Keynote: Jaap-Henk Hoepman**
+*09:00-10:00* **Keynote: Wojciech Wiewiorowski**
 
-[**Privacy Is Hard And Seven Other Myths. Achieving Privacy Through Careful Design**](/keynotes#jaap-henk-hoepman) 
+[**(to be detailed**](/keynotes#wojciech-wiewiorowski) 
 
-(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found))
+(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Marit Hansen)
 
 *10:15-11:45* **Paper Sessions**
 
@@ -209,16 +209,16 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 <tr><td><!-- 5020 --> </td><td> <b>Janina Rochon:</b><br/> <b>Enhancing transparency through Personal Information Management Systems: current state of service offerings and considerations for further advancements</b><br /><i>(Keywords: Personal Information Management Systems, Transparency, Access, Information, Consent)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5020.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 6268 --> </td><td> <b>Piero Romare, Victor Morel, Farzaneh Karegar and Simone Fischer-H&uuml;bner:</b><br/> <b>Towards User Definitions of Privacy Factors on IoT Trigger-Action apps</b><br /><i>(Keywords: Privacy Factors, Human Centric Cybersecurity, Trigger-Action Application)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_6268.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track C: Rump Session </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>, Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track C: Rump Session </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>, Session Chair: Felix Bieker)</td></tr></thead>
 </table>
 
-*14:30-15:30* **Keynote: TBD**
+*14:30-15:30* **Keynote: Jaap-Henk Hoepman**
 
-[**to be detailed**](/keynotes#) 
+[**Privacy Is Hard And Seven Other Myths. Achieving Privacy Through Careful Design**](/keynotes#jaap-henk-hoepman) 
 
-(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found))
+(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Ina Schiering)
 
-*16:30* **Social Event: Hiking at Holmenkollen**
+*17:00* **Social Event: Hiking at Holmenkollen**
 
 We will meet at [Holmenkollen t-bane station](https://osm.org/go/0TuSNlQo3?node=1347436771) at 16:30. 
 A local guide will then lead you through the Holmenkollen area with the iconous (ski jump ramp)[https://www.visitoslo.com/en/activities-and-attractions/boroughs/holmenkollen/] that can be seen from almost everywhere in the city.
@@ -235,12 +235,12 @@ The rest of the evening is free to mingle.
 
 [**AI and Data Protection - Challenges for Controllers, Processors and Supervisory Authorities**](/keynotes#marit-hansen) 
 
-(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found))
+(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Simone Fischer-Hübner)
 
 *10:15-11:45* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 11: Synthetic Data </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found))</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 11: Synthetic Data </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Ina Schiering)</td></tr></thead>
 <tbody>
 <tr><td><!-- 7082 --> </td><td> <b>Felix Hermsen and Avikarsha Mandal:</b><br/> <b>Privacy and Utility Evaluation of Synthetic Data for Machine Learning</b><br /><i>(Keywords: Generative adversarial networks, differential privacy, membership inference attacks)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_7082.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 4401 --> </td><td> <b>Saloni Kwatra and Vicenc Torra:</b><br/> <b>Privacy Analysis of the Synthetic Data using Membership Inference and Data Reconstruction Attack</b><br /><i>(Keywords: Membership Inference Attack, Data Reconstruction Attack, Principal Component Analysis, Generative Adversarial Network, Synthetic Data)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -256,11 +256,13 @@ The rest of the evening is free to mingle.
 
 [**Deploying privacy enhancing technologies in an e-government**](/keynotes#liina-kamm) 
 
-(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: (to be found))
+(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Meiko Jensen)
 
 *12:45-13:15* **Closing Remarks**
 
 **Best Presentation Award and Closing Ceremony**
+
+(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Simone Fischer-Hübner)
 
 *13:15* **Lunch and End of IFIP Summer School 2023**
 
