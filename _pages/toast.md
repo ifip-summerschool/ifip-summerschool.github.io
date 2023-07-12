@@ -170,9 +170,9 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 
 ### Thursday, Aug 10th, 2023
 
-*09:00-10:00* **Keynote: Wojciech Wiewiorowski**
+*09:00-10:00* **Keynote: Wojciech Wiewiórowski**
 
-[**(to be detailed**](/keynotes#wojciech-wiewiorowski) 
+[**(to be detailed)**](/keynotes#wojciech-wiewiorowski) 
 
 (Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Marit Hansen)
 
