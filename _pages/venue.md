@@ -19,6 +19,9 @@ The address is
 
 You can easily reach the building by metro (T-bane) via the station "Forskningsparken". Details can be found [here...](https://www.mn.uio.no/ifi/english/about/getting-around/index.html)
 
+For entering the building, we recommend to use the entrance as shown here:
+![Map showing the way from the station into the building](/assets/images/venue-access.jpg "Accessing the building...")
+
 **Getting in**
 
 Oslo has two airports, *Gardermoen (OSL)* and *Sandefjord (TRF)*, with the former being the most common way to reach the city. Both are easily connected to the city centre by bus and/or train. Alternatively, several ferries directly target the city, such as Color Line from Kiel in Germany, DFDS from Copenhagen in Denmark, or Stena Line from Frederikshavn in Denmark.
