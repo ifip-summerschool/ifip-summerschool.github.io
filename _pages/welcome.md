@@ -20,7 +20,7 @@ logos:
 
 ## Keynote by Wojciech Wiewiórowski!
 
-We produdly announce that the European Data Protection Supervisor, Wojciech Wiewiórowski, will join the summer school and give a keynote on **The Myth of 'Global Standard' in Personal Data Protection**!
+We proudly announce that the European Data Protection Supervisor, Wojciech Wiewiórowski, will join the summer school and give a keynote on **The Myth of 'Global Standard' in Personal Data Protection**!
 
 More details [here](/keynotes/#wojciech-wiewiórowski).
 
