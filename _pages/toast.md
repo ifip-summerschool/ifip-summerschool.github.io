@@ -170,7 +170,7 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 
 *09:00-10:00* **Keynote: Wojciech Wiewiórowski**
 
-[**The Myth of 'Global Standard' in Personal Data Protection**](/keynotes#wojciech-wiewiorowski) 
+[**The Myth of 'Global Standard' in Personal Data Protection**](/keynotes#wojciech-wiewiórowski) 
 
 (Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Marit Hansen)
 
@@ -189,7 +189,7 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 </tbody>
 <thead><tr><td colspan="3"><b>Track C: Workshop: TRUEdig project </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>)</td></tr></thead>
 <tbody>
-<tr><td> </td><td> <b>Albin Zuccato:</b><br/> <b>(to be announced)</b></td><td> </td></tr>
+<tr><td> </td><td> <b>Albin Zuccato:</b><br/> <b>Using Public Cloud for Analytics in a privacy friendly way</b></td><td> </td></tr>
 <tr><td> </td><td> <b>Ala Sarah Alaqra and Simone Fischer-Hübner:</b><br/> <b>Human factors for usable PETs</b></td><td> </td></tr>
 </tbody>
 </table>
