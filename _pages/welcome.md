@@ -18,6 +18,18 @@ logos:
     title: "Forum Privatheit"
 ---
 
+## Keynote by Wojciech Wiewiórowski!
+
+We produdly announce that the European Data Protection Supervisor, Wojciech Wiewiórowski, will join the summer school and give a keynote on **The Myth of 'Global Standard' in Personal Data Protection**!
+
+More details [here](/keynotes/#wojciech-wiewiórowski).
+
+## Pre-Proceedings online!
+
+You can download the pre-proceedings of the IFIP Summer School on Privacy and Identity Management 2023 [here](/preproceedings).
+
+Please note that the password for extracting the ZIP file will be sent to all registered participants via e-mail soon!
+
 ## Registration deadline extended!
 
 We extended the registration deadline for general participants to July 14th, 2023.
