@@ -8,6 +8,8 @@ main:
     url: /programme
   - title: "Keynotes"
     url: /keynotes
+  - title: "Pre-Proceedings"
+    url: /preproceedings
   - title: "Submission"
     url: /submission
   - title: "Important Dates"
