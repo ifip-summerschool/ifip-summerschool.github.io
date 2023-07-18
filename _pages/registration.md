@@ -3,22 +3,11 @@ title: "Registration"
 permalink: /registration/
 ---
 
-The registration for the IFIP summer school on privacy and identity management involves two steps:
+**The registration for the IFIP Summer School on Privacy and Identity Management 2023 is closed.**
 
-* register participation details<br/>(such as name and affiliation for the name tags)
-* provide payment details
+It is unfortunately not possible to accept further participants.
 
-You can access the registration form here:
-
-[https://nettskjema.no/a/ifip-sc-2023](https://nettskjema.no/a/ifip-sc-2023).
-
-You can access the payment form either via the registration form above, or directly here:
-
-[https://epay.uio.no/shop/order-create.html?projectStepId=5206909](https://epay.uio.no/shop/order-create.html?projectStepId=5206909).
-
-**Please note that the extended deadline for registration is July 14th, 2023.**
-
-For each accepted abstract, at least one of the authors must register for participation before that deadline in order to be included in the final programme.
+For future participants, here's the registrations fees for 2023:
 
 | Registration Type  | Registration Fee |
 |---|:----:|
@@ -29,6 +18,6 @@ For each accepted abstract, at least one of the authors must register for partic
 | Participant (IFIP member)  | EUR 450 | 
 | Workshop/Tutorial Organizer/Participant (IFIP member) | EUR 450 |  
 
-Please note that the payment will be done in Norwegian kroner (NOK), not in Euro. Hence, there might be a slight deviation from these amounts due to conversion rates and fees.
+Please note that the payment is done in Norwegian kroner (NOK), not in Euro. Hence, there might be a slight deviation from these amounts due to conversion rates and fees.
 
 
