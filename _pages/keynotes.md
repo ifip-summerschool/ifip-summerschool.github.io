@@ -54,6 +54,18 @@ In my talk, I will describe the idea of the DSA and its implications for researc
 **Martin Degeling** is a researcher at Stiftung Neue Verantwortung, a berlin-based Think Tank for technology policy. Previously, he was a post-doctoral researcher at Ruhr-University Bochum and Carnegie Mellon University. His research interests are black-box auditing of algorithmic systems, usable privacy and security, and data protection.
 
 <hr>
+### Wojciech Wiewiórowski 
+
+**The Myth of 'Global Standard' in Personal Data Protection**
+
+![Photo showing Wojciech Wiewiórowski](/assets/images/keynotes/wojciechwiewiorowski.jpg "Wojciech Wiewiórowski")
+
+**Wojciech Wiewiórowski** is the European Data Protection Supervisor (EDPS) since December 2019.
+He is an adjunct professor in the Faculty of Law and Administration of the University of Gdańsk. He was among others adviser in the field of e-government and information society for the Minister of Interior and Administration, the Director of the Informatisation Department at the Ministry of Interior and Administration. He also represented Poland in committee on Interoperability Solutions for European Public Administrations (the ISA Committee) assisting the European Commission. 
+The Inspector General for the Protection of Personal Data (Polish Data Protection Commissioner) 2010-2014 and the Vice Chair of the Working Party Art. 29 in 2014. In December 2014, he was appointed Assistant European Data Protection Supervisor. After the death of the Supervisor - Giovanni Buttarelli in August 2019 - he replaced Mr. Buttarelli as acting EDPS.
+His areas of scientific activity include first of all Polish and European IT law, processing and security of information, legal information retrieval systems, informatisation of public administration, and application of new IT tools (semantic web, legal ontologies, cloud, blockchain) in legal information processing. 
+
+<hr>
 ### Jaap-Henk Hoepman 
 
 **Privacy Is Hard And Seven Other Myths. Achieving Privacy Through Careful Design**
