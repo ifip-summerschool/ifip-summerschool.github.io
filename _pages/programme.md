@@ -219,7 +219,7 @@ For those interested, there is a [sculpture park](https://ekebergparken.com/en) 
 *17:00* **Social Event: Hiking at Holmenkollen**
 
 We will meet at [Holmenkollen t-bane station](https://osm.org/go/0TuSNlQo3?node=1347436771) at 16:30. 
-A local guide will then lead you through the Holmenkollen area with the iconous (ski jump ramp)[https://www.visitoslo.com/en/activities-and-attractions/boroughs/holmenkollen/] that can be seen from almost everywhere in the city.
+A local guide will then lead you through the Holmenkollen area with the iconous [ski jump ramp](https://www.visitoslo.com/en/activities-and-attractions/boroughs/holmenkollen/) that can be seen from almost everywhere in the city.
 Please wear shoes suitable for hiking.
 
 After the tour, we can have a coffee or snack at [Frognerseteren](https://www.frognerseteren.no/) (not included in the conference fee).
