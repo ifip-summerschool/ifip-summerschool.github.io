@@ -18,6 +18,10 @@ logos:
     title: "Forum Privatheit"
 ---
 
+## Full Programme live!
+
+You can find the full programme of the IFIP Summer School on Privacy and Identity Management 2023 [here](/programme). Please note that it might still be subject to change on short notice.
+
 ## Keynote by Wojciech Wiewiórowski!
 
 We proudly announce that the European Data Protection Supervisor, Wojciech Wiewiórowski, will join the summer school and give a keynote on **The Myth of 'Global Standard' in Personal Data Protection**!
