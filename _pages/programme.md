@@ -29,7 +29,8 @@ Informal Get-Together for those already present. Meeting point is on top of the 
 
 **Welcome from the Local Organizers**
 
-*Nils Gruschka, Oslo University*
+*Nils Gruschka, University of Oslo*
+*Stephan Oepen, University of Oslo, Head of Department of Informatics*
 
 **Welcome from the Steering Committee**
 
