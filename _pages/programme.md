@@ -88,7 +88,7 @@ Informal Get-Together for those already present. Meeting point is on top of the 
 
 (Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Felix Bieker)
 
-*16:30 Reception at Oslo University*
+*16:30-18:00 Reception at University of Oslo*
 
 After the last session, we will have a small get-together at the conference site.
 
