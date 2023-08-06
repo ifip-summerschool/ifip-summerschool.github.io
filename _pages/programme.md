@@ -16,7 +16,6 @@ toc_sticky: true
 *19:00* **Get-Together**
 
 ~~Informal Get-Together for those already present. Meeting point is on top of the Oslo Opera House ([map](https://osm.org/go/0TuNJ2aUE--?way=810259696)), from where we will start exploring the city.~~
-> [!IMPORTANT]
 > **ATTENTION!**
 > Canceled due to the expected weather (heavy rain and thunderstorm) incl. a severe weather warning
 
