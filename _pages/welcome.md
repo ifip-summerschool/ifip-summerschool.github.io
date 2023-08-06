@@ -18,6 +18,9 @@ logos:
     title: "Forum Privatheit"
 ---
 
+## Informal Get-Together on Monday canceled!
+Due to the weather forecast for tomorrow (heavy rain and thunderstorm incl. a severe weather warning), we have decided to cancel the get-together/sightseeing on Monday. See you all safely on Tuesday morning at the conference site!
+
 ## Full Programme live!
 
 You can find the full programme of the IFIP Summer School on Privacy and Identity Management 2023 [here](/programme). Please note that it might still be subject to change on short notice.
