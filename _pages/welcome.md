@@ -88,5 +88,12 @@ You can find the submission system here:
 You can contact the organizers via ifipsc2023(AT)easychair.org .
 
 ## Sponsors
+[Forum Privatheit](https://www.forum-privatheit.de)
+
+[International Federation for Information Processing (IFIP)](https://www.ifip.org)
+
+[IFIP WG9.6/11.7: Information Technology Mis-Use and the Law](https://www.ifiptc11.org/working-groups)
+
+[IFIP WG 11.6: Identity Management](https://www.ifiptc11.org/working-groups)
 
 {% include gallery id="logos" layout="" %}
