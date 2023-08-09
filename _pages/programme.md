@@ -110,7 +110,7 @@ The evening is free to mingle and explore the city.
 *10:15-12:15* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Policy Validation </b><br/>(Room: <a href="https://link.mazemap.com/z5nd4Zsz">SIMULA</a>, Session Chair: Simone Fischer-Hübner)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Policy Validation </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Simone Fischer-Hübner)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Chinmayi Prabhu Baramashetru, Silvia Lizeth Tapia Tarifa and Olaf Owe:</b><br/> <b>Assuring GDPR Conformance through Language-Based Compliance</b><br /><i>(Keywords: GDPR Enforcement, Privacy by Design, Data protection by Deisgn, Language Compliance, Formal Model, Runtime Checking)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4773.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Feiyang Tang and Bjarte M. &Oslash;stvold:</b><br/> <b>User Interaction Data in Apps: Comparing Policy Claims to Implementations</b><br /><i>(Keywords: Mobile Apps, Transparency, Trust, Interaction Data, Privacy Policy)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2021.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -131,7 +131,7 @@ The evening is free to mingle and explore the city.
 *13:15-15:15* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 5: Risk </b><br/>(Room: <a href="https://link.mazemap.com/z5nd4Zsz">SIMULA</a>, Session Chair: Silvia de Conca)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 5: Risk </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Silvia de Conca)</td></tr></thead>
 <tbody>
 <tr><td><!-- 2528 --> </td><td> <b>Jan-Philipp Stroscher, Frank Hessel, Kevin Logan, Michaela Le&scaron;t&aacute;kov&aacute;, Martin Pietsch, Andreas Morgen and Yasin Alhamwy:</b><br/> <b>Legal considerations for resilient, crisis-aware information management on Urban Data Platforms</b><br /><i>(Keywords: Urban Data Platform, Data Protection, Resilience)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2528.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 8210 --> </td><td> <b>Samuel Wairimu:</b><br/> <b>Towards better whistleblowing processes: understanding  privacy risks and resulting harms</b><br /><i>(Keywords: Whistleblower, Privacy Risks, Privacy Harms, Journalism, Retaliation, External Whistleblowing Channel)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_8210.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -153,7 +153,7 @@ The evening is free to mingle and explore the city.
 
 [**The Digital Services Act: New rules for online platforms and how to hold them accountable**](/keynotes#martin-degeling) 
 
-(Room: <a href="https://link.mazemap.com/z5nd4Zsz">SIMULA</a>, Session Chair: Ina Schiering)
+(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Ina Schiering)
 
 *16:30-17:15* **Panel: Sharing (in) a Digital World**
 
@@ -162,7 +162,7 @@ The evening is free to mingle and explore the city.
 * Jaap-Henk Hoepman, Radboud University, University of Groningen, Karlstad University
 * Wojciech Wiewiórowski, EDPS
 
-(Room: <a href="https://link.mazemap.com/z5nd4Zsz">SIMULA</a>, Session Chair: Felix Bieker)
+(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Felix Bieker)
 
 *19:00* **Summer School Dinner**
 
