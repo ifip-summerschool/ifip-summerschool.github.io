@@ -3,12 +3,9 @@ title: "Submission"
 permalink: /submission/
 ---
 
-**Please note that submissions are no longer accepted. The links below are provided for those that submitted papers/proposals to manage their submissions!**
+**Please note that submissions are only accepted from summer school participants (i.e. authors, workshop chairs, keynote speakers)!**
 
-Submissions need to be in English language, must follow the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), and must be submitted electronically using the following Easychair link:
-
-[https://easychair.org/my/conference?conf=ifipsc2023](https://easychair.org/my/conference?conf=ifipsc2023)
-
-Workshop and tutorial proposals need to be in English language, must follow the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), and must be submitted electronically using the following Easychair link:
+Submissions to the post-proceedings need to be in English language, must follow the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), and must be submitted electronically using the following Easychair link:
 
 [https://easychair.org/my/conference?conf=ifipsc2023](https://easychair.org/my/conference?conf=ifipsc2023)
+
