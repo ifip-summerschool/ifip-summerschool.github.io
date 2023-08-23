@@ -18,7 +18,16 @@ logos:
     title: "Forum Privatheit"
 ---
 
+## Thanks to all of you!
+
+The IFIP Summer School on Privacy and Identity Management 2023 is over, it has ben an intense and joyful week, with lots of excellent talks, discussions, and activities. The keynote slides are now linked on the keynote page (as far as available).
+
+Next year's edition of the IFIP Summer School will be held in *Madrid, Spain*, in *September 2024*! Looking forward to meeting many of you there, and don't forget to submit your updated papers to the post-proceedings volume via Easychair before the deadline on Sept 29, 2023!
+
+![Photo showing the group of participants of the IFIP summer school of 2023](/assets/images/participants2023.jpg "Group photo of the participants")
+
 ## Informal Get-Together on Monday canceled!
+
 Due to the weather forecast for tomorrow (heavy rain and thunderstorm incl. a severe weather warning), we have decided to cancel the get-together/sightseeing on Monday. See you all safely on Tuesday morning at the conference site!
 
 ## Full Programme live!
