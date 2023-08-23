@@ -36,6 +36,8 @@ Award PRECYLI on cybercrime law in Ireland. She is a member of the EDPB's Suppor
 
 **The subtle differences between privacy risk and privacy breach consequences**  
 
+[![PDF logo](/assets/images/pdficon.png "Keynote Slides")](/assets/slides/2023/KeynoteFritsch.pdf)
+
 **Abstract:** Handling personal data may cause risks for the persons whose data is processed or stored. But which risks are we referring to when we discuss privacy risks? Regulation sets specific emphasis on especially sensitive personal data, as well as on processing efforts that are affecting a large number of individuals, or society as a whole. Risk analysis in the form of data protection impact analysis (DPIA) and Privacy risk analysis (PRA) is required or strongly recommended in various frameworks. 
 This talk will examine the concept of privacy risks and their consequences. It will present the various perspectives and what they actually capture, or neglect. Listeners will gain a better understanding on risks and consequences of personal data breaches, and about the maturity of the assessment methods used to assess such risks.
 
@@ -116,6 +118,8 @@ cooking, and practising Okinawan Goju Ryu karate-do.
 ### Marit Hansen
 
 **AI and Data Protection - Challenges for Controllers, Processors and Supervisory Authorities**
+
+[![PDF logo](/assets/images/pdficon.png "Keynote Slides")](/assets/slides/2023/KeynoteHansen.pdf)
 
 **Abstract:** In 2023, numerous artificial intelligence (AI) tools such as large language models and graphics software were made available to the public. Data protection regulators began investigating data processing related to some of these AI tools. At the same time, the legislative process on the European AI law continued. However, there are still some issues to be resolved in terms of promoting fair AI-powered data processing that impacts data subjects or society. In her talk, Marit explains data protection challenges for controllers, processors and supervisory authorities. She presents risks from the data protection perspective and beyond, and discusses potential steps to mitigate those risks. 
 
