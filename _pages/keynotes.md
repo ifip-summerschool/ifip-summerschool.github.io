@@ -1,6 +1,6 @@
 ---
 title: "Keynotes"
-permalink: /keynotesnew/
+permalink: /keynotes/
 toc: true
 toc_sticky: true
 ---
