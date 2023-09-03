@@ -112,8 +112,6 @@ Achieving Privacy through Careful Design appeared at MIT Press.
 In his free time he enjoys making composing music, designing graphics,
 cooking, and practising Okinawan Goju Ryu karate-do.
 
-<!-- zuccato -->
-
 <hr>
 ### Marit Hansen
 
@@ -132,6 +130,8 @@ Marit was member of the Data Ethics Commission of the German Government. Her con
 ### Liina Kamm
 
 **Deploying privacy enhancing technologies in an e-government**
+
+[![PDF logo](/assets/images/pdficon.png "Keynote Slides")](/assets/slides/2023/KeynoteKamm.pdf)
 
 **Abstract:** Would it not be amazing if a country could build data-driven services based on the data of its population or organisations while preserving the privacy of the individuals and providing transparency on the processing? In this talk we will take a look at the possibilities that different privacy enhancing technologies offer by enabling different stakeholders to process data without seeing individual values. We look at issues that public sector organisations have with using PETs and issues that could be solved by PETs.
 
