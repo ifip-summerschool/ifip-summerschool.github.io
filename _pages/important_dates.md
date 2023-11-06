@@ -12,6 +12,6 @@ permalink: /important_dates/
 | **Full Paper Deadline:** | <span style="color: red">**~~07.07.2023~~ 14.07.2023 23:59 (AoE)**</span> |
 | **Summer School:** | 08.-11.08.2023 |
 | **Revised Full Paper Deadline:** | <span style="color: red">**~~29.09.2023~~ 06.10.2023 23:59 (AoE)**</span> |
-| **Full Paper Feedback:** | <span style="color: red">**~~27.10.2023~~ 06.11.2023**</span> |
+| **Full Paper Feedback:** | <span style="color: red">**~~27.10.2023~~ ~~06.11.2023~~ 10.11.2023**</span> |
 | **Camera Ready Deadline:** | 24.11.2023 23:59 (AoE) |
 
