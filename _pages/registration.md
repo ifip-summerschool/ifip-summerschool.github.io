@@ -1,6 +1,8 @@
 ---
 title: "Registration"
 permalink: /registration/
+toc: false
+toc_sticky: false
 ---
 
 **The registration for the IFIP Summer School on Privacy and Identity Management 2023 is closed.**
