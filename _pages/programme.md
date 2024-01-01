@@ -1,8 +1,8 @@
 ---
 title: "Programme"
 permalink: /programme/
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 ### Overview
