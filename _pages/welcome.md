@@ -3,7 +3,7 @@ title: "19th IFIP Summer School on Privacy and Identity Management 2024 - Genera
 "
 permalink: /
 header:
-  image: /assets/images/title.png
+  image: /assets/images/title.jpg
   image_description: "IFIP Summer School 2024 Banner image"
   #caption: "Madrid - Photo credit: Tim Adams"
 
