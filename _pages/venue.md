@@ -1,6 +1,8 @@
 ---
 title: "Venue"
 permalink: /venue/
+toc: true
+toc_sticky: false
 ---
 
 ![Photo showing the Telecommunications School](/assets/images/etsit.jpg "ETSIT Building")
