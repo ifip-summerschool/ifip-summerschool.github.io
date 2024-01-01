@@ -1,6 +1,8 @@
 ---
 title: "Submission"
 permalink: /submission/
+toc: false
+toc_sticky: false
 ---
 
 **Please note that submissions are only accepted from summer school participants (i.e. authors, workshop chairs, keynote speakers)!**
