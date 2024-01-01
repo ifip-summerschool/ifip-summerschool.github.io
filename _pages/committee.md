@@ -6,11 +6,10 @@ permalink: /committee/
 ## Programme Chairs
 Felix Bieker (ULD) <br/>
 Silvia De Conca (Vrije Universiteit Amsterdam)<br/>
-Ina Schiering (Ostfalia University of Applied Sciences)
+Yod-Samuel Martín (Universidad Politécnica de Madrid)
 
-## General Chairs
-Nils Gruschka (University of Oslo)<br/>
-Meiko Jensen (Karlstad University)
+## General Chair
+Jose M. Del Alamo (Universidad Politécnica de Madrid)
 
 ## Steering Committee
 Simone Fischer-Hübner (Karlstad University)<br/>
@@ -24,6 +23,8 @@ Stefan Schiffner (BHH Hamburg)<br/>
 Diane Whitehouse (EHTEL)
 
 ## Programme Committee
+To be announced
+<!--
 Florian Adamsky (Hof University of Applied Sciences)<BR/>
 Ala Sarah Alaqra (Karlstad University)<BR/>
 Claudio Ardagna (Università degli Studi di Milano)<BR/>
@@ -61,4 +62,4 @@ Christoph Sorge (Saarland University)<BR/>
 Stefan Strauss (Austrian Academy of Sciences, Institute of Technology Assessment (ITA))<BR/>
 Niels van Dijk (Vrije Universiteit Brussel)<BR/>
 Andreas Weich (Leibniz-Institut für Bildungsmedien, Georg-Eckert-Institut)
-
+-->
