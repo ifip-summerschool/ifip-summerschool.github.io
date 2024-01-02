@@ -1,20 +1,14 @@
 # main links
 main:
+  - title: "Call for Papers"
+    url: /call_for_paper
   - title: "Submission"
     url: /submission
   - title: "Important Dates"
     url: /important_dates
-  - title: "Call for Papers"
-    url: /call_for_paper
   - title: "Committee"
     url: /committee
-  - title: "Programme"
-    url: /programme
-  - title: "Keynotes"
-    url: /keynotes
   - title: "Venue"
     url: /venue
-  - title: "Registration"
-    url: /registration
   - title: "Previous Conferences"
     url: /previous_conferences
