@@ -1,5 +1,6 @@
 ---
 title: "Registration"
+permalink: /registration/
 toc: false
 toc_sticky: false
 ---
