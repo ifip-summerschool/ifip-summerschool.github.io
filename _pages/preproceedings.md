@@ -1,5 +1,6 @@
 ---
 title: "Pre-Proceedings"
+permalink: /preproceedings/
 ---
 
 The Pre-Proceedings of the IFIP Summer School on Privacy and Identity Management 2023 can be downloaded here:
