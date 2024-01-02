@@ -1,6 +1,5 @@
 ---
 title: "Programme"
-<!--permalink: /programme/-->
 toc: false
 toc_sticky: false
 ---
