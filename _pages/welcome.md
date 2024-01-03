@@ -16,7 +16,7 @@ logos:
 ## 2024 Call for Papers out now!
 You can check the details [here](./call_for_paper)
 
-Accepted papers will receive thorough discussions during the School and provide students with an opportunity to be published in the [IFIP AICT series] (https://www.springer.com/series/6102) by Springer.
+Accepted papers will receive thorough discussions during the School and provide students with an opportunity to be published in the [IFIP AICT series](https://www.springer.com/series/6102) by Springer.
   
 ## Sponsors
 [International Federation for Information Processing (IFIP)](https://www.ifip.org)
