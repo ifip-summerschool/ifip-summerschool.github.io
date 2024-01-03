@@ -31,10 +31,8 @@ The IFIP Summer School encourages not only interdisciplinarity but also broader 
 
 The research paper presentations focus on involving students, and on encouraging the publication of high-quality, thorough research papers by students and young researchers. To this end, the school will have the following process for submissions:
 
-* Submit an **extended abstract** of at least 2 and at most 4 pages in [Springer LNCS style](assets
-/Springer_Instructions_for_Authors_of_Proceedings_CS.pdf). From these submissions, the PC chairs select papers within the scope of this call for presentation at the summer school.
-* A full length **submission** (up to 16 pages), also in [Springer LNCS format](assets
-/Springer_Instructions_for_Authors_of_Proceedings_CS.pdf), is required to be submitted before the summer school by applicants whose abstract has been accepted. The full-length paper will be published in the pre-proceedings.
+* Submit an **extended abstract** of at least 2 and at most 4 pages in [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). From these submissions, the PC chairs select papers within the scope of this call for presentation at the summer school.
+* A full length **submission** (up to 16 pages), also in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), is required to be submitted before the summer school by applicants whose abstract has been accepted. The full-length paper will be published in the pre-proceedings.
 * At the summer school each author will give a **presentation** followed by a discussion. 
 * After the summer school, authors are invited to submit to the **proceedings** (again 16 pages LNCS). It is expected that they take into account the comments and discussions from the summer school.
 * There will be a **review** of these submissions by the Programme Committee. Based on these reviews, papers might be accepted, conditionally accepted, or rejected.
