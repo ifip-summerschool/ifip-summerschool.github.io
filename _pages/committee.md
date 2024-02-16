@@ -24,8 +24,6 @@ Stefan Schiffner (BHH Hamburg)<br/>
 Diane Whitehouse (EHTEL)
 
 ## Programme Committee
-To be announced
-<!--
 Florian Adamsky (Hof University of Applied Sciences)<BR/>
 Ala Sarah Alaqra (Karlstad University)<BR/>
 Claudio Ardagna (Università degli Studi di Milano)<BR/>
@@ -36,11 +34,12 @@ Jose M. Del Alamo (Universidad Politecnica de Madrid)<BR/>
 Prokopios Drogkaris (ENISA)<BR/>
 Michael Friedewald (Fraunhofer)<BR/>
 Lothar Fritsch (Oslo Metropolitan University)<BR/>
+Nils Gruscka (University of Oslo)<BR/>
 Marit Hansen (ULD)<BR/>
 Tanja Heuer (Ostfalia University of Applied Sciences)<BR/>
+Meiko Jensen (Karlstad University)<BR/>
 Stefan Katzenbeisser (University of Passau)<BR/>
 Os Keyes (University of Washington)<BR/>
-Kai Kimppa (University of Turku)<BR/>
 Agnieszka Kitkowska (Karlstad Univeristy)<BR/>
 Stephan Krenn (AIT Austrian Institute of Technology GmbH)<BR/>
 Cedric Lauradoux (INRIA)<BR/>
@@ -52,9 +51,9 @@ Joachim Meyer (Tel Aviv University)<BR/>
 Victor Morel (Chalmers University of Technology)<BR/>
 Frank Pallas (TU Berlin)<BR/>
 Sebastian Pape (Continental Automotive Technologies GmbH)<BR/>
-Robin Pierce (University of Exeter)<BR/>
 Davy Preuveneers (imec-DistriNet, KU Leuven)<BR/>
 Arnold Roosendaal (Privacy Company)<BR/>
+Ina Schiering (Ostfalia University of Applied Sciences)<BR/>
 Stefan Schiffner (BHH Hamburg)<BR/>
 Sandra Schmitz (Universite du Luxembourg)<BR/>
 Yefim Shulman (Tel Aviv University)<BR/>
@@ -63,4 +62,3 @@ Christoph Sorge (Saarland University)<BR/>
 Stefan Strauss (Austrian Academy of Sciences, Institute of Technology Assessment (ITA))<BR/>
 Niels van Dijk (Vrije Universiteit Brussel)<BR/>
 Andreas Weich (Leibniz-Institut für Bildungsmedien, Georg-Eckert-Institut)
--->
