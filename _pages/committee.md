@@ -19,6 +19,7 @@ Eleni Kosta (Tilburg University)<br/>
 Stephan Krenn (AIT Austrian Institute of Technology)<br/>
 Charles Raab (University of Edinburgh)<br/>
 Kai Rannenberg (Goethe University Frankfurt)<br/>
+Ina Schiering (Ostfalia University of Applied Sciences)
 Stefan Schiffner (BHH Hamburg)<br/>
 Diane Whitehouse (EHTEL)
 
