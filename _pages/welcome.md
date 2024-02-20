@@ -12,6 +12,11 @@ logos:
     image_path: /assets/images/logos/ifip-th.jpg
     alt: "IFIP"
     title: "IFIP"
+  - url: /assets/images/logos/UPM.png
+    image_path: /assets/images/logos/UPM.png
+    alt: "Universidad Politécnica de Madrid logo"
+    title: "UPM logo"
+
 ---
 ## 2024 Call for Papers out now!
 You can check the details [here](./call_for_paper)
