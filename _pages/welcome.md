@@ -25,4 +25,6 @@ Accepted papers will receive thorough discussions during the School and provide 
 
 [IFIP WG 11.6: Identity Management](https://www.ifiptc11.org/working-groups)
 
+[Universidad Politécnica de Madrid](https://www.upm.es/)
+
 {% include gallery id="logos" layout="" %}
