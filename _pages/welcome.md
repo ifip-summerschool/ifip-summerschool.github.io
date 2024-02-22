@@ -16,6 +16,10 @@ logos:
     image_path: /assets/images/logos/UPM.png
     alt: "Universidad Politécnica de Madrid logo"
     title: "UPM logo"
+  - url: /assets/images/logos/PlatformPrivacy.jpg
+    image_path: /assets/images/logos/PlatformPrivacy.jpg
+    alt: "Platform Privatheit logo"
+    title: "Platform Privatheit logo"
 
 ---
 ## 2024 Call for Papers out now!
@@ -31,5 +35,7 @@ Accepted papers will receive thorough discussions during the School and provide 
 [IFIP WG 11.6: Identity Management](https://www.ifiptc11.org/working-groups)
 
 [Universidad Politécnica de Madrid](https://www.upm.es/)
+
+[Platform Privatheit](https://www.forum-privatheit.de/)
 
 {% include gallery id="logos" layout="" %}
