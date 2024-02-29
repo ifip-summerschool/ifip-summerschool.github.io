@@ -27,6 +27,7 @@ Diane Whitehouse (EHTEL)
 Florian Adamsky (Hof University of Applied Sciences)<BR/>
 Ala Sarah Alaqra (Karlstad University)<BR/>
 Claudio Ardagna (Università degli Studi di Milano)<BR/>
+David Arroyo (CSIC)<BR/>
 Isabel Barberá (Rhite)<BR/>
 Vanessa Bracamonte (KDDI Research, Inc.)<BR/>
 Sebastien Canard (Orange Labs)<BR/>
