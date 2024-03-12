@@ -24,13 +24,20 @@ logos:
 ---
 ## 2024 Invited Speakers confirmed
 These great researchers will be with us during the Summer School:
--[Isabel Barberá](https://www.linkedin.com/in/isabelbarbera/) (Rhite) 
--[Gloria González Fuster](https://glgonzalezfuster.blog/about/) (Vrije Universiteit Brussel )
--[Teresa Martínez Sánchez](https://www.linkedin.com/in/teresamartinezsanchez) (Agencia Española de Protección de Datos) 
--[Hanna Schraffenberger](https://www.creativecode.org/) (Radboud University)
--[Daniel Slamanig](https://www.linkedin.com/in/danielslamanig) (Universität der Bundeswehr München)
--[Jose Such](https://www.linkedin.com/in/josuch/) (King's College London & Universitat Politècnica de València) 
--[Linnet Taylor](https://www.tilburguniversity.edu/staff/l-e-m-taylor) (Tilburg University) 
+
+[Isabel Barberá](https://www.linkedin.com/in/isabelbarbera/) (Rhite) 
+
+[Gloria González Fuster](https://glgonzalezfuster.blog/about/) (Vrije Universiteit Brussel )
+
+[Teresa Martínez Sánchez](https://www.linkedin.com/in/teresamartinezsanchez) (Agencia Española de Protección de Datos) 
+
+[Hanna Schraffenberger](https://www.creativecode.org/) (Radboud University)
+
+[Daniel Slamanig](https://www.linkedin.com/in/danielslamanig) (Universität der Bundeswehr München)
+
+[Jose Such](https://www.linkedin.com/in/josuch/) (King's College London & Universitat Politècnica de València) 
+
+[Linnet Taylor](https://www.tilburguniversity.edu/staff/l-e-m-taylor) (Tilburg University) 
 
 ## 2024 Call for Papers out now!
 You can check the details [here](./call_for_paper)
