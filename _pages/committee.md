@@ -25,28 +25,24 @@ Diane Whitehouse (EHTEL)
 
 ## Programme Committee
 Florian Adamsky (Hof University of Applied Sciences)<BR/>
-Ala Sarah Alaqra (Karlstad University)<BR/>
+Ala Sarah Alaqra (Karlstad University)<BR/> 
 Claudio Ardagna (Università degli Studi di Milano)<BR/>
 David Arroyo (CSIC)<BR/>
 Isabel Barberá (Rhite)<BR/>
-Vanessa Bracamonte (KDDI Research, Inc.)<BR/>
+Tanja Böhm (Ostfalia University of Applied Sciences)<BR/>
+Vanessa Bracamonte (KDDI Research, Inc.)<BR/> 
 Sebastien Canard (Orange Labs)<BR/>
-Jose M. Del Alamo (Universidad Politecnica de Madrid)<BR/>
+Laura Drechsler (KU Leuven)<BR/>
 Prokopios Drogkaris (ENISA)<BR/>
 Michael Friedewald (Fraunhofer)<BR/>
-Lothar Fritsch (Oslo Metropolitan University)<BR/>
 Nils Gruscka (University of Oslo)<BR/>
 Marit Hansen (ULD)<BR/>
-Tanja Heuer (Ostfalia University of Applied Sciences)<BR/>
 Meiko Jensen (Karlstad University)<BR/>
 Stefan Katzenbeisser (University of Passau)<BR/>
 Os Keyes (University of Washington)<BR/>
 Agnieszka Kitkowska (Karlstad Univeristy)<BR/>
 Stephan Krenn (AIT Austrian Institute of Technology GmbH)<BR/>
-Cedric Lauradoux (INRIA)<BR/>
 Konstantinos Limniotis (Hellenic Data Protection Authority)<BR/>
-Pierre Lison (Norsk Regnesentral)<BR/>
-Luigi Lo Iacono (H-BRS University of Applied Sciences)<BR/>
 Zoltan Mann (University of Amsterdam)<BR/>
 Joachim Meyer (Tel Aviv University)<BR/>
 Victor Morel (Chalmers University of Technology)<BR/>
@@ -56,10 +52,5 @@ Davy Preuveneers (imec-DistriNet, KU Leuven)<BR/>
 Arnold Roosendaal (Privacy Company)<BR/>
 Ina Schiering (Ostfalia University of Applied Sciences)<BR/>
 Stefan Schiffner (BHH Hamburg)<BR/>
-Sandra Schmitz (Universite du Luxembourg)<BR/>
 Yefim Shulman (Tel Aviv University)<BR/>
-Juraj Somorovsky (Paderborn University)<BR/>
-Christoph Sorge (Saarland University)<BR/>
 Stefan Strauss (Austrian Academy of Sciences, Institute of Technology Assessment (ITA))<BR/>
-Niels van Dijk (Vrije Universiteit Brussel)<BR/>
-Andreas Weich (Leibniz-Institut für Bildungsmedien, Georg-Eckert-Institut)
