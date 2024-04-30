@@ -16,4 +16,4 @@ toc_sticky: false
 | Participant (IFIP member)  | EUR 270 | 
 | Workshop/Tutorial Organizer/Participant (IFIP member) | EUR 270 |  
 
-
+You can carry out the registration and payment at https://eventos.upm.es/event_detail/112720/tickets.html
