@@ -22,6 +22,9 @@ logos:
     title: "Platform Privatheit logo"
 
 ---
+## 2024 Registration is open
+You can check the details [here](./registration)
+
 ## 2024 Invited Speakers confirmed
 These great researchers will be with us during the Summer School:
 
