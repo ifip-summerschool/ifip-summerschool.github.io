@@ -2,13 +2,16 @@
 main:
   - title: "Call for Papers"
     url: /call_for_paper
-  - title: "Submission"
-    url: /submission
   - title: "Important Dates"
     url: /important_dates
+  - title: "Registration"
+    url: /registration
   - title: "Committee"
     url: /committee
   - title: "Venue"
     url: /venue
+  - title: "Submission"
+    url: /submission
   - title: "Previous Conferences"
     url: /previous_conferences
+    
