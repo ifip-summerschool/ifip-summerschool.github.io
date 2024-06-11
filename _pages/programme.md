@@ -98,7 +98,7 @@ The evening is free to mingle and explore the city.
 *10:30-12:30* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 5: Vulnerability & Ethics </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 4: Vulnerability & Ethics </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Saebyoul Yun:</b><br/> <b>A bottom-up movement to develop ethical foundations for generative AI in South Korea: will it simply follow the West or forge its own path?</b><br /><i>(Keywords: Generative AI and ethics, Ethical guidelines, Emerging movements, Asian Countries)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Clara Strathmann:</b><br/> <b>A Focus Group Study on Vulnerable Group’s Awareness of Vertical Privacy Online, Protection Measures and the Potential of Offline Analogies</b><br /><i>(Keywords: vulnerable groups, vertical privacy, visceral notice, inclusion, focus groups)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -134,7 +134,7 @@ The evening is free to mingle and explore the city.
 *10:30-12:00* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 7: Methods & Models </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 5: Methods & Models </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Knut Haufe:</b><br/> <b>Generic Process Reference Model for Management Systems </b><br /><i>(Keywords: management, management systems, process reference models)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Job Doesburg, Pascal van Gastel, Bernard van Gastel and Erik Poll:</b><br/> <b>A Systematic Method to Design for Privacy & Security in Complex Systems</b><br /><i>(Keywords: design method, stakeholders,
@@ -148,7 +148,7 @@ security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/a
 *13:00-14:30* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 9: Surveillance </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 6: Surveillance </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Jorge Constantino Torres:</b><br/> <b>Accounting for data and AI in intelligence and secret services</b><br /><i>(Keywords: Accountability, data, privacy, generative AI, duty of care in intelligence and security sectors)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Nils Victor Langensteiner:</b><br/> <b>Pornography Platforms versus Regulators: A comparative overview of the age verification saga</b><br /><i>(Keywords: youth protection, age verification, online enforcement, pornography)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -167,7 +167,7 @@ security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/a
 *16:00-17:30* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 11: Foundations </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 7: Foundations </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Georgios Bouchagiar:</b><br/> <b>Human Rights and Human Duties in the Age of Artificial Intelligence</b><br /><i>(Keywords: Human rights, Human duties, Artificial Intelligence, Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>TBA:</b><br/> <b>TBA</b><br /><i>(Keywords: )</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
