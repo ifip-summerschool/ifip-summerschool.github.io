@@ -34,7 +34,7 @@ This is an informal Get-Together for those already present. The meeting point is
 
 *09:20-10:20* **Keynote: Daniel Slamanig**
 
-[**Title TBD**](/keynotes#daniel-slamanig) 
+**Title TBD** * *
 
 (Room: Salon Actos C, Session Chair: TBD) 
 
@@ -73,7 +73,7 @@ identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a
 
 *15:20-16:20* **Keynote: Isabel Barberá**
 
-[**TBD**](/keynotes#isabel-barbera) 
+**TBD** * *
 
 (Room: Salón Actos C, Session Chair: TBD)
 
@@ -89,7 +89,7 @@ The evening is free to mingle and explore the city.
 
 *09:00-10:00* **Keynote: Gloria González Fuster**
 
-[**TTBD**](/keynotes#gloria-gonzalez) 
+**TTBD** * *
 
 (Room: Salón Actos C, Session Chair: TBD) 
 
@@ -111,7 +111,7 @@ The evening is free to mingle and explore the city.
 
 *13:30-14:30* **Keynote: Hanna Schraffenberger**
 
-[**TBD**](/keynotes#hanna-schraffenberger) 
+**TBD** * *
 
 (Room: Salón Actos C, Session Chair: TBD)
 
@@ -125,7 +125,7 @@ The evening is free to mingle and explore the city.
 
 *09:00-10:00* **Keynote: Jose Such**
 
-[**Human-centred AI Security, Ethics and Privacy**](/keynotes#jose-such) 
+**Human-centred AI Security, Ethics and Privacy** *This talk will have two main parts: 1) risks in AI systems; 2) AI for online safety. In the first part, I will talk about three risks of using AI: security, privacy, and discrimination. I will show that attacks that can be performed to exploit AI models and attack the systems that use them, that AI-based systems can be privacy-intrusive, and that AI-based systems may have biases that may lead to discriminate against particular types of users (e.g. based on gender/ethnicity). I will then outline our current research and projects on making AI safer. In the second part, I will talk about using AI to help people stay safe online. I will showcase our current research on using AI to study online language, particularly focusing on biased and toxic language and the analysis of echo chambers, and to protect online privacy.*
 
 (Room: Salón de Actos C, Session Chair: TBA)
 
