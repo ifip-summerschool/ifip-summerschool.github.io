@@ -34,22 +34,22 @@ This is an informal Get-Together for those already present. The meeting point is
 
 *09:20-10:20* **Keynote: Daniel Slamanig**
 
-**Title TBD** * *
+**Title TBA** * *
 
-(Room: Salon Actos C, Session Chair: TBD) 
+(Room: Salon Actos C, Session Chair: TBA) 
 
 *10:20-10:50* **Coffee Break**
 
 *10:50-12:20* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Deepfakes </b><br/>(Room: Salon Actos C, Session Chair: TBD)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Deepfakes </b><br/>(Room: Salon Actos C, Session Chair: TBA)</td></tr></thead>
 <tbody>
 <tr><td><!-- 2161 --> </td><td> <b>Cristina Vanberghen:</b><br/> <b>The AI Act vs. deepfakes: A step forward, but is it enough?</b><br /><i>(Keywords: Deepfakes, AI Act, Transparency, Enforcement, Liability, Digital Literacy, European Union, EU AI Office)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 5189 --> </td><td> <b>Anastasia Karagianni:</b><br/> <b>Unveiling Shadows: Exploring Privacy, Identity, and Personality Rights in the Age of Sexualised Deepfakes Through Feminist Lenses</b><br /><i>(Keywords: AI-generated abuse
 identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a href="/assets/papers/2024/test.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Paper Session 2: Security </b><br/>(Room: B225, Session Chair: TBD)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Paper Session 2: Security </b><br/>(Room: B225, Session Chair: TBA)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4883 --> </td><td> <b>Gilles Mertens, Nataliia Bielova, Vincent Roca and Cristiana Santos:</b><br/> <b>Google Tag Manager: Hidden Data Leaks and its Potential Violations under EU Data Protection Law</b><br /><i>(Keywords: online tracking, privacy, consent, GDPR compliance, website publishers, data controller, potential legal violation)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 3728 --> </td><td> <b>Meem Arafat Manab:</b><br/> <b>TWIG: Two-Step Image Generation using Segmentation Masks as an Intermediary in Diffusion Models to Prevent Copying from the Source</b><br /><i>(Keywords: Generative Artificial Intelligence, Privacy-Preserving AI, Image Denoising, Diffusion Model)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -61,7 +61,7 @@ identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a
 *13:20-14:50* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Access </b><br/>(Salón Actos C, Session Chair: TBD)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Access </b><br/>(Salón Actos C, Session Chair: TBA)</td></tr></thead>
 <tbody>
 <tr><td><!-- 2128 --> </td><td> <b>Faith Obafemi:</b><br/> <b>Regulating Data Access: An Inquiry into the Implications and Implementation of Section 40 of the Digital Services Act in the Metaverse</b><br /><i>(Keywords: DSA, Metaverse, Data Protection, Privacy)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2128 --> </td><td> <b>Atiyeh Sadeghi:</b><br/> <b>Exploring Cultural Values and Privacy Information Concerns: A Model for Immigrant Consumers in Online Markets</b><br /><i>(Keywords: Privacy information concern, Cultural values, Immigrant, E-commerce use)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -73,9 +73,9 @@ identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a
 
 *15:20-16:20* **Keynote: Isabel Barberá**
 
-**TBD** * *
+**Title TBA** * *
 
-(Room: Salón Actos C, Session Chair: TBD)
+(Room: Salón Actos C, Session Chair: TBA)
 
 *16:20-18:00* **Reception at the UPM Telecommunications Engineering School**
 
@@ -89,16 +89,16 @@ The evening is free to mingle and explore the city.
 
 *09:00-10:00* **Keynote: Gloria González Fuster**
 
-**TTBD** * *
+**Title TBA** * *
 
-(Room: Salón Actos C, Session Chair: TBD) 
+(Room: Salón Actos C, Session Chair: TBA) 
 
 *10:00-10:30* **Coffee Break**
 
 *10:30-12:30* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 4: Vulnerability & Ethics </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 4: Vulnerability & Ethics </b><br/>(Room: Salón Actos C, Session Chair: TBA)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Saebyoul Yun:</b><br/> <b>A bottom-up movement to develop ethical foundations for generative AI in South Korea: will it simply follow the West or forge its own path?</b><br /><i>(Keywords: Generative AI and ethics, Ethical guidelines, Emerging movements, Asian Countries)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Clara Strathmann:</b><br/> <b>A Focus Group Study on Vulnerable Group’s Awareness of Vertical Privacy Online, Protection Measures and the Potential of Offline Analogies</b><br /><i>(Keywords: vulnerable groups, vertical privacy, visceral notice, inclusion, focus groups)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -111,9 +111,9 @@ The evening is free to mingle and explore the city.
 
 *13:30-14:30* **Keynote: Hanna Schraffenberger**
 
-**TBD** * *
+**Title TBA** * *
 
-(Room: Salón Actos C, Session Chair: TBD)
+(Room: Salón Actos C, Session Chair: TBA)
 
 *14:30* **End of day 2**
 
@@ -125,7 +125,7 @@ The evening is free to mingle and explore the city.
 
 *09:00-10:00* **Keynote: Jose Such**
 
-**Human-centred AI Security, Ethics and Privacy** *This talk will have two main parts: 1) risks in AI systems; 2) AI for online safety. In the first part, I will talk about three risks of using AI: security, privacy, and discrimination. I will show that attacks that can be performed to exploit AI models and attack the systems that use them, that AI-based systems can be privacy-intrusive, and that AI-based systems may have biases that may lead to discriminate against particular types of users (e.g. based on gender/ethnicity). I will then outline our current research and projects on making AI safer. In the second part, I will talk about using AI to help people stay safe online. I will showcase our current research on using AI to study online language, particularly focusing on biased and toxic language and the analysis of echo chambers, and to protect online privacy.*
+**Human-centred AI Security, Ethics and Privacy.** *This talk will have two main parts: 1) risks in AI systems; 2) AI for online safety. In the first part, I will talk about three risks of using AI: security, privacy, and discrimination. I will show that attacks that can be performed to exploit AI models and attack the systems that use them, that AI-based systems can be privacy-intrusive, and that AI-based systems may have biases that may lead to discriminate against particular types of users (e.g. based on gender/ethnicity). I will then outline our current research and projects on making AI safer. In the second part, I will talk about using AI to help people stay safe online. I will showcase our current research on using AI to study online language, particularly focusing on biased and toxic language and the analysis of echo chambers, and to protect online privacy.*
 
 (Room: Salón de Actos C, Session Chair: TBA)
 
@@ -134,7 +134,7 @@ The evening is free to mingle and explore the city.
 *10:30-12:00* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 5: Methods & Models </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 5: Methods & Models </b><br/>(Room: Salón Actos C, Session Chair: TBA)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Knut Haufe:</b><br/> <b>Generic Process Reference Model for Management Systems </b><br /><i>(Keywords: management, management systems, process reference models)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Job Doesburg, Pascal van Gastel, Bernard van Gastel and Erik Poll:</b><br/> <b>A Systematic Method to Design for Privacy & Security in Complex Systems</b><br /><i>(Keywords: design method, stakeholders,
@@ -148,7 +148,7 @@ security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/a
 *13:00-14:30* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 6: Surveillance </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 6: Surveillance </b><br/>(Room: Salón Actos C, Session Chair: TBA)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Jorge Constantino Torres:</b><br/> <b>Accounting for data and AI in intelligence and secret services</b><br /><i>(Keywords: Accountability, data, privacy, generative AI, duty of care in intelligence and security sectors)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Nils Victor Langensteiner:</b><br/> <b>Pornography Platforms versus Regulators: A comparative overview of the age verification saga</b><br /><i>(Keywords: youth protection, age verification, online enforcement, pornography)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -160,14 +160,14 @@ security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/a
 
 *15:00-16:00* **Keynote: TBA**
 
-[**TBD**](/keynotes#) 
+**TBA**  
 
-(Room: Salón Actos C, Session Chair: TBD)
+(Room: Salón Actos C, Session Chair: TBA)
 
 *16:00-17:30* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 7: Foundations </b><br/>(Room: Salón Actos C, Session Chair: TBD)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 7: Foundations </b><br/>(Room: Salón Actos C, Session Chair: TBA)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Georgios Bouchagiar:</b><br/> <b>Human Rights and Human Duties in the Age of Artificial Intelligence</b><br /><i>(Keywords: Human rights, Human duties, Artificial Intelligence, Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>TBA:</b><br/> <b>TBA</b><br /><i>(Keywords: )</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -186,7 +186,7 @@ security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/a
 
 *09:00-10:00* **Keynote: Teresa Martínez Sánchez**
 
-[**TBA**](/keynotes#teresa-martinez) 
+**Title TBA** * *
 
 (Room: Salón de Actos C, Session Chair: TBA)
 
@@ -201,9 +201,9 @@ security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/a
 
 *12:00-13:00* **Keynote: TBA**
 
-[**TBD**](/keynotes#) 
+**TBA** * *
 
-(Room: Salón Actos C, Session Chair: TBD)
+(Room: Salón Actos C, Session Chair: TBA)
 
 *13:00-13:15* **Best Student Presentation Award**
 
