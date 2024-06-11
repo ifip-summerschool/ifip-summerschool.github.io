@@ -1,8 +1,8 @@
 ---
 title: "Programme"
 permalink: /programme/
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 ---
 
 ### Overview
@@ -34,7 +34,7 @@ This is an informal Get-Together for those already present. The meeting point is
 
 *09:20-10:20* **Keynote: Daniel Slamanig**
 
-[**Title TBD**](/keynotes#stefan-schiffner) 
+[**Title TBD**](/keynotes#daniel-slamanig) 
 
 (Room: Salon Actos C, Session Chair: TBD) 
 
@@ -45,47 +45,39 @@ This is an informal Get-Together for those already present. The meeting point is
 <table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session 1: Deepfakes </b><br/>(Room: Salon Actos C, Session Chair: TBD)</td></tr></thead>
 <tbody>
-<tr><td><!-- 2161 --> </td><td> <b>Cristina Vanberghen:</b><br/> <b>The AI Act vs. deepfakes: A step forward, but is it enough?</b><br /><i>(Keywords: Deepfakes, AI Act, Transparency, Enforcement, Liability, Digital Literacy, European Union, EU AI Office)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2161.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-<tr><td><!-- 5189 --> </td><td> <b>August Bourgeus, Tim Theys, Nanouk Verhulst, Peter Mechant and Laurens Vandercruysse:</b><br/> <b>Towards an affordance-based typology of Personal Data Stores</b><br /><i>(Keywords: Personal Data Store, typology, affordances)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5189.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
+<tr><td><!-- 2161 --> </td><td> <b>Cristina Vanberghen:</b><br/> <b>The AI Act vs. deepfakes: A step forward, but is it enough?</b><br /><i>(Keywords: Deepfakes, AI Act, Transparency, Enforcement, Liability, Digital Literacy, European Union, EU AI Office)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
+<tr><td><!-- 5189 --> </td><td> <b>Anastasia Karagianni:</b><br/> <b>Unveiling Shadows: Exploring Privacy, Identity, and Personality Rights in the Age of Sexualised Deepfakes Through Feminist Lenses</b><br /><i>(Keywords: AI-generated abuse
+identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a href="/assets/papers/2024/test.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Paper Session 2: Identity Management </b><br/>(Room: <a href="https://link.mazemap.com/eZ3Fb991">JAVA</a>, Session Chair: Meiko Jensen)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Paper Session 2: Security </b><br/>(Room: B225, Session Chair: TBD)</td></tr></thead>
 <tbody>
-<tr><td><!-- 4883 --> </td><td> <b>Ali Haider and Mohsen Toorani:</b><br/> <b>Subscriber's Identity Privacy in 5G Networks</b><br /><i>(Keywords: Subscriber Privacy, 5G, Cellular Networks, Authenticated Key Agreement)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_4883.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-<tr><td><!-- 3728 --> </td><td> <b>Arnaf Aziz Torongo and Mohsen Toorani:</b><br/> <b>Blockchain-based Decentralized Identity Management for Healthcare Systems</b><br /><i>(Keywords: Self-Sovereign Identity, Hyperledger Indy, Hyperledger Aries, Decentralized Identifiers, Verifiable Credentials)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_3728.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-</tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop: Cybersecurity of Critical Infrastructures</b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>)</td></tr></thead>
-<tbody>
-<tr><td> </td><td> <b>Aida Akbarzadeh and Xhesika Ramaj:</b><br/> <b> Welcome; About RECYCIN: Reinforcing Competence in Cybersecurity of Critical Infrastructures: A Norway – US Partnership Project</b></td><td> </td></tr>
-<tr><td> </td><td> <b>Laszlo Erdodi:</b><br/> <b>Power Grid from Offensive Perspective</b><br /><i>(Hands-on Session)</i> </td><td> </td></tr>
+<tr><td><!-- 4883 --> </td><td> <b>Gilles Mertens, Nataliia Bielova, Vincent Roca and Cristiana Santos:</b><br/> <b>Google Tag Manager: Hidden Data Leaks and its Potential Violations under EU Data Protection Law</b><br /><i>(Keywords: online tracking, privacy, consent, GDPR compliance, website publishers, data controller, potential legal violation)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
+<tr><td><!-- 3728 --> </td><td> <b>Meem Arafat Manab:</b><br/> <b>TWIG: Two-Step Image Generation using Segmentation Masks as an Intermediary in Diffusion Models to Prevent Copying from the Source</b><br /><i>(Keywords: Generative Artificial Intelligence, Privacy-Preserving AI, Image Denoising, Diffusion Model)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
 </table>
 
-*13:30-15:00* **Paper Sessions**
+*12:20-13:20* **Lunch Break**
+
+*13:20-14:50* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Tutorial </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Access </b><br/>(Salón Actos C, Session Chair: TBD)</td></tr></thead>
 <tbody>
-<tr><td><!-- 2128 --> </td><td> <b>Carolin Gilga:</b><br/> <b>Shared, public and out of control &ndash; Your data on the public web</b><br /><i>(Keywords: public data, data protection, psychology, web monitoring, screen scraping, social media monitoring, interdisciplinarity)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2128.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
+<tr><td><!-- 2128 --> </td><td> <b>Faith Obafemi:</b><br/> <b>Regulating Data Access: An Inquiry into the Implications and Implementation of Section 40 of the Digital Services Act in the Metaverse</b><br /><i>(Keywords: DSA, Metaverse, Data Protection, Privacy)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
+<tr><td><!-- 2128 --> </td><td> <b>Atiyeh Sadeghi:</b><br/> <b>Exploring Cultural Values and Privacy Information Concerns: A Model for Immigrant Consumers in Online Markets</b><br /><i>(Keywords: Privacy information concern, Cultural values, Immigrant, E-commerce use)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Tutorial </b><br/>(Room: <a href="https://link.mazemap.com/eZ3Fb991">JAVA</a>)</td></tr></thead>
-<tbody>
-<tr><td><!-- 401 --> </td><td> <b>Jenni Reuben and Ala Sarah Alaqra:</b><br/> <b>Private Training Approaches - A Primer</b><br /><i>(Keywords: Machine learning, Private learning, Privacy)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_401.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-</tbody>
-<thead><tr><td colspan="3"><b>Track C: Workshop: Cybersecurity of Critical Infrastructures (cont'd) </b><br/>(Room: <a href="https://link.mazemap.com/ZkCyljtE">LOGO</a>)</td></tr></thead>
-<tbody>
-<tr><td> </td><td> <b>Siv Hilde Houmb:</b><br/> <b>Using IEC 62443 to Manage Cyber Security Risks to Power Grid and Oil and Gas Installations</b></td><td> </td></tr>
-<tr><td> </td><td> <b>Nathan Lau:</b><br/> <b>Adopting an Ecological Approach to Develop User Interfaces for Cybersecurity of Industrial Control Systems</b></td><td> </td></tr>
-<tr><td> </td><td> <b>Aida Akbarzadeh and Xhesika Ramaj:</b><br/> <b>Concluding Remarks</b></td><td> </td></tr>
-</tbody>
+<thead><tr><td colspan="3"><b>Track B: Workshop: Trust data and identity sharing </b><br/>(Room: B225)</td></tr></thead>
 </table>
 
-*15:15-16:15* **Keynote: Maria Grazia Porcedda**
+*14:50-15:20* **Coffee Break**
 
-[**The effacement of information technology from EU law: the need for collaborative approaches to redesign the EU’s regulatory architecture**](/keynotes#maria-grazia-porcedda) 
+*15:20-16:20* **Keynote: Isabel Barberá**
 
-(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Felix Bieker)
+[**TBD**](/keynotes#isabel-barbera) 
 
-*16:30-18:00 Reception at the University of Oslo*
+(Room: Salón Actos C, Session Chair: TBD)
+
+**16:20-18:00 Reception at the UPM Telecommunications Engineering School**
 
 After the last session, we will have a small get-together at the conference site.
 
