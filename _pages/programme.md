@@ -77,7 +77,7 @@ identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a
 
 (Room: Salón Actos C, Session Chair: TBD)
 
-**16:20-18:00 Reception at the UPM Telecommunications Engineering School**
+*16:20-18:00* **Reception at the UPM Telecommunications Engineering School**
 
 After the last session, we will have a small get-together at the conference site.
 
