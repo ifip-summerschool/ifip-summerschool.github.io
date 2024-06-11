@@ -1,8 +1,8 @@
 ---
 title: "Programme"
 permalink: /programme/
-toc: false
-toc_sticky: false
+toc: true
+toc_sticky: true
 ---
 
 ### Overview
@@ -11,47 +11,41 @@ toc_sticky: false
 
 <hr/>
 
-### Monday, Aug 7th, 2023
+### Monday, Sep 9th, 2024
 
-~~*19:00* **Get-Together**~~
+*19:00* **Get-Together**
 
-~~Informal Get-Together for those already present. Meeting point is on top of the Oslo Opera House ([map](https://osm.org/go/0TuNJ2aUE--?way=810259696)), from where we will start exploring the city.~~
-> **ATTENTION!**
-> Canceled due to the expected weather: heavy rain and thunderstorm (incl. a severe weather warning).
+This is an informal Get-Together for those already present. The meeting point is UPM Telecommunications Engineering School ([map](https://maps.app.goo.gl/QfAZjC87GmQsk2vo9)).
 
 
 <hr/>
 
-### Tuesday, Aug 8th, 2023
+### Tuesday, Sep 10th, 2024
 
-*08:30-09:00* **Registration and Coffee Break**
+*08:30-09:00* **Registration**
 
 *09:00-09:15* **Opening Remarks**
 
-(Room: [SMALLTALK](https://link.mazemap.com/WIJD9Ey2))
+(Room: [Salón Actos C](https://maps.app.goo.gl/RScQYb4pYSTtePgB6))
 
 **Welcome from the Local Organizers**
 
-*Nils Gruschka, University of Oslo*
-
-*Stephan Oepen, University of Oslo, Head of Department of Informatics*
-
 **Welcome from the Steering Committee**
 
-*Simone Fischer-Hübner, Karlstad University*
+*09:20-10:20* **Keynote: Daniel Slamanig**
 
-*09:15-10:15* **Keynote: Stefan Schiffner**
+[**Title TBD**](/keynotes#stefan-schiffner) 
 
-[**On the endeavour designing and deploying a privacy certification scheme under the GDPR**](/keynotes#stefan-schiffner) 
+(Room: Salon Actos C, Session Chair: TBD) 
 
-(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Meiko Jensen) 
+*10:20-10:50* **Coffee Break**
 
-*10:30-12:00* **Paper Sessions**
+*10:50-12:20* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Power Structures & Individuals </b><br/>(Room: <a href="https://link.mazemap.com/WIJD9Ey2">SMALLTALK</a>, Session Chair: Silvia de Conca)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Deepfakes </b><br/>(Room: Salon Actos C, Session Chair: TBD)</td></tr></thead>
 <tbody>
-<tr><td><!-- 2161 --> </td><td> <b>Greta Runge:</b><br/> <b>(Re)construction of Data Spaces: Socio-Technical Perspectives on Structures, Actors and Impacts</b><br /><i>(Keywords: data spaces, digital infrastructures, data sharing, field research, cross-sectoral innovation processes)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2161.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
+<tr><td><!-- 2161 --> </td><td> <b>Cristina Vanberghen:</b><br/> <b>The AI Act vs. deepfakes: A step forward, but is it enough?</b><br /><i>(Keywords: Deepfakes, AI Act, Transparency, Enforcement, Liability, Digital Literacy, European Union, EU AI Office)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_2161.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 5189 --> </td><td> <b>August Bourgeus, Tim Theys, Nanouk Verhulst, Peter Mechant and Laurens Vandercruysse:</b><br/> <b>Towards an affordance-based typology of Personal Data Stores</b><br /><i>(Keywords: Personal Data Store, typology, affordances)</i> </td><td> <!--<a href="/assets/papers/2023/IFIPSC_2023_Extended_Abstract_5189.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
 <thead><tr><td colspan="3"><b>Track B: Paper Session 2: Identity Management </b><br/>(Room: <a href="https://link.mazemap.com/eZ3Fb991">JAVA</a>, Session Chair: Meiko Jensen)</td></tr></thead>
