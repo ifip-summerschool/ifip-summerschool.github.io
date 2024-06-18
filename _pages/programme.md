@@ -15,7 +15,7 @@ toc_sticky: false
 
 *19:00* **Get-Together**
 
-This is an informal Get-Together for those already present. The meeting point is UPM Telecommunications Engineering School ([map](https://maps.app.goo.gl/QfAZjC87GmQsk2vo9)).
+This is an informal Get-Together for those already present. The meeting point will be announced.
 
 
 <hr/>
