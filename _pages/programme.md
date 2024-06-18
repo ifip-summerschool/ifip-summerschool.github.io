@@ -66,7 +66,7 @@ identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a
 <tr><td><!-- 2128 --> </td><td> <b>Faith Obafemi:</b><br/> <b>Regulating Data Access: An Inquiry into the Implications and Implementation of Section 40 of the Digital Services Act in the Metaverse</b><br /><i>(Keywords: DSA, Metaverse, Data Protection, Privacy)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2128 --> </td><td> <b>Atiyeh Sadeghi:</b><br/> <b>Exploring Cultural Values and Privacy Information Concerns: A Model for Immigrant Consumers in Online Markets</b><br /><i>(Keywords: Privacy information concern, Cultural values, Immigrant, E-commerce use)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Workshop: Trust data and identity sharing </b><br/>(Room: B225)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Workshop: Intersectional Feminist Perspectives on Artificial Intelligence,</b> by Klara-Aylin Wenten<br/>(Room: B225)</td></tr></thead>
 </table>
 
 *14:50-15:20* **Coffee Break**
@@ -79,9 +79,9 @@ identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a
 
 *16:20-18:00* **Reception at the UPM Telecommunications Engineering School**
 
-After the last session, we will have a small get-together at the conference site.
+After the last session, we will have a small reception at the conference site.
 
-The evening is free to mingle and explore the city.
+In the evening, you are free to mingle and explore the city.
 
 <hr/>
 
@@ -104,7 +104,7 @@ The evening is free to mingle and explore the city.
 <tr><td><!-- 2021 --> </td><td> <b>Clara Strathmann:</b><br/> <b>A Focus Group Study on Vulnerable Group’s Awareness of Vertical Privacy Online, Protection Measures and the Potential of Offline Analogies</b><br /><i>(Keywords: vulnerable groups, vertical privacy, visceral notice, inclusion, focus groups)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2937 --> </td><td> <b>Hanif Abdul Halim:</b><br/> <b>Legal Considerations for Age-Appropriate Design in Generative AI for Children; An EU Perspective</b><br /><i>(Keywords: Age appropriate design, children privacy, generative AI)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Workshop: Liability in the Age of AI: An Interactive Case Study on Data Protection, Discrimination, and Market Integrity </b><br/>(Room: B225)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Workshop: Liability in the Age of AI: An Interactive Case Study on Data Protection, Discrimination, and Market Integrity</b>, by Marinos Emmanouil Kalpakos and Claudia Negri-Ribalta <br/>(Room: B225)</td></tr></thead>
 </table>
 
 *12:30-13:30* **Lunch Break**
@@ -117,7 +117,7 @@ The evening is free to mingle and explore the city.
 
 *14:30* **End of day 2**
 
-**Social event to be announced**
+*16:00* **Social Activity (details to be announced)**
 
 <hr/>
 
@@ -140,44 +140,33 @@ The evening is free to mingle and explore the city.
 <tr><td><!-- 2021 --> </td><td> <b>Job Doesburg, Pascal van Gastel, Bernard van Gastel and Erik Poll:</b><br/> <b>A Systematic Method to Design for Privacy & Security in Complex Systems</b><br /><i>(Keywords: design method, stakeholders,
 security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Workshop: Gamification of Privacy Risk Elicitation </b><br/>(Room: B225)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Workshop: Gamification of Privacy Risk Elicitation,</b> by Meiko Jensen, Felix Bieker and Marit Hansen<br/>(Room: B225)</td></tr></thead>
 </table>
 
 *12:00-13:00* **Lunch Break**
 
-*13:00-14:30* **Paper Sessions**
+*13:00-15:00* **Paper Sessions**
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session 6: Surveillance </b><br/>(Room: Salón Actos C, Session Chair: TBA)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Jorge Constantino Torres:</b><br/> <b>Accounting for data and AI in intelligence and secret services</b><br /><i>(Keywords: Accountability, data, privacy, generative AI, duty of care in intelligence and security sectors)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Nils Victor Langensteiner:</b><br/> <b>Pornography Platforms versus Regulators: A comparative overview of the age verification saga</b><br /><i>(Keywords: youth protection, age verification, online enforcement, pornography)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
+<tr><td></td><td> <b>Georgios Bouchagiar:</b><br/> <b>Human Rights and Human Duties in the Age of Artificial Intelligence </b><br /><i>(Keywords: Human rights, Human duties, Artificial Intelligence, 
+Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Workshop: TBA </b><br/>(Room: B225)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Workshop: Trust data and identity sharing</b>, by Francisco Casino Cembellín and David Arroyo<br/>(Room: B225)</td></tr></thead>
 </table>
 
-*14:30-15:00* **Coffee Break**
+*15:00-15:30* **Coffee Break**
 
-*15:00-16:00* **Keynote: TBA**
+*15:30-16:30* **Keynote/Panel: TBA**
 
 **TBA**  
 
-(Room: Salón Actos C, Session Chair: TBA)
-
-*16:00-17:30* **Paper Sessions**
-
-<table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 7: Foundations </b><br/>(Room: Salón Actos C, Session Chair: TBA)</td></tr></thead>
-<tbody>
-<tr><td><!-- 4773 --> </td><td> <b>Georgios Bouchagiar:</b><br/> <b>Human Rights and Human Duties in the Age of Artificial Intelligence</b><br /><i>(Keywords: Human rights, Human duties, Artificial Intelligence, Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-<tr><td><!-- 2021 --> </td><td> <b>TBA:</b><br/> <b>TBA</b><br /><i>(Keywords: )</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-</tbody>
-<thead><tr><td colspan="3"><b>Track B: Rump session: Please, write your topic in the list </b><br/>(Room: B225)</td></tr></thead>
-</table>
-
 *17:30* **End of day 3**
 
-*19:30* **Conference dinner**
+*18:00* **Walking tour and conference dinner**
 
 <hr/>
 
@@ -199,9 +188,9 @@ security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/a
 <thead><tr><td colspan="3"><b>Track B: Workshop: TBA</b><br/>(Room: B225)</td></tr></thead>
 </table>
 
-*12:00-13:00* **Keynote: TBA**
+*12:00-13:00* **Keynote: Yod-Samuel Martín**
 
-**TBA** * *
+**Title: Standardizing privacy and data protection for GenAI**
 
 (Room: Salón Actos C, Session Chair: TBA)
 
