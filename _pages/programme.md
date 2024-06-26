@@ -73,7 +73,7 @@ identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a
 
 *15:20-16:20* **Keynote: Isabel Barberá**
 
-**Title TBA** * *
+**GenAI and the Privacy, Agency and Identity Paradox: Redefining Concepts in the Digital Age** *As Generative AI (GenAI) reshapes our digital landscape, it introduces paradoxes to the worlds of privacy and identity: Can we embrace innovation while avoiding privacy risks? Is GenAI reshaping the way we verify and also perceive our own identities? This keynote will explore how GenAI both empowers and endangers our digital and physical worlds and our understanding of fundamental rights. It will address socio-technical risks as well as the critical role of trust and agency in GenAI systems. The session will challenge traditional data protection paradigms and propose visionary approaches to privacy, agency and identity in the digital age.*
 
 (Room: Salón Actos C, Session Chair: TBA)
 
