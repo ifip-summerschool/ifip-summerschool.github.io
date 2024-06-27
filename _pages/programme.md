@@ -43,12 +43,7 @@ This is an informal Get-Together for those already present. The meeting point wi
 *10:50-12:20* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Deepfakes </b><br/>(Room: Salon Actos C, Session Chair: TBA)</td></tr></thead>
-<tbody>
-<tr><td><!-- 2161 --> </td><td> <b>Cristina Vanberghen:</b><br/> <b>The AI Act vs. deepfakes: A step forward, but is it enough?</b><br /><i>(Keywords: Deepfakes, AI Act, Transparency, Enforcement, Liability, Digital Literacy, European Union, EU AI Office)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-<tr><td><!-- 5189 --> </td><td> <b>Anastasia Karagianni:</b><br/> <b>Unveiling Shadows: Exploring Privacy, Identity, and Personality Rights in the Age of Sexualised Deepfakes Through Feminist Lenses</b><br /><i>(Keywords: AI-generated abuse
-identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a href="/assets/papers/2024/test.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-</tbody>
+<thead><tr><td colspan="3"><b>Track B: Workshop: Intersectional Feminist Perspectives on Artificial Intelligence,</b> by Klara-Aylin Wenten<br/>(Room: B225)</td></tr></thead>
 <thead><tr><td colspan="3"><b>Track B: Paper Session 2: Security </b><br/>(Room: B225, Session Chair: TBA)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4883 --> </td><td> <b>Gilles Mertens, Nataliia Bielova, Vincent Roca and Cristiana Santos:</b><br/> <b>Google Tag Manager: Hidden Data Leaks and its Potential Violations under EU Data Protection Law</b><br /><i>(Keywords: online tracking, privacy, consent, GDPR compliance, website publishers, data controller, potential legal violation)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -65,8 +60,10 @@ identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a
 <tbody>
 <tr><td><!-- 2128 --> </td><td> <b>Faith Obafemi:</b><br/> <b>Regulating Data Access: An Inquiry into the Implications and Implementation of Section 40 of the Digital Services Act in the Metaverse</b><br /><i>(Keywords: DSA, Metaverse, Data Protection, Privacy)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2128 --> </td><td> <b>Atiyeh Sadeghi:</b><br/> <b>Exploring Cultural Values and Privacy Information Concerns: A Model for Immigrant Consumers in Online Markets</b><br /><i>(Keywords: Privacy information concern, Cultural values, Immigrant, E-commerce use)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
+<tr><td><!-- 5189 --> </td><td> <b>Anastasia Karagianni:</b><br/> <b>Unveiling Shadows: Exploring Privacy, Identity, and Personality Rights in the Age of Sexualised Deepfakes Through Feminist Lenses</b><br /><i>(Keywords: AI-generated abuse
+identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a href="/assets/papers/2024/test.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Workshop: Intersectional Feminist Perspectives on Artificial Intelligence,</b> by Klara-Aylin Wenten<br/>(Room: B225)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Workshop: TBA</b> <br/>(Room: B225)</td></tr></thead>
 </table>
 
 *14:50-15:20* **Coffee Break**
@@ -185,7 +182,7 @@ Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png"
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Workshop: DAS – A Digital Adaptation Strategy to jointly shape a post-AI world</b><br/>(Room: Salón de Actos C)</td></tr></thead>
-<thead><tr><td colspan="3"><b>Track B: Workshop: TBA</b><br/>(Room: B225)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Rump session</b><br/>(Room: B225)</td></tr></thead>
 </table>
 
 *12:00-13:00* **Keynote: Yod-Samuel Martín**
