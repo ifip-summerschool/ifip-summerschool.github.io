@@ -108,7 +108,7 @@ In the evening, you are free to mingle and explore the city.
 
 *13:30-14:30* **Keynote: Hanna Schraffenberger**
 
-**Title TBA** * *
+**Digitalization of society: a value-driven design perspective.** *In this talk, I present past and ongoing projects that address the digitalization of society from a value-driven design perspective. Among other things, I will address issues such as privacy, misinformation, and so-called 'deceptive design,' i.e., user interface designs that manipulate users to take actions that might not be in their interest. The primary focus of the talk will be on digital identity wallets and their potential to address societal problems. For instance, I will discuss projects that use identity wallets for email encryption, authenticated video calling, and digital voting, as well as against fake news. We will look at the potential of identity wallets for privacy-friendly disclosure of data but also discuss potential risks - e.g., services tricking users into revealing more data about themselves than is strictly necessary.*
 
 (Room: Salón Actos C, Session Chair: TBA)
 
