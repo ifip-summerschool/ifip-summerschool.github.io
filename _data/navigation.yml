@@ -6,6 +6,8 @@ main:
     url: /important_dates
   - title: "Registration"
     url: /registration
+  - title: "Programme"
+    url: /programme
   - title: "Committee"
     url: /committee
   - title: "Venue"
