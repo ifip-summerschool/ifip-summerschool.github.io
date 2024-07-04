@@ -172,7 +172,7 @@ Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png"
 
 *09:00-10:00* **Keynote: Teresa Martínez Sánchez**
 
-**Title TBA** * *
+**The role of data protection authorities** *In an increasingly digital society, where the volume of available data and the technology to exploit it grow at an unprecedented rate, protecting individuals' rights is intrinsically linked to the protection of their personal data. This talk explores the necessity of effective personal data protection as a crucial first step in safeguarding other fundamental rights and freedoms. Real-life examples are employed to highlight the importance of data protection and the role of data protection authorities in both overseeing the enforcement of these rights and promoting the development of technology designed to protect individuals' fundamental rights and freedoms. Achieving this requires innovative technological solutions that can adapt to the constant evolution of these technologies.*
 
 (Room: Salón de Actos C, Session Chair: TBA)
 
