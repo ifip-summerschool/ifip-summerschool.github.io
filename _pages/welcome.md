@@ -22,11 +22,11 @@ logos:
     title: "Platform Privatheit logo"
 
 ---
+## 2023 Proceedings published
+The proceedings for the IFIP Summer School 2023 have been published by Springer in [Privacy and Identity Management. Sharing in a Digital World](https://link.springer.com/book/10.1007/978-3-031-57978-3)
+
 ## 2024 Programme published
 You can check the details [here](./programme)
-
-## 2023 Proceedings published
-The proceedings for the IFIP Summer School 2023 have been published by Springer in [Privacy and Identity Management. Sharing in a Digital World](https://doi.org/10.1007/978-3-031-57978-3)
 
 ## 2024 Registration is open
 You can check the details [here](./registration)
