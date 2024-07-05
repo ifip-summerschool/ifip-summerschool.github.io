@@ -157,9 +157,9 @@ Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png"
 
 *15:00-15:30* **Coffee Break**
 
-*15:30-16:30* **Keynote/Panel: TBA**
+*15:30-16:30* **Keynote: Linnet Taylor**
 
-**TBA**  
+**The global politics of identification** *ID is political. Identification used to mean primarily the dialogue between citizens and government for administrative purposes, but today ID systems do much more than this. They create marketing opportunities for industry; they shape access to public services; they act as fields of testing and experimentation for financial and security technologies and their governance; they articulate cooperation between governments worldwide around bordering and migration control; they enable law enforcement cooperation nationally and internationally, and much more. In particular, they create fields where security bodies interact and cooperate with civil authorities. This talk will provide a perspective on how these different functions interact in ID systems worldwide, and the interests that are served by these interactions.*
 
 *17:30* **End of day 3**
 
