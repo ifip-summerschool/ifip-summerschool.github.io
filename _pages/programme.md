@@ -122,7 +122,7 @@ In the evening, you are free to mingle and explore the city.
 
 *09:00-10:00* **Keynote: Daniel Slamanig**
 
-**TBA** **
+**Privacy-Preserving Authentication: Theory vs. Practice** *With the increasing use of online services, the protection of the privacy of users becomes more and more important. Cryptography offers exciting primitives such as zero-knowledge proofs and advanced signature schemes to realize various forms of so-called anonymous credentials. Such primitives allow to provide a high level of privacy protection. While these primitives are well understood in the research community, unfortunately, they lack widespread adoption. In this talk, we will look at what cryptography can do, some deployment examples, and barriers to adoption, later using the example of the EU Digital Identity Wallet (EUDIW).*
 
 (Room: Salón de Actos C, Session Chair: TBA)
 
