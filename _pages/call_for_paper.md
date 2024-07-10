@@ -32,10 +32,10 @@ The IFIP Summer School encourages not only interdisciplinarity but also broader 
 The research paper presentations focus on involving students and on encouraging the publication of high-quality, thorough research papers by students and young researchers. To this end, the school will have the following process for submissions:
 
 * Submit an **extended abstract** of at least 2 and at most 4 pages in [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). From these submissions, the PC chairs select papers within the scope of this call for presentation at the Summer School.
-* A full length **submission** (up to 16 pages), also in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), is required to be submitted before the Summer School by applicants whose abstract has been accepted. The full-length paper will be published in the pre-proceedings.
-* At the Summer School each author will give a **presentation** followed by a discussion. 
+* A full length **submission** (up to 16 pages), also in [Springer LNCS format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), is required to be submitted before the Summer School by applicants whose abstract has been accepted. The full-length paper will be shared with the other participants of the Summer School to prepare for the presentations.
+* At the Summer School, each author will give a **presentation** followed by a discussion. 
 * After the Summer School, authors are invited to submit to the **proceedings** (again 16 pages LNCS). They are expected to consider the comments and discussions from the Summer School.
-* There will be a **review** of these submissions by the Programme Committee. Based on these reviews, papers might be accepted, conditionally accepted, or rejected.
+* The Programme Committee will **review** these submissions. Based on these reviews, papers might be accepted, conditionally accepted, or rejected.
 * Accepted and (after satisfactory revision) conditionally accepted papers will be included in the Summer School’s proceedings, which will be **published** by Springer.
 
 <!--
