@@ -126,9 +126,9 @@ In the evening, you are free to mingle and explore the city.
 
 (Room: Salón de Actos C, Session Chair: TBA)
 
-*10:00-10:30* **Coffee Break**
+*10:00-10:15* **Coffee Break**
 
-*10:30-12:00* **Paper Sessions**
+*10:15-11:45* **Paper Sessions**
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session 5: Methods & Models </b><br/>(Room: Salón Actos C, Session Chair: TBA)</td></tr></thead>
@@ -137,12 +137,16 @@ In the evening, you are free to mingle and explore the city.
 <tr><td><!-- 2021 --> </td><td> <b>Job Doesburg, Pascal van Gastel, Bernard van Gastel and Erik Poll:</b><br/> <b>A Systematic Method to Design for Privacy & Security in Complex Systems</b><br /><i>(Keywords: design method, stakeholders,
 security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Workshop: Gamification of Privacy Risk Elicitation,</b> by Meiko Jensen, Felix Bieker and Marit Hansen<br/>(Room: B225)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Workshop: TBA</b> <br/>(Room: B225)</td></tr></thead>
 </table>
 
-*12:00-13:00* **Lunch Break**
+*11:45-12:45* **Keynote: Linnet Taylor**
 
-*13:00-15:00* **Paper Sessions**
+**The global politics of identification** *ID is political. Identification used to mean primarily the dialogue between citizens and government for administrative purposes, but today ID systems do much more than this. They create marketing opportunities for industry; they shape access to public services; they act as fields of testing and experimentation for financial and security technologies and their governance; they articulate cooperation between governments worldwide around bordering and migration control; they enable law enforcement cooperation nationally and internationally, and much more. In particular, they create fields where security bodies interact and cooperate with civil authorities. This talk will provide a perspective on how these different functions interact in ID systems worldwide, and the interests that are served by these interactions.*
+
+*12:45-14:00* **Lunch Break**
+
+*14:00-16:00* **Paper Sessions**
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session 6: Surveillance </b><br/>(Room: Salón Actos C, Session Chair: TBA)</td></tr></thead>
@@ -155,13 +159,7 @@ Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png"
 <thead><tr><td colspan="3"><b>Track B: Workshop: Trust data and identity sharing</b>, by Francisco Casino Cembellín and David Arroyo<br/>(Room: B225)</td></tr></thead>
 </table>
 
-*15:00-15:30* **Coffee Break**
-
-*15:30-16:30* **Keynote: Linnet Taylor**
-
-**The global politics of identification** *ID is political. Identification used to mean primarily the dialogue between citizens and government for administrative purposes, but today ID systems do much more than this. They create marketing opportunities for industry; they shape access to public services; they act as fields of testing and experimentation for financial and security technologies and their governance; they articulate cooperation between governments worldwide around bordering and migration control; they enable law enforcement cooperation nationally and internationally, and much more. In particular, they create fields where security bodies interact and cooperate with civil authorities. This talk will provide a perspective on how these different functions interact in ID systems worldwide, and the interests that are served by these interactions.*
-
-*17:30* **End of day 3**
+*16:00* **End of day 3**
 
 *18:00* **Walking tour and conference dinner**
 
@@ -181,8 +179,8 @@ Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png"
 *10:30-12:00* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Workshop: DAS – A Digital Adaptation Strategy to jointly shape a post-AI world</b><br/>(Room: Salón de Actos C)</td></tr></thead>
-<thead><tr><td colspan="3"><b>Track B: Rump session</b><br/>(Room: B225)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Workshop: DAS – A Digital Adaptation Strategy to jointly shape a post-AI world</b>, by Benjamin Burde and Anna Czeschik<br/>(Room: Salón de Actos C)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Work-in-progress session</b>. Please write your name and topic in the list.<br/>(Room: B225)</td></tr></thead>
 </table>
 
 *12:00-13:00* **Keynote: Yod-Samuel Martín**
