@@ -86,7 +86,7 @@ In the evening, you are free to mingle and explore the city.
 
 *09:00-10:00* **Keynote: Gloria González Fuster**
 
-**Title TBA** * *
+**The future of data and future data laws:** *Who is to access what The European Union (EU) landscape on the regulation of data has evolved dramatically over the last years. Beyond data-centred instruments such as the Data Act (DA) and the Data Governance Act (DGA), there are new rules on data in acts like the AI Act (AIA), the Digital Services Act (DSA) or the Digital Markets Act (DMA). Data is now more present than ever in EU law, paradoxically coinciding with the proliferation of calls for policy-makers to look beyond data, and/or move on more vigorously into the regulation of networks and infrastructure(s). This talk will look into data, as the persistently privileged object of the EU digital rulebook, highlighting the structuring distinction between personal and non-personal data. It will ask how this distinction (and associated notions such as individual/user control) impact the distribution of access to data, and thus potentially to power and justice, and wonder where this is taking us.*
 
 (Room: Salón Actos C, Session Chair: TBA) 
 
