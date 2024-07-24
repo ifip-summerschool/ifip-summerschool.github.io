@@ -26,11 +26,11 @@ You can easily reach the building by metro (6-Line) via the station "Ciudad Univ
 Participants are responsible for securing their own accommodation, as the organizers of the Summer School do not have any agreements with specific hotels or specific recommendations to provide.
 However, below you will find a list of hotels usually recommended by our host institution (UPM), relatively close to the premises where the Summer School will be held.
 
-*VP Jardín Metropolitano Hotel*
+* VP Jardín Metropolitano Hotel
 Av. Reina Victoria, 12. Madrid
 +34 911 83 18 10
 [metropolitano-hotel.com](metropolitano-hotel.com)
-*EXE Moncloa*
+* EXE Moncloa
 C/ Arcipreste de Hita, 10. Madrid
 +34 917 45 92 99
 [exehotels.com](exehotels.com)
