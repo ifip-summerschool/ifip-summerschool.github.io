@@ -43,12 +43,12 @@ This is an informal Get-Together for those already present. The meeting point wi
 *10:50-12:20* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track B: Workshop: Intersectional Feminist Perspectives on Artificial Intelligence,</b> by Klara-Aylin Wenten<br/>(Room: B225)</td></tr></thead>
-<thead><tr><td colspan="3"><b>Track B: Paper Session 2: Security </b><br/>(Room: B225, Session Chair: Ina Schiering)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Security </b><br/>(Room: Salon Actos C, Session Chair: Yod-Samuel Martin)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4883 --> </td><td> <b>Gilles Mertens, Nataliia Bielova, Vincent Roca and Cristiana Santos:</b><br/> <b>Google Tag Manager: Hidden Data Leaks and its Potential Violations under EU Data Protection Law</b><br /><i>(Keywords: online tracking, privacy, consent, GDPR compliance, website publishers, data controller, potential legal violation)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 3728 --> </td><td> <b>Meem Arafat Manab:</b><br/> <b>TWIG: Two-Step Image Generation using Segmentation Masks as an Intermediary in Diffusion Models to Prevent Copying from the Source</b><br /><i>(Keywords: Generative Artificial Intelligence, Privacy-Preserving AI, Image Denoising, Diffusion Model)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
+<thead><tr><td colspan="3"><b>Track B: Academic Career Chat: How to navigate a career in research - Tips and tricks,</b> by Silvia De Conca<br/>(Room: B225)</td></tr></thead>
 </table>
 
 *12:20-13:20* **Lunch Break**
@@ -56,7 +56,7 @@ This is an informal Get-Together for those already present. The meeting point wi
 *13:20-14:50* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Identities </b><br/>(Salón Actos C, Session Chair: Gloria González-Fuster)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Identities </b><br/>(Salón Actos C, Session Chair: Silvia De Conca)</td></tr></thead>
 <tbody>
 <tr><td><!-- 2128 --> </td><td> <b>Atiyeh Sadeghi:</b><br/> <b>Exploring Cultural Values and Privacy Information Concerns: A Model for Immigrant Consumers in Online Markets</b><br /><i>(Keywords: Privacy information concern, Cultural values, Immigrant, E-commerce use)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 5189 --> </td><td> <b>Anastasia Karagianni:</b><br/> <b>Unveiling Shadows: Exploring Privacy, Identity, and Personality Rights in the Age of Sexualised Deepfakes Through Feminist Lenses</b><br /><i>(Keywords: AI-generated abuse
@@ -94,7 +94,7 @@ In the evening, you are free to mingle and explore the city.
 *10:30-12:30* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 4: Vulnerability & Ethics </b><br/>(Room: Salón Actos C, Session Chair: Silvia De Conca)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 5: Vulnerability & Ethics </b><br/>(Room: Salón Actos C, Session Chair: Gloria González Fuster)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Saebyoul Yun:</b><br/> <b>A bottom-up movement to develop ethical foundations for generative AI in South Korea: will it simply follow the West or forge its own path?</b><br /><i>(Keywords: Generative AI and ethics, Ethical guidelines, Emerging movements, Asian Countries)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Clara Strathmann:</b><br/> <b>A Focus Group Study on Vulnerable Group’s Awareness of Vertical Privacy Online, Protection Measures and the Potential of Offline Analogies</b><br /><i>(Keywords: vulnerable groups, vertical privacy, visceral notice, inclusion, focus groups)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
@@ -113,7 +113,7 @@ In the evening, you are free to mingle and explore the city.
 
 *14:30* **End of day 2**
 
-*16:00* **Social Activity (details to be announced)**
+*18:00* **Social Activity (details to be announced)**
 
 <hr/>
 
@@ -130,13 +130,8 @@ In the evening, you are free to mingle and explore the city.
 *10:15-11:45* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 5: Methods & Models </b><br/>(Room: Salón Actos C, Session Chair: Yod-Samuel Martín)</td></tr></thead>
-<tbody>
-<tr><td><!-- 4773 --> </td><td> <b>Knut Haufe:</b><br/> <b>Generic Process Reference Model for Management Systems </b><br /><i>(Keywords: management, management systems, process reference models)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-<tr><td><!-- 2021 --> </td><td> <b>Job Doesburg, Pascal van Gastel, Bernard van Gastel and Erik Poll:</b><br/> <b>A Systematic Method to Design for Privacy & Security in Complex Systems</b><br /><i>(Keywords: design method, stakeholders,
-security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-</tbody>
-<thead><tr><td colspan="3"><b>Track B: Workshop: TBA</b> <br/>(Room: B225)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Work-in-progress session</b>. Please write your name and topic in the list.<br/> (Room: Salon Actos C, Session Chair: Felix Bieker)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Workshop: CyberSecPro approach to training in Cybersecurity  (https://www.cybersecpro-project.eu)</b>, by Kai Rannenberg <br/>(Room: B225)</td></tr></thead>
 </table>
 
 *11:45-12:45* **Keynote: Linnet Taylor**
@@ -181,7 +176,12 @@ Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png"
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Workshop: DAS – A Digital Adaptation Strategy to jointly shape a post-AI world</b>, by Benjamin Burde and Anna Czeschik<br/>(Room: Salón de Actos C)</td></tr></thead>
-<thead><tr><td colspan="3"><b>Track B: Work-in-progress session</b>. Please write your name and topic in the list.<br/> (Room: B225, Session Chair: Felix Bieker)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track B: Paper Session: Methods & Models </b><br/>(Room: Salón Actos C, Session Chair: Kai Rannenberg)</td></tr></thead>
+<tbody>
+<tr><td><!-- 4773 --> </td><td> <b>Knut Haufe:</b><br/> <b>Generic Process Reference Model for Management Systems </b><br /><i>(Keywords: management, management systems, process reference models)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
+<tr><td><!-- 2021 --> </td><td> <b>Job Doesburg, Pascal van Gastel, Bernard van Gastel and Erik Poll:</b><br/> <b>A Systematic Method to Design for Privacy & Security in Complex Systems</b><br /><i>(Keywords: design method, stakeholders,
+security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
+</tbody>
 </table>
 
 *12:00-13:00* **Keynote: Yod-Samuel Martín**
