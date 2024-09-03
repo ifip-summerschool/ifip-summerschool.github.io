@@ -57,7 +57,7 @@ This is an informal Get-Together for those already present. The meeting point wi
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session 3: Identities </b><br/>(Salón Actos C, Session Chair: Gloria González-Fuster)</td></tr></thead>
-<body>
+<tbody>
 <tr><td><!-- 2128 --> </td><td> <b>Atiyeh Sadeghi:</b><br/> <b>Exploring Cultural Values and Privacy Information Concerns: A Model for Immigrant Consumers in Online Markets</b><br /><i>(Keywords: Privacy information concern, Cultural values, Immigrant, E-commerce use)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 5189 --> </td><td> <b>Anastasia Karagianni:</b><br/> <b>Unveiling Shadows: Exploring Privacy, Identity, and Personality Rights in the Age of Sexualised Deepfakes Through Feminist Lenses</b><br /><i>(Keywords: AI-generated abuse
 identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a href="/assets/papers/2024/test.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
