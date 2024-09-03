@@ -56,8 +56,9 @@ This is an informal Get-Together for those already present. The meeting point wi
 *13:20-14:50* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Identities </b><br/>(Salón Actos C, Session Chair: Silvia De Conca)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session 3: Subjectivities </b><br/>(Salón Actos C, Session Chair: Silvia De Conca)</td></tr></thead>
 <tbody>
+<tr><td> </td><td> <b>Juliusz Mroziński:</b><br/> <b>Risk Management System in the European Artificial Intelligence Act: Meaning for the Protection of Private and Family Life</b><br /><i>(Keywords: Fundamental Rights, Digital Human Rights, Right to Privacy and Family Life, European AI Act, Risk Management)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2128 --> </td><td> <b>Atiyeh Sadeghi:</b><br/> <b>Exploring Cultural Values and Privacy Information Concerns: A Model for Immigrant Consumers in Online Markets</b><br /><i>(Keywords: Privacy information concern, Cultural values, Immigrant, E-commerce use)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 5189 --> </td><td> <b>Anastasia Karagianni:</b><br/> <b>Unveiling Shadows: Exploring Privacy, Identity, and Personality Rights in the Age of Sexualised Deepfakes Through Feminist Lenses</b><br /><i>(Keywords: AI-generated abuse
 identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a href="/assets/papers/2024/test.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
