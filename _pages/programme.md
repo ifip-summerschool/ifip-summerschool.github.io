@@ -53,7 +53,7 @@ This is an informal Get-Together for those already present. The meeting point wi
 
 *12:20-13:20* **Lunch Break**
 
-*13:20-14:50* **Paper Sessions**
+*13:20-15:20* **Paper Sessions**
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session 3: Subjectivities </b><br/>(Salón Actos C, Session Chair: Silvia De Conca)</td></tr></thead>
@@ -66,15 +66,15 @@ identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a
 <thead><tr><td colspan="3"><b>Track B: Workshop: TBA</b> <br/>(Room: B225)</td></tr></thead>
 </table>
 
-*14:50-15:20* **Coffee Break**
+*15:20-15:50* **Coffee Break**
 
-*15:20-16:20* **Keynote: Isabel Barberá**
+*15:50-16:50* **Keynote: Isabel Barberá**
 
 **GenAI and the Privacy, Agency and Identity Paradox: Redefining Concepts in the Digital Age** *As Generative AI (GenAI) reshapes our digital landscape, it introduces paradoxes to the worlds of privacy and identity: Can we embrace innovation while avoiding privacy risks? Is GenAI reshaping the way we verify and also perceive our own identities? This keynote will explore how GenAI both empowers and endangers our digital and physical worlds and our understanding of fundamental rights. It will address socio-technical risks as well as the critical role of trust and agency in GenAI systems. The session will challenge traditional data protection paradigms and propose visionary approaches to privacy, agency and identity in the digital age.*
 
 (Room: Salón Actos C, Session Chair: Jose M. Del Alamo)
 
-*16:20-18:00* **Reception at the UPM Telecommunications Engineering School**
+*17:00-18:40* **Reception at the UPM Telecommunications Engineering School**
 
 After the last session, we will have a small reception at the conference site.
 
