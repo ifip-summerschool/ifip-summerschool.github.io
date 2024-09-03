@@ -175,13 +175,14 @@ Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png"
 *10:30-12:00* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Workshop: DAS – A Digital Adaptation Strategy to jointly shape a post-AI world</b>, by Benjamin Burde and Anna Czeschik<br/>(Room: Salón de Actos C)</td></tr></thead>
-<thead><tr><td colspan="3"><b>Track B: Paper Session: Methods & Models </b><br/>(Room: Salón Actos C, Session Chair: Kai Rannenberg)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Track A: Paper Session: Methods & Models </b><br/>(Room: Salón Actos C, Session Chair: Kai Rannenberg)</td></tr></thead>
 <tbody>
 <tr><td><!-- 4773 --> </td><td> <b>Knut Haufe:</b><br/> <b>Generic Process Reference Model for Management Systems </b><br /><i>(Keywords: management, management systems, process reference models)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Job Doesburg, Pascal van Gastel, Bernard van Gastel and Erik Poll:</b><br/> <b>A Systematic Method to Design for Privacy & Security in Complex Systems</b><br /><i>(Keywords: design method, stakeholders,
 security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
+  <thead><tr><td colspan="3"><b>Track B: Workshop: DAS – A Digital Adaptation Strategy to jointly shape a post-AI world</b>, by Benjamin Burde and Anna Czeschik<br/>(Room: B225)</td></tr></thead>
+
 </table>
 
 *12:00-13:00* **Keynote: Yod-Samuel Martín**
