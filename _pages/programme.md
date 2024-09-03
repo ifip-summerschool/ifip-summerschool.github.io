@@ -113,7 +113,7 @@ In the evening, you are free to mingle and explore the city.
 
 *14:30* **End of day 2**
 
-*18:00* **Social Activity (details to be announced)**
+*18:00* **Flamenco show**
 
 <hr/>
 
