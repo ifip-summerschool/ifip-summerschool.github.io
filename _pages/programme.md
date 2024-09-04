@@ -58,7 +58,6 @@ This is an informal Get-Together for those already present. The meeting point wi
 <tr><td><!-- 5189 --> </td><td> <b>Anastasia Karagianni:</b><br/> <b>Unveiling Shadows: Exploring Privacy, Identity, and Personality Rights in the Age of Sexualised Deepfakes Through Feminist Lenses</b><br /><i>(Keywords: AI-generated abuse
 identity, personality rights, privacy sexualised deepfakes)</i> </td><td> <!--<a href="/assets/papers/2024/test.pdf"><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
-<thead><tr><td colspan="3"><b>Track B: Workshop: TBA</b> <br/>(Room: B225)</td></tr></thead>
 </table>
 
 *15:20-15:50* **Coffee Break**
