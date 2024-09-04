@@ -43,12 +43,7 @@ This is an informal Get-Together for those already present. The meeting point wi
 *10:50-12:20* **Paper Sessions**
 
 <table>
-<thead><tr><td colspan="3"><b>Track A: Paper Session 1: Security </b><br/>(Room: Salon Actos C, Session Chair: Yod-Samuel Martin)</td></tr></thead>
-<tbody>
-<tr><td><!-- 4883 --> </td><td> <b>Gilles Mertens, Nataliia Bielova, Vincent Roca and Cristiana Santos:</b><br/> <b>Google Tag Manager: Hidden Data Leaks and its Potential Violations under EU Data Protection Law</b><br /><i>(Keywords: online tracking, privacy, consent, GDPR compliance, website publishers, data controller, potential legal violation)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-<tr><td><!-- 3728 --> </td><td> <b>Meem Arafat Manab:</b><br/> <b>TWIG: Two-Step Image Generation using Segmentation Masks as an Intermediary in Diffusion Models to Prevent Copying from the Source</b><br /><i>(Keywords: Generative Artificial Intelligence, Privacy-Preserving AI, Image Denoising, Diffusion Model)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
-</tbody>
-<thead><tr><td colspan="3"><b>Track B: Academic Career Chat: How to navigate a career in research - Tips and tricks,</b> by Silvia De Conca<br/>(Room: B225)</td></tr></thead>
+<thead><tr><td colspan="3"><b>Academic Career Chat: How to navigate a career in research - Tips and tricks,</b> by Silvia De Conca<br/>(Room: Salon Actos C)</td></tr></thead>
 </table>
 
 *12:20-13:20* **Lunch Break**
@@ -173,7 +168,7 @@ Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png"
 
 *10:00-10:30* **Coffee Break**
 
-*10:30-12:00* **Paper Sessions**
+*10:30-12:30* **Paper Sessions**
 
 <table>
 <thead><tr><td colspan="3"><b>Track A: Paper Session: Methods & Models </b><br/>(Room: Salón Actos C, Session Chair: Kai Rannenberg)</td></tr></thead>
@@ -181,20 +176,21 @@ Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png"
 <tr><td><!-- 4773 --> </td><td> <b>Knut Haufe:</b><br/> <b>Generic Process Reference Model for Management Systems </b><br /><i>(Keywords: management, management systems, process reference models)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 <tr><td><!-- 2021 --> </td><td> <b>Job Doesburg, Pascal van Gastel, Bernard van Gastel and Erik Poll:</b><br/> <b>A Systematic Method to Design for Privacy & Security in Complex Systems</b><br /><i>(Keywords: design method, stakeholders,
 security by design, privacy by design)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
+<tr><td><!-- 3728 --> </td><td> <b>Meem Arafat Manab:</b><br/> <b>TWIG: Two-Step Image Generation using Segmentation Masks as an Intermediary in Diffusion Models to Prevent Copying from the Source</b><br /><i>(Keywords: Generative Artificial Intelligence, Privacy-Preserving AI, Image Denoising, Diffusion Model)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png" border="0"/></a>--></td></tr>
 </tbody>
   <thead><tr><td colspan="3"><b>Track B: Workshop: DAS – A Digital Adaptation Strategy to jointly shape a post-AI world</b>, by Benjamin Burde and Anna Czeschik<br/>(Room: B225)</td></tr></thead>
 
 </table>
 
-*12:00-13:00* **Keynote: Yod-Samuel Martín**
+*12:30-13:30* **Keynote: Yod-Samuel Martín**
 
 **Title: Standardizing privacy and data protection for GenAI**
 
 (Room: Salón Actos C, Session Chair: Jose M. Del Alamo)
 
-*13:00-13:15* **Best Student Presentation Award**
+*13:30-13:45* **Best Student Presentation Award**
 
-*13:15-13:30* **Closing remarks**
+*13:45-14:00* **Closing remarks**
 
-*13:30* **Lunch and End of IFIP Summer School 2024**
+*14:00* **Lunch and End of IFIP Summer School 2024**
 
