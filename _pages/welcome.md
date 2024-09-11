@@ -22,6 +22,15 @@ logos:
     title: "Platform Privatheit logo"
 
 ---
+## Meeting points for social events
+<table>
+<tbody>
+  <tr><td>Wednesday 17:45 - Flamenco Show</td><td>Centro Cultural Flamenco de Madrid: <a href='https://maps.app.goo.gl/MarpaiVgwam3L839A'>Conde de Xiquena 6, 28004 Madrid</a> </td></tr>
+  <tr><td>Thursday 17:50 - Guided Walking Tour</td><td>Meeting point: <a href='https://maps.app.goo.gl/UZjmGKHPsvYEM1Af8'>Plaza de Oriente (Felipe IV Statue)</a> </td></tr>
+  <tr><td>Thursday 20:20 - Social Dinner</td><td>Restaurante La Catedral: <a href='https://maps.app.goo.gl/gAbRZBgyZbTZ7R4H8'>Carrera de San Jerónimo 16, 28014 Madrid</a> </td></tr>
+</tbody>
+</table>
+
 ## 2023 Proceedings published
 The proceedings for the IFIP Summer School 2023 have been published by Springer in [Privacy and Identity Management. Sharing in a Digital World](https://link.springer.com/book/10.1007/978-3-031-57978-3)
 
