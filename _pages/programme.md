@@ -153,6 +153,17 @@ Anthropocene)</i> </td><td> <!--<a href=""><img src="/assets/images/pdficon.png"
 *16:00* **End of day 3**
 
 *18:00* **Walking tour and conference dinner**
+<table>
+<tbody>
+  <tr><td>18:00 Guided Walking Tour</td><td>Meeting point: <a href='https://maps.app.goo.gl/UZjmGKHPsvYEM1Af8'>Plaza de Oriente (Felipe IV Statue)</a> </td></tr>
+  <tr><td>20:30 Social Dinner</td><td>Restaurante La Catedral: <a href='https://maps.app.goo.gl/gAbRZBgyZbTZ7R4H8'>Carrera de San Jerónimo 16, 28014 Madrid</a> </td></tr>
+</tbody>
+</table>
+
+
+Tel: 915233556
+
+www.la-catedral.es
 
 <hr/>
 
