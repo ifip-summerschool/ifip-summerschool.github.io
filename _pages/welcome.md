@@ -11,17 +11,6 @@ logos:
     image_path: /assets/images/logos/ifip-th.jpg
     alt: "IFIP"
     title: "IFIP"
-<!--
-  - url: /assets/images/logos/UPM.png
-    image_path: /assets/images/logos/UPM.png
-    alt: "Universidad Politécnica de Madrid logo"
-    title: "UPM logo"
-  - url: /assets/images/logos/PlatformPrivacy.jpg
-    image_path: /assets/images/logos/PlatformPrivacy.jpg
-    alt: "Platform Privatheit logo"
-    title: "Platform Privatheit logo"
--->
-
 ---
 
 ## IFIP Summer School 2025
