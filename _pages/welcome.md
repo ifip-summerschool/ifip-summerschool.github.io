@@ -22,6 +22,8 @@ logos:
     title: "Platform Privatheit logo"
 -->
 
+---
+
 ## IFIP Summer School 2025
 The 20th IFIP Summer School on Privacy and Identity Management will take place in Copenhagen, Denmark, on August 19-22, 2025. More information will be made available here shortly.
 
