@@ -4,12 +4,13 @@ permalink: /committee/
 ---
 
 ## Programme Chairs
-Felix Bieker (ULD) <br/>
-Silvia De Conca (Vrije Universiteit Amsterdam)<br/>
-Yod-Samuel Martín (Universidad Politécnica de Madrid)
+Laura Drechsler (KU Leuven) <br />
+Yod Samuel Martin Garcia (Universidad Politécnica de Madrid)<br />
+Joachim Meyer (Tel Aviv University)
 
 ## General Chair
-Jose M. Del Alamo (Universidad Politécnica de Madrid)
+Lejla Islami (Technical University of Denmark)<br />
+Stephan Krenn (AIT Austrian Institute of Technology)
 
 ## Steering Committee
 Simone Fischer-Hübner (Karlstad University)<br/>
@@ -24,33 +25,4 @@ Stefan Schiffner (BHH Hamburg)<br/>
 Diane Whitehouse (EHTEL)
 
 ## Programme Committee
-Florian Adamsky (Hof University of Applied Sciences)<BR/>
-Ala Sarah Alaqra (Karlstad University)<BR/> 
-Claudio Ardagna (Università degli Studi di Milano)<BR/>
-David Arroyo (CSIC)<BR/>
-Isabel Barberá (Rhite)<BR/>
-Tanja Böhm (Ostfalia University of Applied Sciences)<BR/>
-Vanessa Bracamonte (KDDI Research, Inc.)<BR/> 
-Sebastien Canard (Orange Labs)<BR/>
-Laura Drechsler (KU Leuven)<BR/>
-Prokopios Drogkaris (ENISA)<BR/>
-Michael Friedewald (Fraunhofer)<BR/>
-Nils Gruscka (University of Oslo)<BR/>
-Marit Hansen (ULD)<BR/>
-Meiko Jensen (Karlstad University)<BR/>
-Stefan Katzenbeisser (University of Passau)<BR/>
-Os Keyes (University of Washington)<BR/>
-Agnieszka Kitkowska (Karlstad Univeristy)<BR/>
-Stephan Krenn (AIT Austrian Institute of Technology GmbH)<BR/>
-Konstantinos Limniotis (Hellenic Data Protection Authority)<BR/>
-Zoltan Mann (University of Amsterdam)<BR/>
-Joachim Meyer (Tel Aviv University)<BR/>
-Victor Morel (Chalmers University of Technology)<BR/>
-Frank Pallas (TU Berlin)<BR/>
-Sebastian Pape (Continental Automotive Technologies GmbH)<BR/>
-Davy Preuveneers (imec-DistriNet, KU Leuven)<BR/>
-Arnold Roosendaal (Privacy Company)<BR/>
-Ina Schiering (Ostfalia University of Applied Sciences)<BR/>
-Stefan Schiffner (BHH Hamburg)<BR/>
-Yefim Shulman (Tel Aviv University)<BR/>
-Stefan Strauss (Austrian Academy of Sciences, Institute of Technology Assessment (ITA))<BR/>
+The PC will be published here once it has been finalized.
