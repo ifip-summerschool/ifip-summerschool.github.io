@@ -27,7 +27,7 @@ permalink: /previous_conferences/
 
 2013 - 8th IFIP Summer School on Privacy and Identity Management, Nijmegen, the Netherlands
 
-[2011](http://disi.unitn.it/security/ifip-summerschool2011/index.html) - 7th IFIP Summer School on Privacy and Identity Management, Trento, Italy
+[2011](/archive/2011) - 7th IFIP Summer School on Privacy and Identity Management, Trento, Italy ([original website](http://disi.unitn.it/security/ifip-summerschool2011/index.html))
 
 [2010](https://www.cs.kau.se/IFIP-summerschool/) - 6th IFIP Summer School on Privacy and Identity Management, Helsingborg, Sweden
 
