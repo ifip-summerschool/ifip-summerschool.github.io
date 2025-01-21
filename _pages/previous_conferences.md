@@ -39,5 +39,5 @@ permalink: /previous_conferences/
 
 [2003](/archive/2003) - IFIP WG9.2, 9.7/11.7 Karlstad International Summer School, Karlstad, Sweden
 
-[1991] - 1st IFIP-WG9.2 Summer School, Brighton, UK
+1991 - 1st IFIP-WG9.2 Summer School, Brighton, UK
 
