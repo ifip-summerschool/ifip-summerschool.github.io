@@ -31,7 +31,7 @@ permalink: /previous_conferences/
 
 [2010](https://www.cs.kau.se/IFIP-summerschool/) - 6th IFIP Summer School on Privacy and Identity Management, Helsingborg, Sweden
 
-[2009](https://www.cs.kau.se/IFIP-summerschool/summerschool2009/index.html) - 5th IFIP Summer School on Privacy and Identity Management, Nice, France
+[2009](/archive/2009) - 5th IFIP Summer School on Privacy and Identity Management, Nice, France <!-- [original website](https://www.cs.kau.se/IFIP-summerschool/summerschool2009/index.html) -->
 
 2008 - 4th IFIP Summer School on Privacy and Identity Management, Brno, Czech Republic
 
