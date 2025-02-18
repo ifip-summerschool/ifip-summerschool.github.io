@@ -20,7 +20,7 @@ The 20th IFIP Summer School on Privacy and Identity Management will take place i
 
 | Date | Update |
 | -- | -- |
-| Feb 18, 2025 | Call for papers as well as important dates have been added. |
+| Feb 18, 2025 | [Call for papers](./call_for_papers) as well as [important dates](./important_dates) have been added. |
 
 ## 2024 Proceedings 
 The link to the proceedings for the IFIP Summer School 2024 will be made available here once it is available.

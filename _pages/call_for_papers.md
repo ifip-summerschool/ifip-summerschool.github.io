@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers"
-permalink: /call_for_paper/
+permalink: /call_for_papers/
 toc: true
 toc_sticky: true
 ---

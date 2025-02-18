@@ -27,7 +27,7 @@ Using the Template [Minimal Mistakes](https://github.com/mmistakes/minimal-mista
 ├── _pages                      --> contains markdown files that will be displayed as webpages ->here is the main content<-
 │   ├── archive       --> subfolder for old summer-school pages
 │   │   └── 2022.md --> Combined Archive Page of Summer School 2022 (for HowTo see below)
-│   ├── call_for_paper.md
+│   ├── call_for_papers.md
 │   ├── ...
 │   └── welcome.md
 └── README.md                   --> the file you are currently reading mostly containing a short documentation
