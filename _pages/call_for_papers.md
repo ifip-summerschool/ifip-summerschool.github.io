@@ -8,13 +8,16 @@ toc_sticky: true
 ### Call for Papers
 #### Privacy and Data Protection in a Rapidly Changing World
 
-The **20th IFIP Summer School on Privacy and Identity Management** aims to create a platform for spreading awareness and facilitating interactions and knowledge exchanges around old and new issues by taking a holistic approach to society and technology. We support interdisciplinary research exchange and foster discussions through keynote lectures, tutorials, and workshops. Participants will benefit from presenting their research and receiving meaningful feedback. The IFIP Summer School culminates in the publication of selected papers by the participants as an edited volume published by Springer.
+The world as we know it is rapidly changing. Established international agreements and alliances unravel. The principles of liberal democracy are questioned by parts of the population in democratic countries. Large corporations accumulate and use vast amounts of data with little or no legal restrictions, and they are gaining significant political influence. Accepted truths about computers and specifically AI become irrelevant in months. How do these developments affect individuals’ privacy and data protection? Which existing principles remain relevant? Which adaptations need to be made? Which new approaches should be developed?
+
+The **20th IFIP Summer School on Privacy and Identity Management** aims to facilitate the exchange of knowledge and insights from the multiple disciplines that deal with privacy, data protection, and identity management. We invite papers that present relevant research in computer science, the law, the social sciences, or other relevant fields for presentation at the summer school and possible inclusion in the proceedings that will be published by Springer.
+
+##### About the Summer School
+The IFIP Summer School on Privacy and Identity Management aims to create a platform for spreading awareness and facilitating interactions and knowledge exchanges around old and new issues by taking a holistic approach to society and technology. We support interdisciplinary research exchange and foster discussions through keynote lectures, tutorials, and workshops. Participants will benefit from presenting their research and receiving meaningful feedback. The IFIP Summer School culminates in the publication of selected papers by the participants as an edited volume published by Springer.
 
 We welcome contributions addressing these issues from any of the following perspectives (and especially the interdisciplinary combination of more than one): sociological, legal, technical, ethical, political, surveillance, intersectional, anthropological, economic, historical, media & communication, regulatory, philosophical, critical, disabilities, and psychological studies in the areas of privacy, data protection, and identity management.
 
 The IFIP Summer School encourages not only interdisciplinarity but also broader diversity. It particularly welcomes submissions on how to foster gender and cultural balance in privacy and identity research and policy, and notably, tutorials and workshops about how to raise awareness in these matters.
-
-*More information on this year's theme will be added soon.*
 
 #### Possible Topics (tentative)
 Topics of interest include, but are not limited to:
