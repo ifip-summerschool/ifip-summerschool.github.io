@@ -4,16 +4,16 @@ main:
     url: /call_for_papers
   - title: "Important Dates"
     url: /important_dates
-  - title: "Registration"
-    url: /registration
+  - title: "Submission"
+    url: /submission
   - title: "Programme"
     url: /programme
   - title: "Committee"
     url: /committee
   - title: "Venue"
     url: /venue
-  - title: "Submission"
-    url: /submission
+  - title: "Registration"
+    url: /registration
   - title: "Previous Conferences"
     url: /previous_conferences
     
