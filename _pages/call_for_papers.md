@@ -19,6 +19,13 @@ We welcome contributions addressing these issues from any of the following persp
 
 The IFIP Summer School encourages not only interdisciplinarity but also broader diversity. It particularly welcomes submissions on how to foster gender and cultural balance in privacy and identity research and policy, and notably, tutorials and workshops about how to raise awareness in these matters.
 
+##### Submission and Review Process
+Abstracts will undergo a lightweight review process before being invited for a presentation at the conference. Full versions of the submissions, incorporating also feedback received during the summer school, will then be comprehensively reviewed after the conference.
+
+Submissions must be made via the Easychair conference management system.
+
+Details on the review process and the submission link can be found [here](/submission).
+
 #### Possible Topics (tentative)
 Topics of interest include, but are not limited to:
 
