@@ -12,15 +12,15 @@ The summer school will be hosted by the Technical University of Denmark (DTU) in
 Participants are responsible for selecting and booking hotels depending on their needs and priorities. However, we provide some suggestions below:
 
 * Hotels near to the university
-    *  Four Points Flex by Sheraton Lyngby, Lundtoftegardsvej 12
-Kongens Lyngby [[link]](https://www.marriott.com/en-us/hotels/cphlf-four-points-flex-lyngby/overview/)
+    *  [Four Points Flex by Sheraton Lyngby](https://www.marriott.com/en-us/hotels/cphlf-four-points-flex-lyngby/overview/), Lundtoftegardsvej 12
+Kongens Lyngby 
 
 * Hotels in Copenhagen
-    *  Wakeup Copenhagen**, Carsten Nieburs Gade 11, Copenhagen [[link]](https://www.wakeupcopenhagen.dk/hotellerne/koebenhavn/carsten-niebuhrs-gade#/)
+    *  [Wakeup Copenhagen](https://www.wakeupcopenhagen.dk/hotellerne/koebenhavn/carsten-niebuhrs-gade#/)**, Carsten Nieburs Gade 11, Copenhagen
 
-    *  Comfort Hotel Vesterbro***, Vesterbrogade 23-29, Copenhagen [[link]](https://www.nordicchoicehotels.dk/hoteller/danmark/kobenhavn/comfort-hotel-vesterbro/)
+    *  [Comfort Hotel Vesterbro](https://www.nordicchoicehotels.dk/hoteller/danmark/kobenhavn/comfort-hotel-vesterbro/)***, Vesterbrogade 23-29, Copenhagen 
 
-    * Tivoli Hotel & Congress Center****, Arni Magnussons Gade 2, Copenhagen [[link]](https://www.tivolihotel.dk/)
+    * [Tivoli Hotel & Congress Center](https://www.tivolihotel.dk/)****, Arni Magnussons Gade 2, Copenhagen
 
 ### Travel Information
 [Copenhagen airport (CPN)](https://www.cph.dk/) is connected by direct flights to many international destinations. However, there are no direction train or bus connections from the airport to DTU.
@@ -53,10 +53,10 @@ To recharge your card, go to the Rejeskort machine or a Convenient store.
 #### Taxi
 You can easily catch a taxi near most train stations. If you're not near a station and need a ride, you'll need to call a local taxi company. Most drivers accept credit cards, but it’s a good idea to check with the driver before starting your trip.
 
-* Dantaxi: +45 48 48 48 48 [[link]](https://dantaxi.dk/english/)
-* Taxa 4x35: +45 35 35 35 35 [[link]](https://taxa.dk/en/)
-* 4x27: +45 27 27 27 27 [[link]](https://4x27.dk/)
+* [Dantaxi](https://dantaxi.dk/english/): ✆[+45 48 48 48 48](+45 48 48 48 48)
+* [Taxa 4x35](https://taxa.dk/en/): ✆[+45 35 35 35 35](tel:+45 35 35 35 35)
+* [4x27](https://4x27.dk/): ✆[+45 27 27 27 27](tel:+45 27 27 27 27)
 
 ### Further Information
-* In Denmark, dial 112 for emergency services – ambulance, police, or fire department.
-* The currency in Denmark is the Danish Krone (DKK), and the exchange rate is approximately  7.45 DKK to 1 EUR (or 100 DKK = 13.40 EUR). *(Note: Exchange rates may vary!)*
+* In Denmark, dial ✆[112](tel:112) for emergency services – ambulance, police, or fire department.
+* The currency in Denmark is the Danish Krone (DKK), and the [exchange rate](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-dkk.en.html) is approximately  7.45 DKK to 1 EUR (or 100 DKK = 13.40 EUR). *(Note: Exchange rates may vary!)*

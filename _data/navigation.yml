@@ -6,6 +6,8 @@ main:
     url: /important_dates
   - title: "Submission"
     url: /submission
+  - title: "Keynotes"
+    url: /keynotes
   - title: "Programme"
     url: /programme
   - title: "Committee"
