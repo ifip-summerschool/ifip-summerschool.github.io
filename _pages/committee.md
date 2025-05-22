@@ -32,4 +32,8 @@ permalink: /committee/
 - Konstantinos Limniotis (<font style="font-size: 50%; vertical-align: middle;">🇬🇷</font> National and Kapodistrian University of Athens)
 - Stefan More (<font style="font-size: 50%; vertical-align: middle;">🇦🇹</font> Graz University of Technology)
 - Davy Preuveneers (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> DistriNet, KU Leuven)
+- Arnold Roosendaal (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Privacy Company)
 - Ina Schiering (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Ostfalia University of Applied Sciences)
+- Yefim Shulman (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Erasmus University Rotterdam)
+
+
