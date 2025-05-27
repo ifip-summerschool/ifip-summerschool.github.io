@@ -16,7 +16,7 @@ Registration fees have to be paid in Danish Krone (DKK). The [exchange rate](htt
 | Regular registration  | 4'400 DKK | 4'900 DKK |
 | IFIP Member registration<sup>2</sup> | 3'960 DKK | 4'410 DKK |
 
-<sup>1</sup> Early bird registration fees apply until July 31.<br />
+<sup>1</sup> Early bird registration fees apply until July 22.<br />
 <sup>2</sup> All individual members of IFIP member societies as well as all members of IFIP Technical Committees (TCs) and Working Groups (WGs) are entitled to a discount of 10% on registration fees. To claim the discount, you will need to state which IFIP member society/TC/WG you belong to during the registration process.
 
 ### Registration
