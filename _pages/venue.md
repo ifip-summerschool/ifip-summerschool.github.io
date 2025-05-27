@@ -59,4 +59,4 @@ You can easily catch a taxi near most train stations. If you're not near a stati
 
 ### Further Information
 * In Denmark, dial ✆[112](tel:112) for emergency services – ambulance, police, or fire department.
-* The currency in Denmark is the Danish Krone (DKK), and the [exchange rate](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-dkk.en.html) is approximately  7.45 DKK to 1 EUR (or 100 DKK = 13.40 EUR). *(Note: Exchange rates may vary!)*
+* The currency in Denmark is the Danish Krone (DKK), and the [exchange rate](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-dkk.en.html) is approximately  7.46 DKK to 1 EUR (or 100 DKK = 13.41 EUR). *(Note: Exchange rates may vary!)*

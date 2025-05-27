@@ -20,6 +20,7 @@ The 20th IFIP Summer School on Privacy and Identity Management will take place i
 
 | Date | Update |
 | -- | -- |
+| May 27, 2025 | Added [registration information](./registration). |
 | May 6, 2025  | Extended [abstracts deadline](./important_dates) to May 26. |
 | Apr 24, 2025 | First details on [Keynote speakers](./keynotes) have been added. |
 | Apr 11, 2025 | [Submission link](./submission) as well as [travel information](./venue) have been added. |
