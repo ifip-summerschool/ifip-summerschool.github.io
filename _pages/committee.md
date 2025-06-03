@@ -26,12 +26,15 @@ permalink: /committee/
 
 ## Programme Committee
 <p style="font-size: 70%;">(to be completed)</p>
+- Simone Fischer-Hübner (<font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Karlstad University)
+- Michael Friedewald (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Fraunhofer ISI)
 - Jesús García-Rodríguez (<font style="font-size: 50%; vertical-align: middle;">🇪🇸</font> University of Murcia)
 - Nils Gruschka (<font style="font-size: 50%; vertical-align: middle;">🇳🇴</font> University of Oslo)
 - Stefan Katzenbeisser (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> University of Passau)
 - Konstantinos Limniotis (<font style="font-size: 50%; vertical-align: middle;">🇬🇷</font> National and Kapodistrian University of Athens)
 - Stefan More (<font style="font-size: 50%; vertical-align: middle;">🇦🇹</font> Graz University of Technology)
 - Davy Preuveneers (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> DistriNet, KU Leuven)
+- Kai Rannenberg (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Goethe University Frankfurt)
 - Arnold Roosendaal (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Privacy Company)
 - Ina Schiering (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Ostfalia University of Applied Sciences)
 - Yefim Shulman (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Erasmus University Rotterdam)
