@@ -14,6 +14,8 @@ permalink: /committee/
 
 ## Steering Committee
 - Simone Fischer-Hübner (<font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Karlstad University) -- Chair
+- Felix Bieker (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> ULD)
+- Silvia De Conca (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Vrije Universiteit Amsterdam)
 - Michael Friedewald (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Fraunhofer ISI)
 - Marit Hansen (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> ULD)
 - Eleni Kosta (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Tilburg University)
@@ -26,6 +28,7 @@ permalink: /committee/
 
 ## Programme Committee
 <p style="font-size: 70%;">(to be completed)</p>
+- Felix Bieker (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> ULD)
 - Simone Fischer-Hübner (<font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Karlstad University)
 - Michael Friedewald (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Fraunhofer ISI)
 - Jesús García-Rodríguez (<font style="font-size: 50%; vertical-align: middle;">🇪🇸</font> University of Murcia)
