@@ -8,7 +8,7 @@ permalink: /committee/
 - Yod Samuel Martin Garcia (<font style="font-size: 50%; vertical-align: middle;">🇪🇸</font> Universidad Politécnica de Madrid)
 - Joachim Meyer (<font style="font-size: 50%; vertical-align: middle;">🇮🇱</font> Tel Aviv University)
 
-## General Chair
+## General Chairs
 - Lejla Islami (<font style="font-size: 50%; vertical-align: middle;">🇩🇰</font> Technical University of Denmark)
 - Stephan Krenn (<font style="font-size: 50%; vertical-align: middle;">🇦🇹</font> AIT Austrian Institute of Technology)
 
