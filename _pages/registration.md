@@ -20,6 +20,5 @@ Registration fees have to be paid in Danish Krone (DKK). The [exchange rate](htt
 <sup>2</sup> All individual members of IFIP member societies as well as all members of IFIP Technical Committees (TCs) and Working Groups (WGs) are entitled to a discount of 10% on registration fees. To claim the discount, you will need to state which IFIP member society/TC/WG you belong to during the registration process.
 
 ### Registration
-The registration link will be made available here in due time.
-
+Please register under the following link: [https://www.conferencemanager.dk/ifipsummerschool2025](https://www.conferencemanager.dk/ifipsummerschool2025)
 
