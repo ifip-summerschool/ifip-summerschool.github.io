@@ -9,6 +9,9 @@ toc_sticky: false
 We are happy to announce the following keynote speakers for the 20th IFIP Summer School on Privacy and Identity Management (listed in alphabetical order).
 
 <hr>
+<img src="../assets/images/keynote_speakers/nicolas_diaz_ferreyra.jpg" alt=" Nicolás E. Díaz Ferreyra" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>[ Nicolás E. Díaz Ferreyra](https://www.ndiaz-ferreyra.com/)
+<p style="margin-top:-20px; font-size: 70%;">🇩🇪 Hamburg University of Technology, Institute of Software Security</p>
+<hr>
 [Agnieszka Kitkowska](https://ju.se/personinfo.html?sign=KITAGN&lang=en)
 <p style="margin-top:-20px; font-size: 70%;">🇸🇪 Jönköping University,  Department of Computer Science and Informatics , School of Engineering</p>
 <hr>
