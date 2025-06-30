@@ -15,6 +15,8 @@ toc_sticky: true
 **9:00 -- 9:15**: Opening remarks
 
 **9:15 -- 10:15**: Keynote I
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Joachim Meyer</div>
+[Agnieszka Kitkowska](../keynotes#agnieszka)
 
 **10:15 -- 10:30**: Coffee break
 
@@ -27,8 +29,8 @@ toc_sticky: true
 **12:30 -- 14:00**: Lunch break
 
 **14:00 -- 15:30**: Workshops
-* Workshop 1: *Ramona Adair, Ina Schiering and Tom Lorenz*: Privacy Awareness Cards
-* *Michael Friedewald, Marc Steen and Greta Runge*: Citizen Engagement in Cybersecurity Research
+* Workshop I: *Ramona Adair, Ina Schiering and Tom Lorenz*: Privacy Awareness Cards
+* Workshop II: *Michael Friedewald, Marc Steen and Greta Runge*: Citizen Engagement in Cybersecurity Research
 
 **15:30 -- 16:00**: Coffee break
 
@@ -43,6 +45,8 @@ toc_sticky: true
 **9:00 -- 9:15**: Registration
 
 **9:15 -- 10:15**: Keynote II
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Yod Samuel Martin Garcia</div>
+[Nicolás E. Díaz Ferreyra](./../keynotes#nicolas)
 
 **10:15 -- 10:30**: Coffee break
 
@@ -55,12 +59,14 @@ toc_sticky: true
 **12:30 -- 14:00**: Lunch break
 
 **14:00 -- 15:00**: Keynote III
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Laura Drechsler</div>
+[Andrej Savin](../keynotes#andrej)
 
 **15:00 -- 15:30**: Coffee break
 
 **15:30 -- 17:00**: Workshops
-* *Kai Rannenberg et al.*: The CyberSecPro approach to training in Cybersecurity and its relation to Privacy and Identity Management
-* *Gurvirender Tejay and Umit Cali*: Connected Vehicles and Digital Privacy: An Applied Workshop using IEEE Digital Privacy Model
+* Workshop III: *Kai Rannenberg et al.*: The CyberSecPro approach to training in Cybersecurity and its relation to Privacy and Identity Management
+* Workshop IV: *Gurvirender Tejay and Umit Cali*: Connected Vehicles and Digital Privacy: An Applied Workshop using IEEE Digital Privacy Model
 
 **17:00**: Boats tour and social dinner
 
@@ -69,6 +75,8 @@ toc_sticky: true
 **9:00 -- 9:15**: Registration
 
 **9:15 -- 10:15**: Keynote IV
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Joachim Meyer</div>
+[Mark Warner](../keynotes#mark)
 
 **10:15 -- 10:30**: Coffee break
 
@@ -80,6 +88,8 @@ toc_sticky: true
 **12:30 -- 14:00**: Lunch break
 
 **14:00 -- 15:00**: Keynote V
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: tba</div>
+tba
 
 **15:00 -- 15:30**: Coffee break
 
@@ -94,6 +104,8 @@ toc_sticky: true
 **9:00 -- 9:15**: Registration
 
 **9:15 -- 10:15**: Keynote VI
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Laura Drechsler</div>
+[Anja Moller Pedersen](../keynotes#anja)
 
 **10:15 -- 10:30**: Coffee break
 
@@ -105,6 +117,8 @@ toc_sticky: true
 
 **12:30 -- 14:00**: Lunch break
 
-**14:00 -- 15:00**: Keynote VI
+**14:00 -- 15:00**: Keynote VII
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: tba</div>
+tba
 
 **15:00 -- 15:40**: Best paper ceremony & closing remarks
