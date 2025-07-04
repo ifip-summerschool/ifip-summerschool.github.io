@@ -4,7 +4,7 @@ permalink: /
 header:
   image: /assets/images/title.jpg
   image_description: "IFIP Summer School 2025 Banner image"
-  #caption: "Copenhagen - Photo credit: Mik Hartwell (CC BY 2.0)"
+  caption: 'Copenhagen - Image by <a href="https://pixabay.com/users/ductinh91-33702380/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8513129">Duc Tinh Ngo</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8513129">Pixabay</a> (modified)'
 
 logos:
   - url: /assets/images/logos/ifip.jpg
@@ -16,7 +16,6 @@ logos:
     alt: "Platform Privacy"
     title: "Platform Privacy"
 ---
-
 ## IFIP Summer School 2025
 The 20th IFIP Summer School on Privacy and Identity Management will take place in Copenhagen, Denmark, on August 19-22, 2025. More information will be made available here shortly.
 
@@ -45,4 +44,4 @@ They are now available [here](https://link.springer.com/book/10.1007/978-3-031-9
 
 [IFIP WG 11.6: Identity Management](https://www.ifiptc11.org/working-groups)
 
-{% include gallery id="logos" layout="" %}
+{% include gallery id="logos" %}
