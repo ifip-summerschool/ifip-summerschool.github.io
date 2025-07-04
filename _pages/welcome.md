@@ -11,6 +11,10 @@ logos:
     image_path: /assets/images/logos/ifip-th.jpg
     alt: "IFIP"
     title: "IFIP"
+  - url: /assets/images/logos/PlatformPrivacy.jpg
+    image_path: /assets/images/logos/PlatformPrivacy-th.jpg
+    alt: "Platform Privacy"
+    title: "Platform Privacy"
 ---
 
 ## IFIP Summer School 2025
@@ -32,8 +36,10 @@ The proceedings of the [IFIP Summer School 2024](./archive/2024) have been publi
 They are now available [here](https://link.springer.com/book/10.1007/978-3-031-91054-8).
 
   
-## Sponsors
+## Sponsors and Supporters
 [International Federation for Information Processing (IFIP)](https://www.ifip.org)
+
+[IFIP TC11: Security and Privacy Protection in Information Processing Systems](https://www.ifiptc11.org/)
 
 [IFIP WG9.6/11.7: Information Technology Mis-Use and the Law](https://www.ifiptc11.org/working-groups)
 

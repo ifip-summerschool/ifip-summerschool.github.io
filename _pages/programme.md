@@ -16,7 +16,7 @@ toc_sticky: true
 
 **9:15 -- 10:15**: Keynote I
 <div style="margin-top:-20px; font-size: 70%;">Session Chair: Joachim Meyer</div>
-[Agnieszka Kitkowska](../keynotes#agnieszka)
+*[Agnieszka Kitkowska](../keynotes#agnieszka)*: What We Assume, What We Miss: Rethinking How We Understand and Design for Privacy
 
 **10:15 -- 10:30**: Coffee break
 
@@ -60,7 +60,7 @@ toc_sticky: true
 
 **14:00 -- 15:00**: Keynote III
 <div style="margin-top:-20px; font-size: 70%;">Session Chair: Laura Drechsler</div>
-[Andrej Savin](../keynotes#andrej)
+*[Andrej Savin](../keynotes#andrej)*: Navigating AI and Data Privacy: Clarifying the Relationship between the AI Act and GDPR 
 
 **15:00 -- 15:30**: Coffee break
 
