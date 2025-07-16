@@ -88,8 +88,8 @@ toc_sticky: true
 **12:30 -- 14:00**: Lunch break
 
 **14:00 -- 15:00**: Keynote V
-<div style="margin-top:-20px; font-size: 70%;">Session Chair: tba</div>
-tba
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Lejla Islami</div>
+*[Paul Stankovski Wagner](../keynotes#paul)*
 
 **15:00 -- 15:30**: Coffee break
 
