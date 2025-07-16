@@ -38,8 +38,4 @@ We are happy to announce the following keynote speakers for the 20th IFIP Summer
 [Paul Stankovski Wagner](https://portal.research.lu.se/en/persons/paul-stankovski-wagner)
 <p style="margin-top:-20px; font-size: 70%;">🇸🇪 Lund University, Department of Electrical and Information Technology</p>
 <!-- ----------------------------------------------------- -->
-<hr style="margin-top: 1.5cm;" id="mark">
-<img src="../assets/images/keynote_speakers/mark_warner.jpg" alt="Mark Warner" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
-[Mark Warner](https://profiles.ucl.ac.uk/57936)
-<p style="margin-top:-20px; font-size: 70%;">🇬🇧 University College London, Department of Computer Science</p>
-<!-- ----------------------------------------------------- -->
+
