@@ -115,6 +115,8 @@ toc_sticky: true
 * *Metehan Gelgi, Maria Papaioannou and Nicola Dragoni*: Toward Cost-Effective Secure Multi-Site Connectivity: Evaluating NSA’s CSfC-Compliant Open-Source and Commercial Solutions
 * *Jed Boufaied and Vicenç Torra*: On Explanations And Privacy: An AIT Approach
 
-**12:30 -- 14:00**: Lunch break
+**12:30 -- 13:00**: Best paper ceremony & closing remarks
 
-**14:00 -- 15:00**: Best paper ceremony & closing remarks
+**13:00 -- 14:00**: Lunch break
+
+
