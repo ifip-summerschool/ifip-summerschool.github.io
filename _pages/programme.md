@@ -75,8 +75,8 @@ toc_sticky: true
 **9:00 -- 9:15**: Registration
 
 **9:15 -- 10:15**: Keynote IV
-<div style="margin-top:-20px; font-size: 70%;">Session Chair: Joachim Meyer</div>
-tbc
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Yod Samuel Martin Garcia</div>
+*[Katherine Quezada](../keynotes#katherine)*
 
 **10:15 -- 10:30**: Coffee break
 

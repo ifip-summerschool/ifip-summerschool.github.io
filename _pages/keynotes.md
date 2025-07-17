@@ -25,7 +25,12 @@ We are happy to announce the following keynote speakers for the 20th IFIP Summer
 <p style="text-align: justify;"><strong>Title:</strong> Introducing Facial Recognition Technology for Law Enforcement Purposes in Denmark: Parliamentary Support Without Democratic Legitimacy</p>
 <p style="text-align: justify;"><strong>Abstract:</strong> In 2024, the Danish Parliament gave its support to the police to start using facial recognition technology (FRT) for law enforcement purposes. However, the exact scope and conditions for use remain unknown to the public as the use of FRT has no distinct legal basis but is based on the general competences of the police to investigate criminal activities and process personal data. The keynote explores this interference with the fundamental rights in Art 8 ECHR and Arts 7 and 8 CFREU against the requirements of lawfulness in Art 8(2) ECHR and ‘strict necessity’ in relation to Art 8 CFREU and discusses more generally the ways in which digital investigative tools are regulated with varying levels of detail and democratic scrutiny. </p>
 <!-- ----------------------------------------------------- -->
-<hr id="andrej">
+<hr id="katherine">
+<img src="../assets/images/keynote_speakers/katherine_quezada.jpg" alt="Katherine Quezada" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
+[Katherine Quezada](https://www.linkedin.com/in/katherine-quezada/)
+<p style="margin-top:-20px; font-size: 70%;">🇧🇪 UZ Leuven</p>
+<!-- ----------------------------------------------------- -->
+<hr style="margin-top: 1.5cm;" id="andrej">
 <img src="../assets/images/keynote_speakers/andrej_savin.jpg" alt="Andrej Savin" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>[Andrej Savin](https://www.cbs.dk/en/research/departments-and-centres/department-of-business-humanities-and-law/staff/asjur)
 <p style="margin-top:-20px; font-size: 70%;">🇩🇰 Copenhagen Business School, Department of Business Humanities and Law</p>
 <p style="text-align: justify;"><strong>Title:</strong> Navigating AI and Data Privacy: Clarifying the Relationship between the AI Act and GDPR
