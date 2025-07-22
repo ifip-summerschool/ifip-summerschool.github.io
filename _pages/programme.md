@@ -76,7 +76,7 @@ toc_sticky: true
 
 **9:15 -- 10:15**: Keynote IV
 <div style="margin-top:-20px; font-size: 70%;">Session Chair: Yod Samuel Martin Garcia</div>
-*[Katherine Quezada](../keynotes#katherine)*
+*[Katherine Quezada Tavárez](../keynotes#katherine)*: Building Bridges in Privacy and Data Protection: A Practitioner’s Tale of Interdisciplinary Work
 
 **10:15 -- 10:30**: Coffee break
 

@@ -27,14 +27,16 @@ We are happy to announce the following keynote speakers for the 20th IFIP Summer
 <!-- ----------------------------------------------------- -->
 <hr id="katherine">
 <img src="../assets/images/keynote_speakers/katherine_quezada.jpg" alt="Katherine Quezada" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
-[Katherine Quezada](https://www.linkedin.com/in/katherine-quezada/)
+[Katherine Quezada Tavárez](https://www.linkedin.com/in/katherine-quezada/)
 <p style="margin-top:-20px; font-size: 70%;">🇧🇪 UZ Leuven</p>
+<p style="text-align: justify;"><strong>Title:</strong> Building Bridges in Privacy and Data Protection: A Practitioner’s Tale of Interdisciplinary Work</p>
+<p style="text-align: justify;"><strong>Abstract:</strong> How do lawyers, engineers, security professionals, data scientists, ethicists, business leaders, and clinicians actually work together on privacy and data protection? And what happens when they do not? Drawing on an enduring trajectory at the intersection of law, ethics, compliance, research, and technology, this keynote explores the practical realities of a data protection career across academic, corporate, and healthcare settings. It dives into the human complexity of privacy governance, where disciplinary divides, competing priorities, and communication gaps can hinder progress, but also where genuine collaboration can drive meaningful change. Through lived examples and professional insights, the talk reflects on what it takes to build functional, trusted, and resilient data protection cultures in practice. 
+</p>
 <!-- ----------------------------------------------------- -->
-<hr style="margin-top: 1.5cm;" id="andrej">
+<hr id="andrej">
 <img src="../assets/images/keynote_speakers/andrej_savin.jpg" alt="Andrej Savin" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>[Andrej Savin](https://www.cbs.dk/en/research/departments-and-centres/department-of-business-humanities-and-law/staff/asjur)
 <p style="margin-top:-20px; font-size: 70%;">🇩🇰 Copenhagen Business School, Department of Business Humanities and Law</p>
-<p style="text-align: justify;"><strong>Title:</strong> Navigating AI and Data Privacy: Clarifying the Relationship between the AI Act and GDPR
-</p>
+<p style="text-align: justify;"><strong>Title:</strong> Navigating AI and Data Privacy: Clarifying the Relationship between the AI Act and GDPR</p>
 <p style="text-align: justify;"><strong>Abstract:</strong> The Artificial Intelligence Act (AI Act) is a comprehensive regulatory framework designed to govern Artificial Intelligence (AI) within the European Union (EU) through risk-based, ex ante horizontal product-safety rules. Artificial Intelligence (AI) systems heavily rely on data sets for training, and these data sets are subject to the General Data Protection Regulation (GDPR) in the extent that they are based on personal data. This interplay between GDPR and the AI Act raises several compliance challenges. This presentation provides an overview of the primary issues pertaining to the relationship between the GDPR and the AI Act. We will delve into matters such as the scope of application, the legal hierarchy, the allocation of responsibility, and the legal foundations of compliance. The overarching concept is that adhering to GDPR compliance may often prove to be the more onerous of the two regulatory frameworks. 
 </p>
 <!-- ----------------------------------------------------- -->
