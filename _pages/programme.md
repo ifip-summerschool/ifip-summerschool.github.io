@@ -16,7 +16,7 @@ toc_sticky: true
 
 **9:15 -- 10:15**: Keynote I
 <div style="margin-top:-20px; font-size: 70%;">Session Chair: Yod Samuel Martin Garcia</div>
-[Nicolás E. Díaz Ferreyra](./../keynotes#nicolas)
+[Nicolás E. Díaz Ferreyra](./../keynotes#nicolas): Privacy as Practice: Perspectives from Users and Developer-Centred Research
 
 **10:15 -- 10:30**: Coffee break
 
