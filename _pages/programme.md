@@ -5,10 +5,12 @@ toc: true
 toc_sticky: true
 ---
 
+<!--
 ### Program at a Glance
 ![IFIP Summer School 2025 Program](../assets/images/IFIPSC25_program_at_a_glance.png)
 
 ### Detailed Program
+-->
 #### Day 1 :: Tuesday, August 19, 2025
 **8:30 -- 9:00**: Registration
 
@@ -68,9 +70,6 @@ toc_sticky: true
 * Workshop III: *Kai Rannenberg et al.*: The CyberSecPro approach to training in Cybersecurity and its relation to Privacy and Identity Management
 * Workshop IV: *Gurvirender Tejay and Umit Cali*: Connected Vehicles and Digital Privacy: An Applied Workshop using IEEE Digital Privacy Model
 
-**17:00**: Boats tour and social dinner
-
-
 #### Day 3 :: Thursday, August 21, 2025
 **9:00 -- 9:15**: Registration
 
@@ -99,6 +98,7 @@ toc_sticky: true
 * *Yuwen Zhang and Michael Friedewald*: Theory and Practice of Data Portability A Systematic Literature Review 
 * *Jan Lühr, Foivos Ioannis Michelinakis and Tarik Cicic*: Private Microsegmentation for Smart Homes
 
+**after the end of the last session**: Boats tour and social dinner
 
 #### Day 4 :: Friday, August 22, 2025
 **9:00 -- 9:15**: Registration
