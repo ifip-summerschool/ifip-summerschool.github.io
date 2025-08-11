@@ -36,7 +36,7 @@ toc_sticky: true
 
 **16:00 -- 17:30**: Paper session II
 * *Ricardo Bochnia, Eric Biele, Daniel Richter and Jürgen Anke*: Onboarding Processes of Trusted Actors in Self-Sovereign Identity Ecosystems
-* *Karl Koch*: &#0211A;œSign: Qualified Collaborative eSignatures
+* *Karl Koch*: ℚœSign: Qualified Collaborative eSignatures
 * *Jakob Heher, Emanuel Pichler and Stefan More*: Genuine PDF Forgeries
 
 **17:30**: Welcome reception
