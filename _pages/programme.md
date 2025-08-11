@@ -5,12 +5,10 @@ toc: true
 toc_sticky: true
 ---
 
-<!--
 ### Program at a Glance
 ![IFIP Summer School 2025 Program](../assets/images/IFIPSC25_program_at_a_glance.png)
 
 ### Detailed Program
--->
 #### Day 1 :: Tuesday, August 19, 2025
 **8:30 -- 9:00**: Registration
 
@@ -92,7 +90,7 @@ toc_sticky: true
 
 **15:00 -- 15:30**: Coffee break
 
-**15:30 -- 17:30**: Paper session V
+**15:30 -- 17:00**: Paper session V
 * *Frederick Gaß*: Tensions between the Data Act and the GDPR within the Use of IoT Products
 * *Nicola Leschke*: Engineering Personal Data Access: A Procedural Perspective on Challenges and Solutions
 * *Yuwen Zhang and Michael Friedewald*: Theory and Practice of Data Portability A Systematic Literature Review 
