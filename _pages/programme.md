@@ -4,12 +4,11 @@ permalink: /programme/
 toc: true
 toc_sticky: true
 ---
-<!--
+
 ### Program at a Glance
 ![IFIP Summer School 2025 Program](../assets/images/IFIPSC25_program_at_a_glance.png)
 
 ### Detailed Program
--->
 #### Day 1 :: Tuesday, August 19, 2025
 **8:30 -- 9:00**: Registration
 
@@ -31,7 +30,7 @@ toc_sticky: true
 
 **14:00 -- 15:30**: Workshops
 * Workshop I: *Ramona Adair, Ina Schiering and Tom Lorenz*: Privacy Awareness Cards
-* Workshop II: *Michael Friedewald, Marc Steen and Greta Runge*: Citizen Engagement in Cybersecurity Research
+* Workshop II: *Kai Rannenberg et al.*: The CyberSecPro approach to training in Cybersecurity and its relation to Privacy and Identity Management
 
 **15:30 -- 16:00**: Coffee break
 
@@ -93,7 +92,7 @@ toc_sticky: true
 **15:00 -- 15:30**: Coffee break
 
 **15:30 -- 17:00**: Workshops
-* Workshop III: *Kai Rannenberg et al.*: The CyberSecPro approach to training in Cybersecurity and its relation to Privacy and Identity Management
+* Workshop III: *Michael Friedewald, Marc Steen and Greta Runge*: Citizen Engagement in Cybersecurity Research
 * Workshop IV: *Gurvirender Tejay and Umit Cali*: Connected Vehicles and Digital Privacy: An Applied Workshop using IEEE Digital Privacy Model
 
 **after the end of the last session**: Boats tour and social dinner
