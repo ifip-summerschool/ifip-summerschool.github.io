@@ -21,6 +21,7 @@ toc_sticky: true
 **10:15 -- 10:30**: Coffee break
 
 **10:30 -- 12:30**: Paper session I
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Stephan Krenn</div>
 * *Laura Macpherson*: Sovereignty.exe: The EU’s Digital Dilemma
 * *Sargam Gupta and Vicenç Torra*: Fed-PUP : Federated Learning with Personalized User Privacy
 * *Giovanni Chieco*: Digital Sovereignty in the Age of Big Tech: A Possible Pathway for the European Union Beyond Regulatory Activism?
@@ -35,6 +36,7 @@ toc_sticky: true
 **15:30 -- 16:00**: Coffee break
 
 **16:00 -- 17:30**: Paper session II
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Laura Drechsler</div>
 * *Ricardo Bochnia, Eric Biele, Daniel Richter and Jürgen Anke*: Onboarding Processes of Trusted Actors in Self-Sovereign Identity Ecosystems
 * *Karl Koch*: œSign: Qualified Collaborative eSignatures
 * *Jakob Heher, Emanuel Pichler and Stefan More*: Genuine PDF Forgeries
@@ -51,6 +53,7 @@ toc_sticky: true
 **10:15 -- 10:30**: Coffee break
 
 **10:30 -- 12:30**: Paper session III
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Joachim Meyer</div>
 * *Christina Karakosta, Lian Alhedaithy and William J. Knottenbelt*: Scalable Privacy-Preserving Iris Recognition: Challenges and Outlook
 * *Halid Kayhan*: Post-hoc Explainability in AI-enabled Clinical Decision Support Systems: Enhancing Shared Decision-Making or Raising New Risks
 * *Meem Arafat Manab and Victor Gonzalez Castro*: Private Information is Language Knowledge: GDPR Compliance, Privacy Rights, and the Catastrophe of Systematic Linguistic Degradation
@@ -65,6 +68,7 @@ toc_sticky: true
 **15:00 -- 15:30**: Coffee break
 
 **15:30 -- 17:00**: Paper session IV
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Stefan Schiffner</div>
 * *Frederick Gaß*: Tensions between the Data Act and the GDPR within the Use of IoT Products
 * *Nicola Leschke*: Engineering Personal Data Access: A Procedural Perspective on Challenges and Solutions
 * *Yuwen Zhang and Michael Friedewald*: Theory and Practice of Data Portability A Systematic Literature Review 
@@ -80,6 +84,7 @@ toc_sticky: true
 **10:15 -- 10:30**: Coffee break
 
 **10:30 -- 12:30**: Paper session V
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Stefan Schiffner</div>
 * *Maria Skwarcan*: Pay or Consent Under the DMA: Genuine Progress or Illusory Victory Against Data Commodification?
 * *Lelia Hanslik, Stefan Ullrich and Bettina Berendt*: From Advertised Features to Third Party Privacy Impact Assessments
 * *Nikolas Wintering and Nils Aschenbruck*: Towards a Privacy-aware Role-based Network Intrusion Detection System
@@ -108,6 +113,7 @@ toc_sticky: true
 **10:15 -- 10:30**: Coffee break
 
 **10:30 -- 12:30**: Paper session VI
+<div style="margin-top:-20px; font-size: 70%;">Session Chair: Lejla Islami</div>
 * *Isabela Maria Rosal*: Private actors processing data for archival purposes: a fight for public interest
 * *Neshe Tuna and Ala Sarah Alaqra*: Bridging the Cybersecurity Gap: Agile Approaches in Multi-stakeholder Collaboration in the Public Sector
 * *Metehan Gelgi, Maria Papaioannou and Nicola Dragoni*: Toward Cost-Effective Secure Multi-Site Connectivity: Evaluating NSA’s CSfC-Compliant Open-Source and Commercial Solutions
