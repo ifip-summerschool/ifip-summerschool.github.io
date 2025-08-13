@@ -4,11 +4,12 @@ permalink: /programme/
 toc: true
 toc_sticky: true
 ---
-
+<!--
 ### Program at a Glance
 ![IFIP Summer School 2025 Program](../assets/images/IFIPSC25_program_at_a_glance.png)
 
 ### Detailed Program
+-->
 #### Day 1 :: Tuesday, August 19, 2025
 **8:30 -- 9:00**: Registration
 
@@ -36,7 +37,7 @@ toc_sticky: true
 
 **16:00 -- 17:30**: Paper session II
 * *Ricardo Bochnia, Eric Biele, Daniel Richter and Jürgen Anke*: Onboarding Processes of Trusted Actors in Self-Sovereign Identity Ecosystems
-* *Karl Koch*: ℚœSign: Qualified Collaborative eSignatures
+* *Karl Koch*: œSign: Qualified Collaborative eSignatures
 * *Jakob Heher, Emanuel Pichler and Stefan More*: Genuine PDF Forgeries
 
 **17:30**: Welcome reception
@@ -63,9 +64,11 @@ toc_sticky: true
 
 **15:00 -- 15:30**: Coffee break
 
-**15:30 -- 17:00**: Workshops
-* Workshop III: *Kai Rannenberg et al.*: The CyberSecPro approach to training in Cybersecurity and its relation to Privacy and Identity Management
-* Workshop IV: *Gurvirender Tejay and Umit Cali*: Connected Vehicles and Digital Privacy: An Applied Workshop using IEEE Digital Privacy Model
+**15:30 -- 17:30**: Paper session IV
+* *Frederick Gaß*: Tensions between the Data Act and the GDPR within the Use of IoT Products
+* *Nicola Leschke*: Engineering Personal Data Access: A Procedural Perspective on Challenges and Solutions
+* *Yuwen Zhang and Michael Friedewald*: Theory and Practice of Data Portability A Systematic Literature Review 
+* *Jan Lühr, Foivos Ioannis Michelinakis and Tarik Cicic*: Private Microsegmentation for Smart Homes
 
 #### Day 3 :: Thursday, August 21, 2025
 **9:00 -- 9:15**: Registration
@@ -76,7 +79,7 @@ toc_sticky: true
 
 **10:15 -- 10:30**: Coffee break
 
-**10:30 -- 12:30**: Paper session IV
+**10:30 -- 12:30**: Paper session V
 * *Maria Skwarcan*: Pay or Consent Under the DMA: Genuine Progress or Illusory Victory Against Data Commodification?
 * *Lelia Hanslik, Stefan Ullrich and Bettina Berendt*: From Advertised Features to Third Party Privacy Impact Assessments
 * *Nikolas Wintering and Nils Aschenbruck*: Towards a Privacy-aware Role-based Network Intrusion Detection System
@@ -89,11 +92,9 @@ toc_sticky: true
 
 **15:00 -- 15:30**: Coffee break
 
-**15:30 -- 17:00**: Paper session V
-* *Frederick Gaß*: Tensions between the Data Act and the GDPR within the Use of IoT Products
-* *Nicola Leschke*: Engineering Personal Data Access: A Procedural Perspective on Challenges and Solutions
-* *Yuwen Zhang and Michael Friedewald*: Theory and Practice of Data Portability A Systematic Literature Review 
-* *Jan Lühr, Foivos Ioannis Michelinakis and Tarik Cicic*: Private Microsegmentation for Smart Homes
+**15:30 -- 17:00**: Workshops
+* Workshop III: *Kai Rannenberg et al.*: The CyberSecPro approach to training in Cybersecurity and its relation to Privacy and Identity Management
+* Workshop IV: *Gurvirender Tejay and Umit Cali*: Connected Vehicles and Digital Privacy: An Applied Workshop using IEEE Digital Privacy Model
 
 **after the end of the last session**: Boats tour and social dinner
 
