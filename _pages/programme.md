@@ -54,6 +54,7 @@ toc_sticky: true
 * *Christina Karakosta, Lian Alhedaithy and William J. Knottenbelt*: Scalable Privacy-Preserving Iris Recognition: Challenges and Outlook
 * *Halid Kayhan*: Post-hoc Explainability in AI-enabled Clinical Decision Support Systems: Enhancing Shared Decision-Making or Raising New Risks
 * *Meem Arafat Manab and Victor Gonzalez Castro*: Private Information is Language Knowledge: GDPR Compliance, Privacy Rights, and the Catastrophe of Systematic Linguistic Degradation
+* *Jan Lühr, Foivos Ioannis Michelinakis and Tarik Cicic*: Private Microsegmentation for Smart Homes
 
 **12:30 -- 14:00**: Lunch break
 
@@ -63,11 +64,11 @@ toc_sticky: true
 
 **15:00 -- 15:30**: Coffee break
 
-**15:30 -- 17:30**: Paper session IV
+**15:30 -- 17:00**: Paper session IV
 * *Frederick Gaß*: Tensions between the Data Act and the GDPR within the Use of IoT Products
 * *Nicola Leschke*: Engineering Personal Data Access: A Procedural Perspective on Challenges and Solutions
 * *Yuwen Zhang and Michael Friedewald*: Theory and Practice of Data Portability A Systematic Literature Review 
-* *Jan Lühr, Foivos Ioannis Michelinakis and Tarik Cicic*: Private Microsegmentation for Smart Homes
+
 
 #### Day 3 :: Thursday, August 21, 2025
 **9:00 -- 9:15**: Registration
