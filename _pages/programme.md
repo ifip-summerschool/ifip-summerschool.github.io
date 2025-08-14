@@ -8,6 +8,8 @@ toc_sticky: true
 ### Program at a Glance
 ![IFIP Summer School 2025 Program](../assets/images/IFIPSC25_program_at_a_glance.png)
 
+The preproceedings can be downloaded [here](../assets/IFIP_SC_2025_preproceedings.zip). The password will be communicated to all registered participants.
+
 ### Detailed Program
 #### Day 1 :: Tuesday, August 19, 2025
 **8:30 -- 9:00**: Registration
