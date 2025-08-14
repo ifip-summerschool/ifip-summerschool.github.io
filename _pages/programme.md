@@ -8,6 +8,9 @@ toc_sticky: true
 ### Program at a Glance
 ![IFIP Summer School 2025 Program](../assets/images/IFIPSC25_program_at_a_glance.png)
 
+### Presented paper drafts
+Registered participants may access the [submitted versions of the papers to be presented](../assets/IFIPSC2025_submissions.zip). This file is password-protected.
+
 ### Detailed Program
 #### Day 1 :: Tuesday, August 19, 2025
 **8:30 -- 9:00**: Registration
@@ -38,7 +41,7 @@ toc_sticky: true
 **16:00 -- 17:30**: Paper session II
 <div style="margin-top:-20px; font-size: 70%;">Session Chair: Laura Drechsler</div>
 * *Ricardo Bochnia, Eric Biele, Daniel Richter and Jürgen Anke*: Onboarding Processes of Trusted Actors in Self-Sovereign Identity Ecosystems
-* *Karl Koch*: œSign: Qualified Collaborative eSignatures
+* *Karl Koch*: QœSign: Qualified Collaborative eSignatures
 * *Jakob Heher, Emanuel Pichler and Stefan More*: Genuine PDF Forgeries
 
 **17:30**: Welcome reception
