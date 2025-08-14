@@ -9,7 +9,7 @@ toc_sticky: true
 ![IFIP Summer School 2025 Program](../assets/images/IFIPSC25_program_at_a_glance.png)
 
 ### Presented paper drafts
-Registered participants may access the [submitted versions of the papers to be presented](../assets/IFIPSC2025_submissions.zip). This file is password-protected.
+Registered participants may access the [submitted versions of the papers to be presented](../assets/IFIP_SC_2025_preproceedings.zip). This file is password-protected.
 
 ### Detailed Program
 #### Day 1 :: Tuesday, August 19, 2025
