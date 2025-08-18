@@ -97,7 +97,8 @@ Registered participants may access the [submitted versions of the papers to be p
 
 **14:00 -- 15:00**: Keynote V
 <div style="margin-top:-20px; font-size: 70%;">Session Chair: Lejla Islami</div>
-*[Paul Stankovski Wagner](../keynotes#paul)*
+*[Paul Stankovski Wagner](../keynotes#paul)*: Digitalization & PAPR: Publicly Auditable Privacy Revocation for Anonymous Credentials
+
 
 **15:00 -- 15:30**: Coffee break
 
