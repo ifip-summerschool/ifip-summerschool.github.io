@@ -34,7 +34,8 @@ Registered participants may access the [submitted versions of the papers to be p
 
 **14:00 -- 15:30**: Workshops
 * Workshop I: *Ramona Adair, Ina Schiering and Tom Lorenz*: Privacy Awareness Cards
-* Workshop II: *Kai Rannenberg et al.*: The CyberSecPro approach to training in Cybersecurity and its relation to Privacy and Identity Management
+* Workshop II: *Gurvirender Tejay and Umit Cali*: Connected Vehicles and Digital Privacy: An Applied Workshop using IEEE Digital Privacy Model
+
 
 **15:30 -- 16:00**: Coffee break
 
@@ -102,7 +103,7 @@ Registered participants may access the [submitted versions of the papers to be p
 
 **15:30 -- 17:00**: Workshops
 * Workshop III: *Michael Friedewald, Marc Steen and Greta Runge*: Citizen Engagement in Cybersecurity Research
-* Workshop IV: *Gurvirender Tejay and Umit Cali*: Connected Vehicles and Digital Privacy: An Applied Workshop using IEEE Digital Privacy Model
+* Workshop IV: *Kai Rannenberg et al.*: The CyberSecPro approach to training in Cybersecurity and its relation to Privacy and Identity Management
 
 **after the end of the last session**: Boats tour and social dinner
 
