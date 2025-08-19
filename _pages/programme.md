@@ -34,7 +34,6 @@ Registered participants may access the [submitted versions of the papers to be p
 
 **14:00 -- 15:30**: Workshops
 * Workshop I: *Ramona Adair, Ina Schiering and Tom Lorenz*: Privacy Awareness Cards
-* Workshop II: *Gurvirender Tejay and Umit Cali*: Connected Vehicles and Digital Privacy: An Applied Workshop using IEEE Digital Privacy Model
 
 
 **15:30 -- 16:00**: Coffee break
@@ -71,11 +70,13 @@ Registered participants may access the [submitted versions of the papers to be p
 
 **15:00 -- 15:30**: Coffee break
 
-**15:30 -- 17:00**: Paper session IV
+**15:30 -- 17:00**: Parallel Session
+* Paper session IV
 <div style="margin-top:-20px; font-size: 70%;">Session Chair: Stefan Schiffner</div>
-* *Frederick Gaß*: Tensions between the Data Act and the GDPR within the Use of IoT Products
-* *Nicola Leschke*: Engineering Personal Data Access: A Procedural Perspective on Challenges and Solutions
-* *Yuwen Zhang and Michael Friedewald*: Theory and Practice of Data Portability A Systematic Literature Review 
+  * *Frederick Gaß*: Tensions between the Data Act and the GDPR within the Use of IoT Products
+  * *Nicola Leschke*: Engineering Personal Data Access: A Procedural Perspective on Challenges and Solutions
+  * *Yuwen Zhang and Michael Friedewald*: Theory and Practice of Data Portability A Systematic Literature Review 
+* Workshop II: *Gurvirender Tejay and Umit Cali*: Connected Vehicles and Digital Privacy: An Applied Workshop using IEEE Digital Privacy Model
 
 
 #### Day 3 :: Thursday, August 21, 2025
