@@ -40,6 +40,7 @@ permalink: /committee/
 - Kai Rannenberg (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Goethe University Frankfurt)
 - Arnold Roosendaal (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Privacy Company)
 - Ina Schiering (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Ostfalia University of Applied Sciences)
+- Stefan Schiffner (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> BHH Hamburg)
 - Yefim Shulman (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Erasmus University Rotterdam)
 - Gurvirender Tejay (<font style="font-size: 50%; vertical-align: middle;">🇺🇸</font> Hofstra University)
 
