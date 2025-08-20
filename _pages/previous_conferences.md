@@ -3,6 +3,8 @@ title: "Previous Conferences"
 permalink: /previous_conferences/
 ---
 
+[2025](/archive/2025) - 20th IFIP Summer School on Privacy and Identity Management, Copenhagen, Denmark.
+
 [2024](/archive/2024) - 19th IFIP Summer School on Privacy and Identity Management, Madrid, Spain.
 
 [2023](/archive/2023) - 18th IFIP Summer School on Privacy and Identity Management, Oslo, Norway.
