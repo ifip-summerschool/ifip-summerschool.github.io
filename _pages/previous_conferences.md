@@ -5,7 +5,7 @@ permalink: /previous_conferences/
 
 [2022](/archive/2022) - 17th IFIP Summer School on Privacy and Identity Management, Brunswick, Germany (online)
 
-[2021](/archive/2021) - 16th IFIP Summer School on Privacy and Identity Management, Esch-sur-Alzette, Luxembourg (online)
+[2021](/archive/2021) - 16th IFIP Summer School on Privacy and Identity Management, Esch-sur-Alzette, Luxembourg (online) ([original website](http://disi.unitn.it/security/ifip-summerschool2011/index.html))
 
 [2020](https://2020summerschoolifip.crocs.fi.muni.cz/) - 15th IFIP Summer School on Privacy and Identity Management, Maribor, Slovenia (online)
 
