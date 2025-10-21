@@ -1,5 +1,5 @@
 ---
-title: "21th IFIP Summer School on Privacy and Identity Management 2026"
+title: "21st IFIP Summer School on Privacy and Identity Management 2026"
 permalink: /
 header:
   image: /assets/images/title.jpg
