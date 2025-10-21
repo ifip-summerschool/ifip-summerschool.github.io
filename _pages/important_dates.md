@@ -3,21 +3,21 @@ title: "Important Dates"
 permalink: /important_dates/
 ---
 
-## IFIP Summer School 2025
+## IFIP Summer School 2026
 
 All dates are AoE (anywhere on earth).
 
 | Event | Deadline |
 | -- | -- |
-| **Abstracts Deadline:** | ~~26.05.2025~~|
-| **Workshops and Tutorials Proposal Deadline:** | ~~26.05.2025~~ |
-| **Acceptance Decision:** | ~~02.06.2025~~ |
-| **Early bird registration Deadline:** | ~~22.07.2025~~ |
-| **Full Paper Deadline:** | ~~05.08.2025~~ |
-| **Summer School:** | ~~19.-22.08.2025~~ |
-| **Revised Full Paper Deadline:** | 30.09.2025 |
-| **Full Paper Feedback:** | 15.11.2025 |
-| **Camera Ready Deadline:** | 15.12.2025 |
+| **Abstracts Deadline:** | 30.04.2026 |
+| **Workshops and Tutorials Proposal Deadline:** | 30.04.2026 |
+| **Acceptance Decision:** | 05.06.2026 |
+| **Early bird registration Deadline:** | 10.07.2026 |
+| **Full Paper Deadline:** | 31.07.2026 |
+| **Summer School:** | 10.-14.08.2024 |
+| **Revised Full Paper Deadline:** | 25.09.2026 |
+| **Full Paper Feedback:** | 20.11.2026 |
+| **Camera Ready Deadline:** | 11.12.2026 |
 
 
 

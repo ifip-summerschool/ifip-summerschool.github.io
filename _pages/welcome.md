@@ -1,39 +1,26 @@
 ---
-title: "20th IFIP Summer School on Privacy and Identity Management 2025"
+title: "21th IFIP Summer School on Privacy and Identity Management 2026"
 permalink: /
 header:
   image: /assets/images/title.jpg
-  image_description: "IFIP Summer School 2025 Banner image"
-  caption: 'Copenhagen - Image by <a href="https://pixabay.com/users/ductinh91-33702380/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8513129">Duc Tinh Ngo</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=8513129">Pixabay</a> (modified)'
-
+  image_description: "IFIP Summer School 2026 Banner image"
+  caption: 'Leuven - Photo by <a href="https://unsplash.com/@liebezz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">kevin liebens</a> on <a href="https://unsplash.com/photos/patio-bistro-sets-near-bulding-Pr1ZTVXJz_8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+(modified)'
+      
 logos:
   - url: /assets/images/logos/ifip.jpg
     image_path: /assets/images/logos/ifip-th.jpg
     alt: "IFIP"
     title: "IFIP"
-  - url: /assets/images/logos/PlatformPrivacy.jpg
-    image_path: /assets/images/logos/PlatformPrivacy-th.jpg
-    alt: "Platform Privacy"
-    title: "Platform Privacy"
 ---
-## IFIP Summer School 2025
-The 20th IFIP Summer School on Privacy and Identity Management will take place in Copenhagen, Denmark, on August 19-22, 2025. More information will be made available here shortly.
+## IFIP Summer School 2026
+The 21st IFIP Summer School on Privacy and Identity Management will take place in Leuven, Belgium, on August 10-14, 2026. More information will be made available here shortly.
 
 ### Website Updates
 
 | Date | Update |
 | -- | -- |
-| June 23, 2025| [Registration](./registration) is now open. |
-| May 27, 2025 | Added [registration information](./registration). |
-| May 6, 2025  | Extended [abstracts deadline](./important_dates) to May 26. |
-| Apr 24, 2025 | First details on [Keynote speakers](./keynotes) have been added. |
-| Apr 11, 2025 | [Submission link](./submission) as well as [travel information](./venue) have been added. |
-| Feb 18, 2025 | [Call for papers](./call_for_papers) as well as [important dates](./important_dates) have been added. |
-
-## 2024 Proceedings 
-The proceedings of the [IFIP Summer School 2024](./archive/2024) have been published by Springer.
-They are now available [here](https://link.springer.com/book/10.1007/978-3-031-91054-8).
-
+| Oct 21, 2025 | [Important dates](./important_dates) and initial information have been added. |
   
 ## Sponsors and Supporters
 [International Federation for Information Processing (IFIP)](https://www.ifip.org)

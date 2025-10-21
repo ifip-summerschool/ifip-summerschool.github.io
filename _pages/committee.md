@@ -4,13 +4,12 @@ permalink: /committee/
 ---
 
 ## Programme Chairs
-- Laura Drechsler (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> KU Leuven)
-- Yod Samuel Martin Garcia (<font style="font-size: 50%; vertical-align: middle;">🇪🇸</font> Universidad Politécnica de Madrid)
-- Joachim Meyer (<font style="font-size: 50%; vertical-align: middle;">🇮🇱</font> Tel Aviv University)
+- Stephan Krenn (<font style="font-size: 50%; vertical-align: middle;">🇦🇹</font> AIT Austrian Institute of Technology)
+<p style="font-size: 70%;">(tbc)</p>
 
 ## General Chairs
-- Lejla Islami (<font style="font-size: 50%; vertical-align: middle;">🇩🇰</font> Technical University of Denmark)
-- Stephan Krenn (<font style="font-size: 50%; vertical-align: middle;">🇦🇹</font> AIT Austrian Institute of Technology)
+- Laura Drechsler (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> KU Leuven)
+- Stefan Schiffner (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Hochschule Bonn-Rhein-Sieg University of Applied Sciences)
 
 ## Steering Committee
 - Simone Fischer-Hübner (<font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Karlstad University) -- Chair
@@ -23,24 +22,9 @@ permalink: /committee/
 - Charles Raab (<font style="font-size: 50%; vertical-align: middle;">🇬🇧</font> University of Edinburgh)
 - Kai Rannenberg (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Goethe University Frankfurt)
 - Ina Schiering (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Ostfalia University of Applied Sciences)
-- Stefan Schiffner (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> BHH Hamburg)
+- Stefan Schiffner (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Hochschule Bonn-Rhein-Sieg University of Applied Sciences)
 - Diane Whitehouse (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> EHTEL)
 
 ## Programme Committee
-<p style="font-size: 70%;">(to be completed)</p>
-- Felix Bieker (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> ULD)
-- Simone Fischer-Hübner (<font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Karlstad University)
-- Michael Friedewald (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Fraunhofer ISI)
-- Jesús García-Rodríguez (<font style="font-size: 50%; vertical-align: middle;">🇪🇸</font> University of Murcia)
-- Nils Gruschka (<font style="font-size: 50%; vertical-align: middle;">🇳🇴</font> University of Oslo)
-- Stefan Katzenbeisser (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> University of Passau)
-- Konstantinos Limniotis (<font style="font-size: 50%; vertical-align: middle;">🇬🇷</font> National and Kapodistrian University of Athens)
-- Stefan More (<font style="font-size: 50%; vertical-align: middle;">🇦🇹</font> Graz University of Technology)
-- Davy Preuveneers (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> DistriNet, KU Leuven)
-- Kai Rannenberg (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Goethe University Frankfurt)
-- Arnold Roosendaal (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Privacy Company)
-- Ina Schiering (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Ostfalia University of Applied Sciences)
-- Stefan Schiffner (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> BHH Hamburg)
-- Yefim Shulman (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Erasmus University Rotterdam)
-- Gurvirender Tejay (<font style="font-size: 50%; vertical-align: middle;">🇺🇸</font> Hofstra University)
+<p style="font-size: 70%;">(tbd)</p>
 
