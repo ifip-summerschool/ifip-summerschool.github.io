@@ -31,6 +31,7 @@ permalink: /committee/
 - Tatiana Duarte Nicolau (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> KU Leuven)
 - Michael Friedewald (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Fraunhofer ISI)
 - Jesús García-Rodríguez (<font style="font-size: 50%; vertical-align: middle;">🇪🇸</font> University of Murcia)
+- Tejay Gurvirender (<font style="font-size: 50%; vertical-align: middle;">🇺🇸</font> Hofstra University)
 - Stefan Katzenbeisser (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> University of Passau)
 - Marco Antonio Lasmar Almada (<font style="font-size: 50%; vertical-align: middle;">🇱🇺</font> University of Luxembourg)
 - Nicola Leschke (<font style="font-size: 50%; vertical-align: middle;">🇦🇹</font> University of Salzburg)
