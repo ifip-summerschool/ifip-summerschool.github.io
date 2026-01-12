@@ -4,8 +4,8 @@ permalink: /committee/
 ---
 
 ## Programme Chairs
+<p style="font-size: 70%;">(to be completed)</p>
 - Stephan Krenn (<font style="font-size: 50%; vertical-align: middle;">🇦🇹</font> AIT Austrian Institute of Technology)
-<p style="font-size: 70%;">(tbc)</p>
 
 ## General Chairs
 - Laura Drechsler (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> KU Leuven)
@@ -26,5 +26,7 @@ permalink: /committee/
 - Diane Whitehouse (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> EHTEL)
 
 ## Programme Committee
-<p style="font-size: 70%;">(tbd)</p>
+<p style="font-size: 70%;">(to be completed)</p>
+- Jesús García-Rodríguez (<font style="font-size: 50%; vertical-align: middle;">🇪🇸</font> University of Murcia)
+- Stefan Katzenbeisser (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> University of Passau)
 
