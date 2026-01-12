@@ -27,6 +27,9 @@ permalink: /committee/
 
 ## Programme Committee
 <p style="font-size: 70%;">(to be completed)</p>
+- Tatiana Duarte Nicolau (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> KU Leuven)
 - Jesús García-Rodríguez (<font style="font-size: 50%; vertical-align: middle;">🇪🇸</font> University of Murcia)
 - Stefan Katzenbeisser (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> University of Passau)
-
+- Marco Antonio Lasmar Almada (<font style="font-size: 50%; vertical-align: middle;">🇱🇺</font> University of Luxembourg)
+- Davy Preuveneers (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> DistriNet, KU Leuven)
+- Andrej Savin (<font style="font-size: 50%; vertical-align: middle;">🇩🇰</font> Copenhagen Business School)
