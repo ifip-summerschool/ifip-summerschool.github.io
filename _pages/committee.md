@@ -5,6 +5,7 @@ permalink: /committee/
 
 ## Programme Chairs
 <p style="font-size: 70%;">(to be completed)</p>
+- Anna Berlee  (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Open Universiteit)
 - Stephan Krenn (<font style="font-size: 50%; vertical-align: middle;">🇦🇹</font> AIT Austrian Institute of Technology)
 
 ## General Chairs
@@ -33,3 +34,5 @@ permalink: /committee/
 - Marco Antonio Lasmar Almada (<font style="font-size: 50%; vertical-align: middle;">🇱🇺</font> University of Luxembourg)
 - Davy Preuveneers (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> DistriNet, KU Leuven)
 - Andrej Savin (<font style="font-size: 50%; vertical-align: middle;">🇩🇰</font> Copenhagen Business School)
+- Hanna Schraffenberger (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Radboud University)
+- Yefim Shulman (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Erasmus University Rotterdam)
