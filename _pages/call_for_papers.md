@@ -70,9 +70,10 @@ Accepted papers will receive thorough discussions during the school and will all
 
 All individual members of IFIP member societies (over 40 national IT societies plus ACM and others) plus all members of IFIP Technical Committees and Working Groups are entitled to a discount of at least 10% on all registration fees.
 
-A course certificate for 1,5 ECTS can be granted to students who attend the Summer School and write a short essay on how their research is relevant to or can be inspired by the Summer School sessions. A course certificate for 3 ECTS can be granted to students who attend the Summer School, submit and present an abstract for a research article, and demonstrate that they have addressed the feedback from the Summer School in an extended version or rebuttal.
+A course certificate for 1,5 ECTS can be granted to students who attend the Summer School and write a short essay on how their research is relevant to or can be inspired by the Summer School sessions. A course certificate for 3 ECTS can be granted to students who attend the Summer School, submit and present an extended abstract for a research article, and demonstrate that they have addressed the feedback from the Summer School in an extended version or rebuttal, and write a short essay on how their research is relevant to or can be inspired by the Summer School sessions. Students whose papers were accepted as full papers for the proceedings, can receive a certificate confirming the equivalence to 6 ECTS points at the PhD level. The certificate can state the topic of the paper so as to demonstrate its relationship (or otherwise) to the student’s master or PhD thesis
 
-We encourage submissions from students from emerging economies: applying for support from the IFIP Digital Equity Fund is possible to ease student travel.
+
+We encourage submissions from students from emerging economies: applying for support from the [IFIP Digital Equity Fund](https://www.ifip.org/structure-of-ifip/standing-committees/digital-equity-committee/) is possible to ease student travel.
 
 ### Call for Workshops and Tutorials Proposals
 
