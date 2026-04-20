@@ -12,7 +12,7 @@ All dates are AoE (anywhere on earth).
 | **Abstracts Deadline:** | 30.04.2026 |
 | **Workshops and Tutorials Proposal Deadline:** | 30.04.2026 |
 | **Acceptance Decision:** | 05.06.2026 |
-| **Early bird registration Deadline:** | 10.07.2026 |
+| **Early bird registration Deadline:** | 19.06.2026 |
 | **Full Paper Deadline:** | 31.07.2026 |
 | **Summer School:** | 10.-14.08.2024 |
 | **Revised Full Paper Deadline:** | 25.09.2026 |
