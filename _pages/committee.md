@@ -4,7 +4,6 @@ permalink: /committee/
 ---
 
 ## Programme Chairs
-<p style="font-size: 70%;">(to be completed)</p>
 - Anna Berlee  (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Open Universiteit)
 - Agnieszka Kitkowska (<font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Jönköping University)
 - Stephan Krenn (<font style="font-size: 50%; vertical-align: middle;">🇦🇹</font> AIT Austrian Institute of Technology)
@@ -29,10 +28,10 @@ permalink: /committee/
 - Diane Whitehouse (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> EHTEL)
 
 ## Programme Committee
-<p style="font-size: 70%;">(to be completed)</p>
 - Tatiana Duarte Nicolau (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> KU Leuven)
 - Michael Friedewald (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Fraunhofer ISI)
 - Tommaso Fia (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> University of Tübingen)
+- Simone Fischer-Hübner (<font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Karlstad University) -- Chair
 - Jesús García-Rodríguez (<font style="font-size: 50%; vertical-align: middle;">🇪🇸</font> University of Murcia)
 - Tejay Gurvirender (<font style="font-size: 50%; vertical-align: middle;">🇺🇸</font> Hofstra University)
 - Stefan Katzenbeisser (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> University of Passau)
@@ -43,5 +42,6 @@ permalink: /committee/
 - Davy Preuveneers (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> DistriNet, KU Leuven)
 - Arnold Roosendaal (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Privacy Company)
 - Andrej Savin (<font style="font-size: 50%; vertical-align: middle;">🇩🇰</font> Copenhagen Business School)
+- Ina Schiering (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Ostfalia University of Applied Sciences)
 - Hanna Schraffenberger (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Radboud University)
 - Yefim Shulman (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Erasmus University Rotterdam)
