@@ -33,7 +33,8 @@ The 21st IFIP Summer School on Privacy and Identity Management will take place i
 ### Website Updates
 
 | Date | Update |
-| -- | -- |
+| Apr 29, 2026 | The [submission deadline](./important_dates) was extended to May 15. |
+| April 20, 2026 | Detailed [registration information](./registration) has been added. |
 | April 20, 2026 | Detailed [registration information](./registration) has been added. |
 | March 24, 2026 | Added first [keynote speakers](./keynotes). |
 | Jan 12, 2026 | Full [Call for Papers](./call_for_papers) has been added. |

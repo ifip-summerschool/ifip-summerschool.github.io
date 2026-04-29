@@ -9,8 +9,8 @@ All dates are AoE (anywhere on earth).
 
 | Event | Deadline |
 | -- | -- |
-| **Abstracts Deadline:** | 30.04.2026 |
-| **Workshops and Tutorials Proposal Deadline:** | 30.04.2026 |
+| **Abstracts Deadline:** | ~~30.04.2026~~ 15.05.2026 |
+| **Workshops and Tutorials Proposal Deadline:** | ~~30.04.2026~~ 15.05.2026 |
 | **Acceptance Decision:** | 05.06.2026 |
 | **Early bird registration Deadline:** | 19.06.2026 |
 | **Full Paper Deadline:** | 31.07.2026 |
