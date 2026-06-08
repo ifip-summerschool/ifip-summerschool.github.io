@@ -22,7 +22,7 @@ Drawing on evidence from both studies, I will discuss recommendations for improv
 <hr id="felix">
 <img src="../assets/images/keynote_speakers/felix_bieker.jpg" alt="Felix Bieker" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
 Felix Bieker
-<p style="margin-top:-20px; font-size: 70%;">🇩🇪 Unabhängiges Landeszentrum für Datenschutz</p>
+<p style="margin-top:-20px; font-size: 70%;">🇩🇪 FIZ Karlsruhe - Leibniz Institute for Information Infrastructure</p>
 <!--
 **Title:** tbd
 
@@ -64,6 +64,18 @@ Pierre Dewitte
 <img src="../assets/images/keynote_speakers/elena_pagnin.jpg" alt="Elena Pagnin" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
 [Elena Pagnin](https://epagnin.github.io/)
 <p style="margin-top:-20px; font-size: 70%;">🇸🇪 Chalmers University</p>
+<!--
+**Title:** tbd
+
+**Abstract:** tbd
+-->
+
+
+
+<hr id="yixin">
+<img src="../assets/images/keynote_speakers/yixin_zou.jpg" alt="Yixin Zou" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
+[Yixin Zou](https://yixinzou.github.io/)
+<p style="margin-top:-20px; font-size: 70%;">🇩🇪 Max Plan Institute for Security and Privacy</p>
 <!--
 **Title:** tbd
 
