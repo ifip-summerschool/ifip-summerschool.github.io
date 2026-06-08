@@ -5,7 +5,7 @@ toc: true
 toc_sticky: false
 ---
 
-So far the following keynote speakers confirmed their participation. More keynote speakers will be announced soon.
+The following keynote speakers confirmed their participation. 
 
 <hr id="ruba">
 <img src="../assets/images/keynote_speakers/ruba_abu_salma.jpg" alt="Ruba Abu-Salma" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
