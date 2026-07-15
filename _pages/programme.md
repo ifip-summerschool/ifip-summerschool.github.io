@@ -6,7 +6,7 @@ toc_sticky: true
 ---
 
 ### Program at a Glance
-![IFIP Summer School 2026 Program](../assets/images/IFIPSC26_program_at_a_glance.png)
+[![IFIP Summer School 2026 Program](../assets/images/IFIPSC26_program_at_a_glance.png)](../assets/images/IFIPSC26_program_at_a_glance.png)
 
 Please note that at this point the program is tentative and subject to potential changes! 
 
