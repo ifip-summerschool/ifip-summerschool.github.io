@@ -15,7 +15,7 @@ permalink: /committee/
 
 ## Steering Committee
 - Simone Fischer-Hübner (<font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Karlstad University) -- Chair
-- Felix Bieker (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> ULD)
+- Felix Bieker (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> FIZ Karlsruhe - Leibniz Institute for Information Infrastructure)
 - Silvia De Conca (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Vrije Universiteit Amsterdam)
 - Michael Friedewald (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Fraunhofer ISI)
 - Marit Hansen (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> ULD)
