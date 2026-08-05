@@ -53,12 +53,10 @@ Christian Bormann is a Digital Identity and Cryptography Architect heading the t
 <img src="../assets/images/keynote_speakers/pierre_dewitte.jpg" alt="Pierre Dewitte" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
 Pierre Dewitte
 <p style="margin-top:-20px; font-size: 70%;">🇧🇪 European Data Protection Supervisor</p>
-<!--
-**Title:** tbd
+**Title:** Enforcing data protection law in the age of AI
 
-**Abstract:** tbd
--->
-
+**Biography:** 
+Pierre Dewitte is a Legal Officer at the European Data Protection Supervisor (EDPS) and a Research Fellow at the KU Leuven Centre for IT & IP Law (CITIP). He holds a Bachelor and Master degree of Laws with a specialisation in Corporate and Intellectual Property law from the Université Catholique de Louvain, and an Advanced Master in Intellectual Property and from KU Leuven. Pierre started his career at CITIP, where he conducted interdisciplinary research on privacy engineering, smart cities and algorithmic transparency, and defended his PhD on data protection by design. He then joined the Supervision and Enforcement Unit at the EDPS, where he now supervises the operational activities of Europol and Frontex. Pierre remains affiliated to CITIP, where he teaches data protection law as a guest lecturer in various courses and supervises students in their research track.
 
 <hr id="joanna">
 <img src="../assets/images/keynote_speakers/joanna_mazur.jpg" alt="Joanna Mazur" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
@@ -96,24 +94,27 @@ Dr. Pagnin has received competitive research funding, including a 2025 Swedish R
 <img src="../assets/images/keynote_speakers/bart_preneel.png" alt="Bart Preneel" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
 [Bart Preneel](https://www.esat.kuleuven.be/cosic/static_people/bart-preneel.html)
 <p style="margin-top:-20px; font-size: 70%;">🇧🇪 KU Leuven</p>
-<!--
-**Title:** tbd
+**Title:** The Long Crypto Wars: Fifty Years of Encryption Policy
 
-**Abstract:** tbd
--->
+**Abstract:**
+The "Crypto Wars" describe the enduring tension between government demands for access to encrypted data in the name of national security and the protection of privacy and civil liberties. This talk traces the history of these conflicts, from efforts to suppress cryptographic research and restrict secure communications (such as the Clipper Chip), to high‑profile disputes over device access (Apple vs. FBI), and the deployment of commercial spyware (e.g., NSO Group).
 
+More recently, attention has shifted to client-side scanning: filtering content on user devices before encryption or after decryption, ostensibly to detect child sexual abuse material (CSAM), but increasingly framed as a tool for counterterrorism and crime prevention. However, client-side scanning weakens end‑to‑end encryption, is vulnerable to misuse, and lacks demonstrated effectiveness. Our recent research shows that perceptual hash techniques used to identify known CSAM have high false positive/negative rates and are invertible. Proposals to use AI to detect AI‑generated CSAM raise additional concerns about reliability and accountability.
 
+In Spring 2025, the EU's ProtectEU initiative launched a roadmap to explore "lawful access" technologies by late 2026, marking a new phase of the crypto wars. While encryption poses challenges for law enforcement, authorities already possess extensive surveillance capabilities and metadata access. Rather than undermining encryption, policy efforts should prioritize strong cybersecurity, transparency around surveillance practices, and an open societal debate on balancing security with fundamental rights.
 
+**Biography:**
+Bart Preneel is full professor heading the COSIC research group at the KU Leuven. His expertise lies in applied cryptography, cybersecurity, and privacy. He has delivered over 150 invited talks across 50 countries and received the RSA Award for Excellence in Mathematics (2014) and the ESORICS Outstanding Research Award (2017). He served as president of IACR (International Association for Cryptologic Research) and is also a fellow of the IACR. In 2024 he was elected member of the Royal Academy of Art and Sciences Belgium. He frequently consults for industry and government about cybersecurity and privacy technologies and he has testified multiple times for the Belgian and European Parliaments. Prof. Preneel founded the mobile authentication startup nextAuth and holds roles in Approach Belgium, Tioga Capital Partners, and Nym Technologies. He is actively engaged in cybersecurity policy debates.
 
 <hr id="yixin">
 <img src="../assets/images/keynote_speakers/yixin_zou.jpg" alt="Yixin Zou" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
 [Yixin Zou](https://yixinzou.github.io/)
 <p style="margin-top:-20px; font-size: 70%;">🇩🇪 Max Plan Institute for Security and Privacy</p>
-<!--
-**Title:** tbd
 
-**Abstract:** tbd
--->
+**Title:** How Much Regulation is Enough? What the Public Thinks About AI and What That Means for AI Governance
+
+**Abstract:** 
+Narratives around AI tend to split into two camps: one sees it as a catalyst for progress, championed largely by AI companies; the other sees it as a source of harm, voiced by critical scholars and regulators. I'll trace this divide through several recent studies from my group: first, how AI companies construct their own narrative of AI safety in public statements; then, how exposing ordinary people to these competing narratives shapes what they come to believe about AI; and finally, what happens when we ask the public directly, revealing a striking gap between how people actually perceive AI risk and how the EU AI Act categorizes it. Together, these studies suggest that the public's own view of AI doesn't map neatly onto either the "AI as progress" or "AI as harm" narrative. Even though the public wants more regulation than the status quo provides, few possess the technical understanding to assess that risk accurately. This leaves us with a puzzle central to this summer school's theme: whose narrative should count in AI governance, and how might that answer shift as we move into the era of agentic AI?
 
 
  
