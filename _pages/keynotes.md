@@ -109,13 +109,15 @@ Bart Preneel is full professor heading the COSIC research group at the KU Leuven
 <hr id="yixin">
 <img src="../assets/images/keynote_speakers/yixin_zou.jpg" alt="Yixin Zou" style="float: left; width: 100px; height: 100px; position: relative; border: 2px solid white; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; overflow:hidden;"/>
 [Yixin Zou](https://yixinzou.github.io/)
-<p style="margin-top:-20px; font-size: 70%;">🇩🇪 Max Plan Institute for Security and Privacy</p>
+<p style="margin-top:-20px; font-size: 70%;">🇩🇪 Max Planck Institute for Security and Privacy</p>
 
 **Title:** How Much Regulation is Enough? What the Public Thinks About AI and What That Means for AI Governance
 
 **Abstract:** 
 Narratives around AI tend to split into two camps: one sees it as a catalyst for progress, championed largely by AI companies; the other sees it as a source of harm, voiced by critical scholars and regulators. I'll trace this divide through several recent studies from my group: first, how AI companies construct their own narrative of AI safety in public statements; then, how exposing ordinary people to these competing narratives shapes what they come to believe about AI; and finally, what happens when we ask the public directly, revealing a striking gap between how people actually perceive AI risk and how the EU AI Act categorizes it. Together, these studies suggest that the public's own view of AI doesn't map neatly onto either the "AI as progress" or "AI as harm" narrative. Even though the public wants more regulation than the status quo provides, few possess the technical understanding to assess that risk accurately. This leaves us with a puzzle central to this summer school's theme: whose narrative should count in AI governance, and how might that answer shift as we move into the era of agentic AI?
 
+**Biography:**
+Dr. Yixin Zou (she/her) is a tenure-track faculty member at the Max Planck Institute for Security and Privacy, where she leads the human-centered security and privacy group. Her research interests span human-computer interaction, privacy, and security, aiming to make technology safer and more equitable for underserved communities. Her research has been recognized with the ACM SIGCHI Outstanding Dissertation Award (2024), the John Karat Usable Privacy and Security Student Research Award (2022), and several best paper and honorable mention awards at top venues such as ACM SIGCHI Conference on Human Factors in Computing (CHI) and the Symposium on Usable Privacy and Security (SOUPS). Her research has also generated broader impacts on public policy, including the rule-making process for the California Consumer Privacy Act. She earned a Ph.D. in Information from the University of Michigan in 2022.
 
  
 <!--
