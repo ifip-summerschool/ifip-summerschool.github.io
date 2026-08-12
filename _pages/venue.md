@@ -33,5 +33,3 @@ Leuven follows **Central European Summer Time (CEST)** during the period of the 
 ##### Electricity
 Belgium uses **230 V / 50 Hz** electricity with **Type C and Type E plugs**. Visitors from countries using other plug types may need an adapter.
 
-##### Tap Water
-Tap water in Belgium is safe to drink.
