@@ -9,11 +9,9 @@ This website is hosted on GitHub via GitHub Pages. GitHub Privacy Statement: [ht
 
 **Contact:**
 
-Meiko Jensen<br>
-Karlstad University<br>
-Universitetsgatan 2<br>
-651 88 Karlstad<br>
-Sweden<br>
+Stefan Schiffner<br>
+Hochschule Bonn-Rhein-Sieg<br>
+Grantham-Allee 20<br>
+53757 Sankt Augustin<br>
 
-Phone: (+46) 76 115 95 75<br>
-E-Mail: [Meiko.Jensen@kau.se](mailto:Meiko.Jensen@kau.se)<br>
+E-Mail: [stefan.schiffner@h-brs.de](mailto:stefan.schiffner@h-brs.de)<br>
