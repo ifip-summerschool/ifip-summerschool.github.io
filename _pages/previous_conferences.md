@@ -13,7 +13,7 @@ permalink: /previous_conferences/
 
 [2022](/archive/2022) - 17th IFIP Summer School on Privacy and Identity Management, Brunswick, <font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Germany (online)
 
-[2021](/archive/2021) - 16th IFIP Summer School on Privacy and Identity Management, Esch-sur-Alzette, <font style="font-size: 50%; vertical-align: middle;">🇱🇺</font> Luxembourg (online) ([original website](http://disi.unitn.it/security/ifip-summerschool2011/index.html))
+[2021](/archive/2021) - 16th IFIP Summer School on Privacy and Identity Management, Esch-sur-Alzette, <font style="font-size: 50%; vertical-align: middle;">🇱🇺</font> Luxembourg (online)
 
 [2020](https://2020summerschoolifip.crocs.fi.muni.cz/) - 15th IFIP Summer School on Privacy and Identity Management, Maribor, <font style="font-size: 50%; vertical-align: middle;">🇸🇮</font> Slovenia (online)
 
@@ -33,7 +33,7 @@ permalink: /previous_conferences/
 
 [2011](/archive/2011) - 7th IFIP Summer School on Privacy and Identity Management, Trento, <font style="font-size: 50%; vertical-align: middle;">🇮🇹</font> Italy ([original website](http://disi.unitn.it/security/ifip-summerschool2011/index.html))
 
-[2010](https://www.cs.kau.se/IFIP-summerschool/) - 6th IFIP Summer School on Privacy and Identity Management, Helsingborg, <font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Sweden
+2010 - 6th IFIP Summer School on Privacy and Identity Management, Helsingborg, <font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Sweden ([original website](https://www.cs.kau.se/IFIP-summerschool/))
 
 [2009](/archive/2009) - 5th IFIP Summer School on Privacy and Identity Management, Nice, <font style="font-size: 50%; vertical-align: middle;">🇫🇷</font> France <!-- [original website](https://www.cs.kau.se/IFIP-summerschool/summerschool2009/index.html) -->
 
