@@ -32,4 +32,3 @@ permalink: /committee/
 
 ## Programme Committee
 *<font style="font-size: 70%;">to be announced</font>*
-
