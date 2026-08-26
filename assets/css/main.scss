@@ -8,9 +8,9 @@
 @import "minimal-mistakes"; // main partials
 
 :root {
-  --digit-main-first: #000000;
-  --digit-main-second: #0033CC;
-  --digit-main-third: #0066FF;
+  --digit-main-first: #712233;
+  --digit-main-second: #263238; // #0033CC;
+  --digit-main-third: #D6A85F; //#0066FF;
 
   --digit-accent-red: #712233;
   --digit-accent-red-light: #B18487;
@@ -23,8 +23,9 @@
 
   --digit-accent-grey: #9D9D9C;
   
-  --primary-color: var(--digit-main-second);
-  --secondary-color: var(--digit-main-first);
+  --primary-color: var(--digit-main-first);
+  --secondary-color: var(--digit-main-second);
+  --tertiary-color: var(--digit-main-third);
 }
 
 /* Navbar Title Color*/

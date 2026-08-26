@@ -5,12 +5,14 @@ toc: true
 toc_sticky: true
 ---
 
-### Program at a Glance
-[![IFIP Summer School 2026 Program](../assets/images/IFIPSC26_program_at_a_glance.png)](../assets/images/IFIPSC26_program_at_a_glance.png)
+*The program will be announced here in due time.*
 
-The full program can be found here: [https://homeassistantav.github.io/Summer-School-Programme/](https://homeassistantav.github.io/Summer-School-Programme/)
+<!--
+### Program at a Glance
+[![IFIP Summer School 2027 Program](../assets/images/IFIPSC27_program_at_a_glance.png)](../assets/images/IFIPSC27_program_at_a_glance.png)
 
 Please check the programme regularly for potential changes! 
+-->
 
 <!--
 ### Presented paper drafts

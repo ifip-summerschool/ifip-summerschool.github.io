@@ -1,7 +1,7 @@
-name: "21st IFIP Summer School on Privacy and Identity Management"
-title: "21st IFIP Summer School"
+name: "22nd IFIP Summer School on Privacy and Identity Management"
+title: "22nd IFIP Summer School"
 title_separator: "-"
-subtitle: "on Privacy and Identity Management (August 10-14, 2026, Leuven)"
+subtitle: "on Privacy and Identity Management (August 9-13, 2027, Sankt Valentin, Germany)"
 description: >- # this means to ignore newlines until "baseurl:"
   Website for IFIP Summer School on Privacy and Identity Management.
 minimal_mistakes_skin: default
@@ -21,9 +21,9 @@ plugins:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/IFIP_PrivacyIdM"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/ifip-summerschool"
     - label: "Privacy Policy"
       url: "/privacy_policy/"
 

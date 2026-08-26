@@ -3,6 +3,10 @@ title: "Important Dates"
 permalink: /important_dates/
 ---
 
+## IFIP Summer School 2027
+*All important dates will be announced here soon.*
+
+
 ## IFIP Summer School 2026
 
 All dates are AoE (anywhere on earth).
