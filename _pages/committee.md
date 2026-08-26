@@ -4,7 +4,7 @@ permalink: /committee/
 ---
 
 ## Programme Chairs
-*to be completed*
+*<font style="font-size: 70%;">to be completed</font>*
 - Agnieszka Kitkowska (<font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Jönköping University)
 - Joana Mazur (<font style="font-size: 50%; vertical-align: middle;">🇵🇱</font> University of Warsaw)
 
@@ -13,7 +13,10 @@ permalink: /committee/
 - Marit Hansen (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> ULD)
 
 ## Steering Committee
+*<font style="font-size: 70%;">to be completed</font>*
 - Simone Fischer-Hübner (<font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Karlstad University) -- Chair
+
+<!-- TO BE COMPLETED & UPDATED
 - Felix Bieker (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> FIZ Karlsruhe - Leibniz Institute for Information Infrastructure)
 - Silvia De Conca (<font style="font-size: 50%; vertical-align: middle;">🇳🇱</font> Vrije Universiteit Amsterdam)
 - Michael Friedewald (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Fraunhofer ISI)
@@ -25,6 +28,8 @@ permalink: /committee/
 - Ina Schiering (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Ostfalia University of Applied Sciences)
 - Stefan Schiffner (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Hochschule Bonn-Rhein-Sieg University of Applied Sciences)
 - Diane Whitehouse (<font style="font-size: 50%; vertical-align: middle;">🇧🇪</font> EHTEL)
+-->
 
 ## Programme Committee
-*to be announced*
+*<font style="font-size: 70%;">to be announced</font>*
+
