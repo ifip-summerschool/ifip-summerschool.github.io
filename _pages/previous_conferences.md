@@ -15,7 +15,7 @@ permalink: /previous_conferences/
 
 [2021](/archive/2021) - 16th IFIP Summer School on Privacy and Identity Management, Esch-sur-Alzette, <font style="font-size: 50%; vertical-align: middle;">🇱🇺</font> Luxembourg (online)
 
-2020 - 15th IFIP Summer School on Privacy and Identity Management, Maribor, <font style="font-size: 50%; vertical-align: middle;">🇸🇮</font> Slovenia (online) <!-- https://2020summerschoolifip.crocs.fi.muni.cz/ -->
+[2020](/archive/2020) - 15th IFIP Summer School on Privacy and Identity Management, Maribor, <font style="font-size: 50%; vertical-align: middle;">🇸🇮</font> Slovenia (online)
 
 [2019](/archive/2019) - 14th IFIP Summer School on Privacy and Identity Management, Brugg/Windisch, <font style="font-size: 50%; vertical-align: middle;">🇨🇭</font> Switzerland
 
