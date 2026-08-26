@@ -19,7 +19,7 @@ supporters:
     title: "IFIP"
 ---
 ## IFIP Summer School 2027
-The 22nd IFIP Summer School on Privacy and Identity Management will take place in Sankt Valentin, Germany, on August 9-13, 2027. 
+The 22nd IFIP Summer School on Privacy and Identity Management will take place in Sankt Augustin, Germany, on August 9-13, 2027. 
 More information will be made available here shortly.
 
 ## IFIP Summer School 2026
