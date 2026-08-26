@@ -28,7 +28,7 @@ All details on the previous edition, hosted at KU Leuven from August 10-14, 2026
 ### Website Updates
 
 | Date | Update |
-| August 14, 2026 | Initial website online. |
+| August 26, 2026 | Initial website online. |
   
 ## Sponsors and Supporters
 [International Federation for Information Processing (IFIP)](https://www.ifip.org)
