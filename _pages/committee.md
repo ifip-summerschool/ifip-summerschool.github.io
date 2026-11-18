@@ -7,6 +7,7 @@ permalink: /committee/
 *<font style="font-size: 70%;">to be completed</font>*
 - Agnieszka Kitkowska (<font style="font-size: 50%; vertical-align: middle;">🇸🇪</font> Jönköping University)
 - Joana Mazur (<font style="font-size: 50%; vertical-align: middle;">🇵🇱</font> University of Warsaw)
+- Boel Nelson (University of Copenhagen)
 
 ## General Chairs
 - Stefan Schiffner (<font style="font-size: 50%; vertical-align: middle;">🇩🇪</font> Hochschule Bonn-Rhein-Sieg University of Applied Sciences)
